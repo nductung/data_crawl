@@ -1,0 +1,9 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1683203879146537,1683177905815801,,andree.lenguyen,Tân Cú,".com hay ,com"
+1683204139146511,1683177905815801,,vunguyen.catpham,Vu Cat,"admin nó block mail từ bên ngoài vào, 1 số đuôi nào đó. nên ông phải bảo admin của cty đó allow access :)))"
+1683204692479789,1683177905815801,,shake.shakehi,Phan Thanh,Sao ko thử lấy mail khác gửi xem ?
+1683211319145793,1683177905815801,,dvchung43,Chung Đinh,Nó ko phải chặn gmail mà nó chặn file đính kèm. Đưa lên google driver hoặc google tài liệu rồi link thì ko bị chặn
+1683554219111503,1683177905815801,,nhutvantrinh,Trịnh Văn Nhựt,kiểm tra lại địa chỉ người nhận
+1683363042463954,1683177905815801,100052291368244,,Toản Bé,"server mail nó có cài đặt gì đó. Nói chung hệ thống email cũ quá mà thế giới vẫn dùng, rất chi là bất tiện và nhiều vấn đề"
+1683365959130329,1683177905815801,,nguyen.hung.ssg,Nguyễn Hùng,"Bình thường, nhiều khi hệ thống email cty nó đang áp các filter hơi mạnh tay, trong thư bạn gửi nếu có các keyword hoặc file hoặc yếu tố nào đó mà các filter nó nhận diện là rủi ro thì nó sẽ reject thôi.
+Giải pháp duy nhất là liên hệ bên cty tuyển dụng trình bày để IT bên đó đưa bạn vào whitelist hoặc nhanh nhất là gửi cho 1 mail ngoài hệ thống."
