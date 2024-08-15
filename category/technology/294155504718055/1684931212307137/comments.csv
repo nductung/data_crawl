@@ -1,0 +1,35 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1685632382237020,1684931212307137,,dangworstruong,Đặng Trường,"Chả phải mà nta đẻ ra optimus với advanced optimus
+Cái việc xuất thẳng qua dgpu nó giúp cho hiệu năng máy boost rõ rệt luôn, này chẳng cần bàn cãi
+Bác bật igpu lên thì nó có giữ đc thêm ít điện nma cũng không quá đáng kể, nthe thì thà để full hiệu năng còn hơn đỡ phải nghĩ nhiều"
+1685624825571109,1684931212307137,61550243344046,,Best Leesin,"bật nên khi làm việc sẽ mạnh hơn, tại nó chạy 2 card luôn"
+1685626032237655,1684931212307137,,rosespham1812,Phạm Cừ,"Em thì hay vừa dùng vừa cắm sạc vì bọn Lenovo nó có cái conservation mode, với cả cắm sạc vào máy nó mới chạy hết hiệu năng. Nhưng thấy có nhiều bên bảo tắt card on đi thì laptop sẽ nóng hơn do card rời chạy nhiều hơn, rồi là nhanh hỏng quạt tản,... lú quá các bác ơi.
+Ngoài các tác vụ văn phòng, đa phần em sẽ dùng lap để edit video trên Pr, Ae, Captut, Ai, chơi 1 số game như liên minh, genshin thôi ạ"
+1685628092237449,1684931212307137,,Dongphuongkyanhh,Đông phương kỳ anh,"K phải là nên hay k nên. Tùy nhu cầu sd, và tình huống sd. Có vga để dùng chứ k phải để disable"
+1685632052237053,1684931212307137,,duynam03,Duy Nam,"hồi trc t nhớ là card onboard làm gì trong lúc render ý, ncl cứ để chứ cx chẳng cần tắt đi làm gì đâu"
+1685658055567786,1684931212307137,,huy0807,Huy Bùi Thanh,"Đọc để biết thêm thông tin thôi. Cpu chạy cũng có lúc, nhiều lúc nó chỉ cần igpu để giải quyết một số vấn đề tính toán nhanh ít tốn thêm pin thôi. Nếu tắt đi nó sẽ tốt cho CPU nhưng chỉ khi cắm điện vào.
+Nếu dùng egpu thì nó hoạt động nhanh nhưng tổn hao nhiều thôi. Đặc biệt là các pin thủ."
+1685652932234965,1684931212307137,,dangbachtan,Đặng Đăng,"tắt mấy năm rồi thế cho vuông , đang làm việc nặng máy vẫn không chịu nhảy qua.
+Còn bảo sợ xuống linh kiện thì đóng con máy khỏi xài , laptop giỏi lắm 4-5 năm , card rời chưa hư thì mấy thằng kia nát hết cũng vậy"
+1685621195571472,1684931212307137,,ryo.hungh,Ryo Hung,mua mẹ con PC mà xài cho đỡ đau đầu tắt với ko tắt :))) sau 5năm thì laptop ở VN rã lắm
+1685632778903647,1684931212307137,100038682230267,,Thái Tuấn,"Nói chung là tùy trường hợp, có trường hợp nên và không nên"
+1685623512237907,1684931212307137,,dvt2502,Dương T. Vũ,"Vào device manager nếu thấy disable được thì disable, còn k thì thôi.
+Mà mình cũng k hiểu enable hay disable card onboard thì có thể làm đc gì nhỉ?"
+1685655218901403,1684931212307137,,chien3032002,Nguyễn Đức Chiến,tắt đi chơi game fps cao =)) mình dùng legion 3 năm r thì cả 3 năm con igpu chỉ được bật để cập nhật driver AMD
+1685639742236284,1684931212307137,,dinhtrungnguyen69,­­­­­­­­­­­­­­­­­­­­­Nguyễn ­­­­­­­­­­­­­­Trung,"Theo em hiểu thì đơn giản là khi bác gọt hoa quả thì bác vác dao to ra vẫn gọt được nhưng hơi thừa, hay là thái thịt mà lấy dao nhỏ thì khó gần như không thể. Card cũng vậy bác bỏ card onboard toàn thời gian thì những lúc xem video lướt web vẫn bắt card rời dùng thì lãng phí quá. Còn về chuyện như chơi game tầm trung hoặc đồ họa nhẹ mà nó vẫn nhận card onboard dẫn tới hiệu suất kém thì em bị rồi, lúc đấy bác chủ động tắt card onboard đi xong việc bật lại là ổn"
+1685650468901878,1684931212307137,100011677880236,,Khac Pham,"App nào hay dùng cần hiệu năng thì gán nó vào, còn lại cứ auto cho nhẹ đầu.
+Mấy con cũ quá thì không có mux, tât hay bật nó cũng qua iGPU cả. Còn mấy con có Mux thì nó cũng thông mình lắm rồi, ít khi cho card rời nằm không lắm. Bọn có Optimus thì khoẻ nữa"
+1685652168901708,1684931212307137,,khi.con.927,Huy Lâm,"Chuyện kĩ thuật máy tính mà lên quora đọc thì ko thông đúng rồi =)))) ông nghĩ cái cờ hoa gì vậy :v
+Quora là chỗ chuyên tư vấn/nói chuyện theo kiểu nói ko ra vấn đề gì cả, cái cốt của nó chỉ là chia sẻ thông tin và yêu cầu bạn nghĩ về thông tin đó thôi
+Muốn tìm câu trả lời thì ít nhất lên reddit đi trời@@"
+1685624315571160,1684931212307137,,lizziekute9x,Hung Nguyen,Tuỳ nhu cầu chứ. Đem ra đường chạy pin thì cứ chạy card onboard. Cắm điện thì card rời mà dùng thôi.
+1685631315570460,1684931212307137,,dangworstruong,Đặng Trường,"Có, rất có"
+1685651998901725,1684931212307137,,degel2113,Nguyễn Cường,"Tắt đi, dùng thử 1 tuần, thấy ok thì để đấy ko thì bật lại. Nó có hỏng đâu mà phải đọc mãi không thông"
+1685651902235068,1684931212307137,,tungdev.vn,Tùng,Rảnh vl thề
+1685646542235604,1684931212307137,,clayspenser47,Mike Durant,"em hỏi ngu tí các bác, lap em ko có mux switch hay optimus. Nếu tắt card onboard đi thì hình ảnh từ card rời generate ra có phải chui qua igpu nữa không nhỉ"
+1685660158900909,1684931212307137,,tyt.to.3,Nguyễn Tuấn Tú,"Sao phải khổ thế, mình mất tiền mua mà"
+1685643758902549,1684931212307137,,ban.kiet.775,Ban Kiet,"Không, tốn điện hơn, card rời chạy nhiều hơn đi giảm tuổi thọ của nó nữa."
+1685661802234078,1684931212307137,,hoangphan7,Hoàng Phan,Lap nó tự switch tùy tác vụ. Cần gì phải tắt vs bật
+1685649398901985,1684931212307137,,hoangminh.fb,Minh Nhí,Kệ nó đi bạn quan tâm làm chi. Render laptop thì cắm sạc vào mà xài. Xài thiết bị sao mà nó phục vụ mình ý :))
+1685635545570037,1684931212307137,,ngocanh16211,Ngọc Anh Trần,rảnh vc thề :))
+1685631598903765,1684931212307137,,manh.do.epu,Manh Do,"Thôi thì cứ bật cả 2 xong để Auto cho máy nó tự chọn, chứ ngồi chọn đau hết cả đầu :v"
