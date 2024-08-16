@@ -1,0 +1,6 @@
+﻿post_id,user_id,user_name,fullname,content
+1686159828850942,,hg.darksun,Hg Darksun,"Test full load với cinebench trên Ryzen 5 5600H của con lap victus 16 :v
+- Test 1: Tắt Processor Performance boost, tầm 3.3MHz chạy ổn định với 78 độ và ăn tối đa 30W điện.
+- Test 2: Bật Processor Performance boost, lên được tầm 3.8 MHz nhưng 100 độ (throttle), ăn max tầm 52W điện.
+- Test 3: Giống test 2 nhưng mà limit nhiệt ở 85 độ, lên được 3.45 MHz, ăn khoảng 35W điện.
+Này chứng tỏ con Victus tản khá kém đúng không mn?"
