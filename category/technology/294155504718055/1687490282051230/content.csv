@@ -1,0 +1,2 @@
+﻿post_id,user_id,user_name,fullname,content
+1687490282051230,,tuaanshuuys,Lê Nguyễn,"Chào các bác, hiện em đang có 2 con router wifi, 1 con router gốc của Viettel còn con router phụ của FPT, mà hiện tại em đang có vấn đề là khi kết nối tới wifi của con Router con thì có hiện thông báo lỗi như này, khi em check địa chỉ ip của máy thì có vẻ như là thuộc vào range của DHCP Server của con router gốc, trường hợp này xảy ra cả khi bật và tắt DHCP trên router con ạ. Bác nào rành phần này bắt bệnh giúp em với ạ, em cảm ơn !"

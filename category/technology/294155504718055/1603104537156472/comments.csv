@@ -1,0 +1,14 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1603709180429341,1603104537156472,,Transparent.Things,Прозрачные Вещи,"Chặn MAC giờ ăn thua gì với các thiết bị di động mới, vì nó có chế độ nhảy MAC ngẫu nhiên. Nếu thiết bị có chế độ chặn sách trắng (White list) thì mới được"
+1604590297007896,1603104537156472,,thuancoihg,Trần Đức Thuận,bạn tả thử vì sao bạn cần chặn MAC để anh em tư vấn. Chứ giờ điện thoại với máy tính đổi MAC được hết mà nên chặn MAC không ăn thua đâu
+1603384473795145,1603104537156472,,Ctonv,Công Tồn Võ,Đặng Quốc Bảo Anh liên hệ bạn này chặn hay lắm
+1604296220370637,1603104537156472,,lhqthinh,Lê Thịnh,"giờ các điện thoại có phần nâng cao, dùng smart MAC nhằm tăng bảo mật, mỗi lần connect là tự động generate ra MAC mới, nên ông chặn k được đâu, trừ khi ông dùng đt của họ rồi set về dùng physic MAC thì MAC ông đưa vào filter (white list/black list) mới có tác dụng. Mà với người rành cái này thì họ vào bật lại cũng như không :)))"
+1603536697113256,1603104537156472,,mouse9x,Tuan Cam,bác chụp e xem mã gì
+1603581007108825,1603104537156472,,vanhop.ha.71,Hà Văn Hợp,"Mình làm rồi ,ko có hiệu quả, hay là nó chỉ hiệu quả một số điện thoại thôi ấy"
+1603981527068773,1603104537156472,100022120482227,,Nhu Y Nguyen,"E muốn chặn tiktok , face hay j j trên router thì chặn như nào các b nhỉ?"
+1604296457037280,1603104537156472,,lhqthinh,Lê Thịnh,"Cho nên cách hiệu quả nhắt là ông dùng white list, ai được add MAC thì mới connect được, còn ngoài list thì ở chuồng gà hết"
+1687602922039966,1603104537156472,,tiepnguyen8x,N.Đ.T Tiệp,"E dùng modem F P T
+AC 1000 HL
+e cắm 4 dây lan ra 4 bộ phát wifi
+E muốn khoá Mạng lan của bất kỳ cổng nào.
+Thì phải làm như nào ạ"
