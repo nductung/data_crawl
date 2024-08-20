@@ -1,0 +1,17 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1688514298615495,1688194451980813,,lovegamehp,Phạm Nghĩa,"bác thử mò phần wake on lan, erp gì gì đấy xem, còn không thì lấy băng dính điện dán vào :v"
+1688521111948147,1688194451980813,,dedu.vuonggia.9,Vương Gia Dễ Dụ,"Để tắt đèn cổng mạng LAN khi tắt máy tính trên bo mạch chủ TUF Gaming B760M Plus, bạn có thể thực hiện theo các bước sau:
+
+Truy cập BIOS:
+Khởi động lại máy tính và nhấn phím Delete hoặc F2 liên tục trong quá trình khởi động để vào BIOS.
+Tìm tùy chọn quản lý năng lượng cho cổng LAN:
+Trong BIOS, tìm đến mục Advanced hoặc Power (tùy theo giao diện BIOS của bạn).
+Tìm tùy chọn liên quan đến việc quản lý năng lượng của cổng mạng LAN. Tùy chọn này có thể được gọi là Power On by PCI-E/PCI, Wake on LAN, hoặc ErP Ready.
+Tắt tùy chọn Wake on LAN hoặc kích hoạt ErP Ready:
+Nếu bạn thấy tùy chọn Wake on LAN, hãy chọn Disable.
+Nếu có tùy chọn ErP Ready, bạn có thể kích hoạt (Enable) nó. Chế độ này sẽ tắt hầu hết các thành phần không cần thiết khi máy tính tắt, bao gồm cả đèn cổng mạng LAN.
+Lưu và thoát:
+Sau khi đã chỉnh sửa các tùy chọn, nhấn F10 để lưu lại và thoát BIOS.
+Thực hiện các bước này sẽ giúp đèn cổng mạng LAN tắt khi bạn tắt máy tính. Nếu bạn không tìm thấy các tùy chọn này, hãy tham khảo sách hướng dẫn của bo mạch chủ hoặc thử cập nhật BIOS lên phiên bản mới nhất."
+1688511571949101,1688194451980813,,iam.gnouhpneyugn,Ami Gnouhp Neyugn,chột cháy led đc ko nhỉ?
+1688566145276977,1688194451980813,,welcom1985,Thịnh Vũ Đức,Sao không rút dây nguồn pc?
