@@ -1,9 +1,0 @@
-﻿comment_id,post_id,user_id,user_name,fullname,content
-1687793385354253,1687368255396766,100087105421830,,Trần Thị Bích Trâm,"1. Dùng win Tiếng Việt là dở rồi
-2. Phần data còn lại trên Cloud, như One Drive chẳng hạn"
-1687783392021919,1687368255396766,,dao.xuan.hung.175,Đào Xuân Hưng,"Tại nó nhiều file nhỏ quá. Mỗi file khi ghi xuống sẽ đc cấp cho 1 số lượng khối có kích thước 4KB, 8KB hoặc thậm chí 16. Nhưng nếu 1 file chỉ có vài byte thì nó vẫn chiếm ít nhất 1 khối vài KB. Kích thước trên đĩa là số byte file đó sử dụng còn kích thước lại tính theo số lượng khối"
-1687785868688338,1687368255396766,,mezzazzy,Cheoh Lie,"Vì nó đang trên cloud và mới sync 1 phần, chắc trong folder onedrive hay dropbox ấy gì"
-1687790598687865,1687368255396766,100039897697222,,Phạm Tiến Dũng,app data xoá bớt đi
-1687861665347425,1687368255396766,,tuanvietkeynet,Đoàn Tuấn,"Mình hiểu hiểu nôm na là nó chiếm dụng bao nhiêu bề mặt dung lượng đĩa trên ổ đĩa kể cả đã nén (định dạng ntfs, ex4 …đc nén sẵn),
-
-Con lại được hiểu là kích thước thực của các tệp và thư mục khi chưa bị nén. (Không phải kích thước các sector của ổ đĩa)"
