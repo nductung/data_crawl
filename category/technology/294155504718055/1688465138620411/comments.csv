@@ -1,6 +1,0 @@
-﻿comment_id,post_id,user_id,user_name,fullname,content
-1688546728612252,1688465138620411,,lee.hwong.xing,Lê Quang Vinh,"thêm code cho menu ngoài, khi loop trong xong, ra ngoài thì hỏi còn làm tiếp không, chọn N thì exit/break, còn mặc định clear screen rồi loop lại"
-1688530185280573,1688465138620411,,Haloxes,Vie Hoang,Chịu
-1688523241947934,1688465138620411,100038682230267,,Thái Tuấn,Ctr+c ko đc à
-1688530238613901,1688465138620411,,tuanngocchinbar,Tuấn Ngọc,"Em cũng mở mấy file lua cũng có mấy quả nhìn điếng hết hồn.
-Cứ if với then rồi lại elseif😥😥😥"
