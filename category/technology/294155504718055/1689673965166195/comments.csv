@@ -1,0 +1,27 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1689756148491310,1689673965166195,,pqtsoft,Phạm Thắng,Login via social giờ nó giới hạn permission lắm chứ ko như cách đây chục năm trước đâu. Với lúc login nó cho preview là cấp những quyền gì mà. Trừ basic info ra còn lại thấy truy cập thêm các thứ khác thì từ chối thôi.
+1689757245157867,1689673965166195,,quanghuy.vunguyen.790,Vũ Nguyễn Quang Huy,Thế phải đăng nhập bằng cj
+1689753951824863,1689673965166195,100035069407503,,Truong Anh,Hónggg
+1689789088488016,1689673965166195,,nhoc.haki,Huỳnh Lê Hiếu,Ủa mấy bác đọc bài này chưa hay chỉ đọc tiêu đề vậy. Bài đó nó nói đăng nhập bằng SSO thì khi rủi ro cái tài khoản gốc đó bị mất thì sẽ mất toàn bộ tài khoản mà?
+1689754501824808,1689673965166195,,nguyen.quang.dai.dx,Nguyễn Quảng Đại,Đọc cái quyền truy cập của cái login ấy
+1689761435157448,1689673965166195,,phathung.nguyen2807,Hưng Phát,"dùng acc clone được mà, gg fb clone là dễ"
+1689756958491229,1689673965166195,,tranduyhau,Trần Duy Hậu,đúng là đừng nên dn bằng google hay fb vì lỡ tk gg bị vô hiệu hoá là khả năng lỏ luôn cái tk trên web kia
+1689755341824724,1689673965166195,,Kendz256,Phạm Năng Hưng,Chấm hóng ké 🤓
+1689755158491409,1689673965166195,,vuduykaz,Vũ Duy,chấm
+1689755118491413,1689673965166195,,vuduykaz,Vũ Duy,chấm
+1689758568491068,1689673965166195,,ducdungbigmoney9x,Trần Đức Dũng,chấm
+1689783318488593,1689673965166195,,ThichTieuThien,Thích Tiểu Thiên,"Chả sợ :3
+Có cả trăm nick google, thích lấy cái nào thì lấy :3"
+1689754075158184,1689673965166195,,fuyrne,Ngưỡng Ánh,Chấm phát chiều quay lại đọc. =))
+1689848968482028,1689673965166195,,son.cosc,Nguyễn Hồng Sơn,SSO thì mình cứ xem permission đã rồi hẵng đồng ý
+1689763298490595,1689673965166195,,rafugus,Đặng Thái An,"lần đầu nghe ấy =)), provider khác thì không biết chứ mình có dùng qua Firebase OAuth với Strapi thì nó chỉ gửi về cookies với thông tin tài khoản thôi"
+1689772631822995,1689673965166195,,jackiecheng238,Chính,"Không có sao đâu, các ông cứ lo hão. Tôi làm SSO rồi, cả fb, cả gg, cả với một vài doanh nghiệp cũng thuộc dạng sừng sỏ ở VN. Tất cả các cổng sso đấy nó sẽ kiểm soát vấn đề authen và chỉ trả về cho nền tảng một lượng thông tin vừa đủ để nền tảng thực hiện xác thực ở trên nền tảng, chứ không thể dùng thông tin đó để xác thực ở cổng sso. Không có chuyện cổng sso họ làm lộ ra thông tin tài khoản của user để nền tảng ngoài lấy được đâu."
+1689799961820262,1689673965166195,,quan.nguyenviet.902604,Viết Quân,mất an toàn 🤣🤣😂
+1689755228491402,1689673965166195,,9owlsama,Huy Hoàngg,đăng nhập mà nó bảo nhập tk mk thì 100% là giống như báo
+1689762768490648,1689673965166195,,umi.warrior,Nguyen Pham Nguyen,"Dùng đăng nhập mấy trang bậy bạ như x đồ á, cái nào trả tiền, quan trọng thì mình dùng username/password hết"
+1689890361811222,1689673965166195,,Rockman9x,Dương Hùng Nguyễn,"Thật ra có một vấn đề duy nhất, khi chọn đăng nhập bằng fb hoặc google thì hiển nhiên khi 2 thằng đó lỗi thì cũng không đăng nhập vào được luôn. Hoặc trường hợp nhọ hơn là bị ban nick fb hoặc google. Còn đăng nhập trực tiếp bằng e-mail thì vô tư, không sao hết."
+1689766001823658,1689673965166195,,hieu.di.cc,Strong Hann,"Theo như kinh nghiệm gà mờ của tôi và các bậc tiền bối siêu cấp vip pro đi trc thì cứ lập acc riêng rồi login cho an toàn. Đúng là login bằng gg hay fb thì nó tiện và nhanh, nhưng login bằng cách đấy mà vô web fake hay mấy web tào lao thì có khả năng bay tk cao hơn là lập acc riêng r connect link gg or fb gì đấy. Còn nữa nhưng thấy ảnh có nd kia và bác kia kêu xác nhận nên tôi chỉ nói tới đây hihi😅"
+1690017205131871,1689673965166195,,thienlv1412,Lê Văn Thiên,"Ko lộ gì cả, nhưng mà các site social mà bị sập thì hơi phiền (Giống như fb thỉnh thoảng sập vài tiếng). Cứ email cho chắc cú."
+1689755098491415,1689673965166195,,toujo.aja,Phạm Đình Thắng,.
+1689755225158069,1689673965166195,,bagiodemvanngoicuoi,Nam Dinh Doan,.
+1689754928491432,1689673965166195,100041801259380,,Do Thuat,.
