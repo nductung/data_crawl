@@ -1,0 +1,40 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1691740304959561,1691481084985483,100007633146551,,Nguyễn Trung,"Tôi đang dùng gói 1G fpt đây, tất cả 4 cổng LAN full 1G và ko có chuyện wifi mới lên 1G như các ông kia nói. Do dây của bạn, bạn mua dây cat6 loại đúc về cắm vào, check trong phần duplex xem có để ở 1G không"
+1691802581620000,1691481084985483,,vietdan.it,Lê Việt Đan,"Card 2.5GBit, Lan AX201.
+Nghĩa là con máy này mới chứ ko hề cũ mà mấy bác bảo do card :))
+Cái này nếu port 2 bên đủ rồi thì check dây đi."
+1691726758294249,1691481084985483,,HuaTranAnhHuy,Anh Huy,Bác xem cắm đúng cổng 1000 trên router chưa.
+1691788244954767,1691481084985483,,vddvanducdien,Văn Đức Điền,"cat 5e đủ đk
+modem nhà mạng đủ đk
+card mạng của main bạn không đủ đk, thay card mạng khác là xong"
+1691792794954312,1691481084985483,,doanducnhat96,Đoàn Nhật,"nhà em cũng bị, kĩ thuật xuống vẫn ko fix được, còn wifi thì lại bình thường, chả hiểu kiểu gì, trong khi trước đấy dùng 1gb phà phà, từ lúc đổi cục modem của nhà mạng là bị giới hạn 100"
+1691812818285643,1691481084985483,,Kazeha247,Kazeha Algothim,Chỉnh lại trong router hoặc windows auto negation hoặc có định 1Gbps
+1691740328292892,1691481084985483,,tvtkhoi,Thụy Khôi,"coi lại trên router nha, bên fpt nó quăng cho mấy con ac đời cũ thì cổng của nó chỉ có 100mbps thôi, gọi nó xuống hỗ trợ đổi cho, chứ mấy main phổ thông bây giờ có cổng LAN 1Gbps hết rồi"
+1691748248292100,1691481084985483,100008255194374,,Linh Hin,Em giống y như bác. Cậu chuyện băng thông ko phải nó bịp mà cổng lan trên main của máy em chỉ hỗ trợ max 100mnps. E phải nâng lên card lan rời. Speed test tham khảo lên được loanh quanh 900 bác ạ
+1691902104943381,1691481084985483,,hoangnam0609,Hoàng Nam,Cáp phải đủ 8 sợi đều thông. Nếu 1 sợi không thông thì bác vẫn dùng bình thường nhưng chỉ max 100Mbps thôi
+1691717864961805,1691481084985483,,moc.duong.2903,Mộc Dương,Do dây hoặc do input lan của main hoặc card ethernet chỉ nhận dc thế thôi
+1691767451623513,1691481084985483,,trunks2010,Ngọc Tùng,Check lại dây vs card đi bạn. Hiện tại modem nhà mạng cổng LAN 1G cả rồi. Vấn đề là bạn dùng gói nào ko quan trọng :)))
+1691822421618016,1691481084985483,,nguyenphucthien2k2,Nguyễn Phúc Thiện,Cái 90% là do windows nhé... Bạn thử restart xong speed test xem nó có nhảy lên 1000Mb không
+1691850431615215,1691481084985483,,nguyenthevinhbk,Nguyen Vinh,"Dây cat5e, switch gigabit, cổng mạng gigabit, dây bấm đúng kỹ thuật"
+1691815881618670,1691481084985483,,Tien2nx,Tien Nguyen,Check setting windows chưa nhỉ
+1691815764952015,1691481084985483,,Tien2nx,Tien Nguyen,Check setting windows chưa b?
+1691872141613044,1691481084985483,,thuancoihg,Trần Đức Thuận,Vào modem xem có bị đặt giới hạn tốc độ của port không
+1691828181617440,1691481084985483,,huyvu.pham.395,Vũ Phạm,"cat6 , mạng doanh nghiệp ở cty đây :))) thay dây là ok :)))"
+1691772638289661,1691481084985483,,VietHQ.138,Hà Quốc Việt,"Cục mesh model ax3000cv2, có 3 cổng. e cắm đúng dc cổng 3, 2 cổng kia cắm ko có mạng. Card máy thì lên dc 2gb :((("
+1691764908290434,1691481084985483,,thanhsonlg,Nguyễn Thanh Sơn,"do dây, do card lan."
+1691745731625685,1691481084985483,,hoailinh.tran.984,Trần Hoài Linh,"xem lại cổng trêm main, router"
+1691756208291304,1691481084985483,,Ansex1609,An Vương,Xem modem và router có cổng 1gbps k bác
+1691778064955785,1691481084985483,,khiempd.sr,Phạm Duy Khiêm,"Em lắp cả LAN và card wifi 6. Thì thấy wifi băng thông cao nhưng ổn định không bằng LAN, down game file toàn bị giới hạn xuống 30-40mb/s, dùng LAN thì ổn định 80-90mb/s"
+1691767551623503,1691481084985483,100011677880236,,Khac Pham,"Kiểm tra từ modem đến dây đến cổng mạng PC. Thiết bị gì, hỗ trợ bao nhiêu Mb, cắm cổng nào...chứ chỉ dựa vào cái hình thì chịu thua"
+1691753288291596,1691481084985483,,ngoccuong260393,Nguyen Cuong,"Có 2 cái
+1 là do card mạng chỉ nhận 100mbps
+2 là thử thay cáp kết nối, nếu muốn 1G thì cứ chơi CAT6 cho chắc nhé"
+1691811031619155,1691481084985483,100006714648737,,Thất Phương,do đây hoặc router nhé
+1691769378289987,1691481084985483,,zkull96,Gấu Nhồi Boom,này do thiết bị bác nhé
+1691734581626800,1691481084985483,,pandatnut,Vũ Minh Nghĩa,Kiểm tra lại card mạng của máy tính nhé. Đang hỗ trợ có 100mbs kìa. Check xem nó đang có mấy cái chân tiếp xúc. Nếu đủ thì cài lại driver
+1691721528294772,1691481084985483,,khi.con.927,Huy Lâm,"1: là do bác cắm cổng lan hiện tại nó là lan 100mbps tối đa chứ ko phải cổng 1gbps
+2: là do cục mạng nhà bác ko có cổng lan 1gbps
+Nhưng tôi khuyên thật nếu bác dùng laptop và wifi ko bị cách tầng kiểu cục ở tầng 1 và lap ở tầng 2 thì nên dùng wifi thì nhanh hơn đấy
+Từ đời wifi6 dùng mạng 5Ghz mà bắt sóng tốt thì cũng một chín một mười với ethernet về tốc độ rồi"
+1691721778294747,1691481084985483,,o0oJelyo0o,Minh Hoàng,Bấm lại dây nha bác. Xem cổng trên router nữa cắm đúng cổng 1000 chưa
+1691888158278109,1691481084985483,,soigia.codoc1,Nguyễn Hiếu,Xem bấm thông đủ 8 sợi chưa?
