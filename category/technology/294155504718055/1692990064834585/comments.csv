@@ -1,0 +1,8 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1693924128074512,1692990064834585,,thinhtitt,Vũ Đức Thịnh,Dính quả panic full với reset counter cũng căng
+1693926384740953,1692990064834585,61561811666644,,Minh Phiên,bác dùng máy gì thế
+1693938838073041,1692990064834585,,ybstapr.21,Đức Trí,"máy của thím dính Pressure Queue Blocked rồi, Pressure Queue Blocked liên quan tới quản lý tài nguyên của hệ điều hành, đặc biệt là các hàng đợi xử lý bị tắc nghẽn. Nếu lỗi thường xuyên xảy ra thì là do phần cứng rồi, như bộ xử lý hoặc bộ nhớ, này ra thợ thì chắc phải thay mạch logic là ổn, em chỉ đọc log rồi nêu ý kiến, mấy bác đi qua gạch đá nhẹ tay ạ 😅"
+1694148164718775,1692990064834585,,NgocPhuong.Computer,Ngọc Phương,AOP kiểm tra ổ cứng
+1693962011404057,1692990064834585,100085221994678,,Trần Hưng,"nhìn quả panic full làm em rén quá, check vội"
+1693907484742843,1692990064834585,,Kiencoffeeholic,Nguyễn Trung Kiên,"Máy thím đang có hiện tượng đang 60~80% thì sập nguồn, không khởi động lại được phải k?"
+1693912144742377,1692990064834585,,hieubui0106,Hiếu Bùi,"Con này theo khả năng chém gió của em thì nó là con cảm biến ở cụm loa trên, chắc fuba đi mưa để nước nó lọt vào gòi, ko hết nữa thì thay nốt cục rung khác, nchung bệnh của fuba ko nằm ở phần mềm mà nó liên quan tới phần cứng, ko quá nghiêm trọng nhưng cần gặp đúng thợ chuyên sửa phần cứng là đc ạ"

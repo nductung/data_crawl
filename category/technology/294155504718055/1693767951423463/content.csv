@@ -1,0 +1,6 @@
+﻿post_id,user_id,user_name,fullname,content
+1693767951423463,100004249119149,,ĐểGió CuốnĐi,"#hoidap #thacmac
+Xin phép ad và các bác, có bác nào chuyên tự động hoá và hiểu về bộ điều khiển nhiệt độ này không ạ, cho em hỏi tý ạ, model : TK4S.
+Hiện tại em đang sử dụng bộ này để cài cho quạt thổi hơi và lò sưởi. Khi đạt nhiệt độ 120 độ sẽ ngắt lò sưởi ( AL1, AL2 vẫn chạy) và nhiệt độ giảm về 70 độ sẽ ngắt quạt thổi hơi AL2. Nhưng em mới chỉ làm được nó lại ngược là :
+Dưới nhiệt độ thực tế, khoảng 30 độ nó chạy và trên 120 độ nó chạy. Hoặc đúng 120 độ nó dừng, trên dưới nó lại chạy.
+Em xin các cao nhân cho em cách cài đặt theo ý muốn là : bật công tắc cả 2 chạy bình thường, khi nhiệt độ trong lò đạt 120 độ thì lò sưởi sẽ tắt, quạt vẫn chạy, khi nhiệt độ về 70 độ thì sẽ tắt quạt ! Vì tìm trên youtube và mạng thì không có ạ. E xin hậu tạ !"
