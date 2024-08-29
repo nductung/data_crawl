@@ -1,0 +1,4 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1695703974563194,1695665787900346,,moc.duong.2903,Mộc Dương,"Nó có check ảnh lưu trong ổ máy nhé , nếu nó hiện mũi tên lên là đang tải . Nó hiện đám mây gạch chéo là ở trên máy không được up , có 1 số ảnh muốn lưu nhưng do k đủ perm nên nó chỉ quét ở ổ chứ k lưu"
+1695702671229991,1695665787900346,,quacachua,Phùng Quyết Thắng,"Bạn đang nhầm lẫn chức năng lưu trữ và chức năng đồng bộ.
+Đồng bộ thì xóa 1 chỗ là xóa hết."
