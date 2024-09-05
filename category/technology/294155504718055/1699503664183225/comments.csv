@@ -1,0 +1,5 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1699527067514218,1699503664183225,,thanhtung.le.9231712,Thanh Tùng,Bác cấu hình con asus chưa
+1699527837514141,1699503664183225,,vuhuypc,Huy Vũ,Cắm lan vào máy tính setup đã
+1699546967512228,1699503664183225,,nhutvantrinh,Trịnh Văn Nhựt,cắm LAN và port XANH con Asus và chọn Router mode trong Conf
+1699535410846717,1699503664183225,,hitech.duong,Trịnh Dương,"Cắm lại sang Asus thì bạn phải khai báo PPPoE lại nhé, nó ko tự động nhận đâu"
