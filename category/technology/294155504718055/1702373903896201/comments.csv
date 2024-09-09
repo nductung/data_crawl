@@ -1,0 +1,9 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1704159723717619,1702373903896201,,minhpb2004,Minh Phùng,Truy cập vào ssh chứ trình duyệt ko xem đc file php đâu
+1704157473717844,1702373903896201,,DQ1701,Đăng Quang,ip private ? bác có thực sự nắm quyền ssh không đó ?
+1704168333716758,1702373903896201,,creyt.2012,Nguyễn Thành Biên,":)))))
+Bạn có chắc là bạn làm trong nghành IT không? :))))
+Đến cái private trên máy chủ của mình không xem file được xong lại hỏi không ssh được, ủa alo?"
+1704183333715258,1702373903896201,,nvtuan1100,Nguyen Van Tuan,"Em cảm ơn các bác, em đã tìm được cái cần tìm :D"
+1704176283715963,1702373903896201,,nvtuan1100,Nguyen Van Tuan,"Em dùng wincps nối vào đc r mà mò hết các thư mục ko thấy mấy file cần tìm, thư mục www\wwwroot các thứ cũng trống"
+1704149473718644,1702373903896201,,nguyentienquan,Nguyễn Tiến Quân,thì phải tìm trong thư mục www chứ
