@@ -1,0 +1,6 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1705415870258671,1704914963642095,100045305498588,,Phần Mềm Kỹ Sư,B cài lại thử Autodesk ODIS mới nhé
+1705226756944249,1704914963642095,,pauz19,Phạm Hoàng Bảo,"bạn vào C:\Program Files\Autodesk\AdODIS\V1 tìm cái RemoveODIS.exe xong chạy admin để xoá nó
+rồi vào %userprofile%/AppData/Local/Autodesk/ODIS (userprofile b thay bằng tên profile của b) vào đó và xoá nguyên cái folder ODIS đi
+rồi tải file ODIS mới trên gg và chạy admin
+xong bạn cài lại Inventor thử nhé"
