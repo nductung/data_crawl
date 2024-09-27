@@ -1,0 +1,6 @@
+﻿post_id,user_id,user_name,fullname,content
+1717831099017148,,truongct,Liam Cheung,"Mong mọi người đóng góp ý kiến giúp em chọn option tối ưu chạy máy ạ. Thường em hay mở giả lập Bluestack để chạy android trên laptop và song song giải quyết công việc hằng ngày như mở file tài liệu văn bản, web Chrome ...Ban đầu mở máy lên thì mọi ứng dụng chạy khá nhanh sau đó chừng 2-4 tiếng sau ì ạch lắm phải tắt mọi app đi mở lại mới chạy bình thường. Nên em nghĩ là hiệu chỉnh trong Nvidia Control Panel và Option của Giả lập Bluestack em chọn chưa đúng mức tương ứng ạ :
+1) Nvidia Control Panel thì em chọn ""Let the 3D Application decide"" chứ không chọn ""Use the advance 3d image setting"" hoặc loại 3 là dùng thanh trượt về Performance / Quality
+2) Trong mục Graphic của giả lập Bluestack em không biết nên chọn cái nào giữa 3 lựa chọn : OpenGL, DirectX,Vulkan nên để mặc định như lúc app install là OpenGL., có đánh dấu cho dùng dedicated GPU card Nvidia.Bộ nhớ dùng 2GB mỗi cửa sổ vẫn đơ sau 1 lúc nên giảm còn 1GB.
+Mong mọi người góp ý để em chỉnh app cho nhẹ máy. Thanks.
+#GiaLapAndroid #nvidia #setting #toiuu #phanmem #Bluestack #grahic #memory"

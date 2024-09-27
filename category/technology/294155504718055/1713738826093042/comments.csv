@@ -1,0 +1,9 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1717764429023815,1713738826093042,100038682230267,,Thái Tuấn,"Có lẽ video dùng encode AV1 mà gpu nó ko decode đc AV1, cái hiệu ứng này y hệt cho gpu ko hỗ trợ encode h264 để host parsec"
+1716603009139957,1713738826093042,,vuhoangid,Charles Ferguson,"Tắt tăng tốc phần cứng trong trình duyệt.
+Nếu vẫn bị, cài lại trình duyệt.
+Nếu vẫn bị, tạo người dùng mới và kiểm tra.
+Nếu vẫn bị, cài lại driver GPU.
+Nếu vẫn bị, cài lại Windows.
+Nếu vẫn bị, đi bảo hành.
+Nếu vẫn bị, mua máy mới."
