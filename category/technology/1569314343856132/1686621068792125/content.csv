@@ -1,0 +1,16 @@
+﻿post_id,user_id,user_name,fullname,content
+1686621068792125,,patricknguyen17,Trường Phát Nguyễn,"Adonisjs - framework chuẩn nhất cho ""startup 1 người"" (?)
+Sau 1 hồi vọc framework tầm 3 năm hơn mình chọn adonisjs để code dài hạn.
+Mình tạm chia web framework làm 3 loại:
+(1) Microservices: React for FE, Node for BE, etc. (-> Ý này mình dùng chữ ""microservices"" chưa hợp lí, các bạn đọc thêm comment nhé)
+(2) Frontend for everything: NextJS, NuxtJS, etc.
+(3) Backend for everything: Django, Adonisjs, etc. 
+Mình bắt đầu (2), cảm giác mọi thứ start khá nhanh vì nó cũng đơn giản, tập trung làm UI trước. Vì UI làm dễ, nhìn được xài được là ngon :))
+Rồi bắt đầu mình cần các BE job phức tạp hơn (vd cần làm caching) thì bắt đầu quay đầu lại thành (1)
+Cái vấn đề của (1) là mình phải build và maintain 2 app, rồi nó sinh ra đủ thứ vấn đề từ việc viết authorization, validation, và align giữa 2 app này là cực kì khó khăn. Tụi reddit hay nói đùa là backend chả khác gì 1 cái json generator cho FE  =))))
+Sau đó mình nhận ra cái tinh tuý của software nó nằm Software Design và Conceptual Design, chứ không phải UI Design - bản chất UI Design làm khá dễ, và làm nhanh - đối với mình UI không phải là vấn đề. 
+Quan trọng là cái cốt của software phải chuẩn chỉnh. (Đương nhiên sẽ vào loại app bạn đang làm)
+Thế là mình quay về old school - cái số (3), mình bắt đầu tìm đến các framework MVC tựa tựa như Ruby on Rails, hay là Django - 2 giải pháp này ngon, nhưng mình lười phải 1 app với 2 ngôn ngữ khác nhau. Mình cố gắng tìm trong javascript thì may quá mình tìm ra Adonisjs.
+Adonis dùng typescript, có sẵn khá nhiều ""pin"" (có auth sẵn, chả phải dùng Clerk, có ORM riêng, có validator, có security policy, etc.) nói chung khá là complete. 
+Mình dùng so far thấy khá ngon nên giới thiệu mọi người xài thử. Giới thiệu nhanh vậy thôi, bạn nào thắc mắc mình giải đáp thêm, chỉ là cảm thấy framework này hơi bị underrated nên share kaka =)) 
+p/s: Bài này không ép mn theo Adonis - mình chỉ gợi ý thôi, chọn framework nào để dùng thì sẽ tuỳ vào thói quen sở thích của mỗi người. Chỉ là mình thấy nó practical cho bản thân mình nên mình share mn thôi 🤣"

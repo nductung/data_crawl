@@ -1,0 +1,14 @@
+﻿post_id,user_id,user_name,fullname,content
+1688606815260217,100089726256821,,Hai Ba Lạng,"#showupeveryday #buildinpublic
+mình đang phát triển thêm 2 phần
+mà bí nên chia sẻ, hi vọng ý tưởng nó tuồn ra 😅
+- Prompt Playground: Đa phần mọi người không biết đến system prompt là gì. System prompt giúp mình định hướng LLM theo ý mình.
+Bản thân LLM là kho tàng kiến thức đồ sộ. System prompt như là Thủ thư.
+System prompt của ChatGPT/Claude cho công việc thường ngày, rất chung, dạng như 20/80.
+Hầu hết dịch vụ giấu system prompt đi, nó là secret sauce của workflow.
+Muốn LLM viết kịch bản hay, thì mình phải lái nó thành nhà biên kịch. Và mình phải định nghĩa ""hay"" là gì để nó viết.
+Nên mình làm Prompt Playground để user hiểu được tầm quan trọng của system prompt,
+và từ đó sử dụng app của mình nhiều hơn.
+Từ bỏ mấy cái app làm ra nội dung chung chung đi.
+- Scene: sau khi có script rồi thì đôi khi mình cần ý tưởng cho phân cảnh.
+Mình đang bí nên chưa biết nên làm thế nào."

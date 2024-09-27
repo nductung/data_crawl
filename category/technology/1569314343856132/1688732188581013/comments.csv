@@ -1,0 +1,12 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1688741125246786,1688732188581013,,xautrai.duyet.3,Duyệt Ơi,Cái mà anh nói giống cơ chế của cdn ghê a. Với thêm nữa là app router có tốc độ phản hồi nhanh hơn so với page router. Dùng version mới của nextjs đúng sướng
+1688949335225965,1688732188581013,,barox.dev,Phan Quốc Bảo,"code một hồi là em lại view page source xem còn html không 😆.
+
+https://vas.edu.vn/
+
+Con này em build full dynamic page, performance vèo vèo ạ"
+1688759901911575,1688732188581013,,duongvanba.agency,Dương Văn Ba,"Vercel bị chặn ở VN, lúc vào được lúc không"
+1688881238566108,1688732188581013,100089726256821,,Hai Ba Lạng,"nếu chỉ dùng làm landing page và blog thì mình khuyên dùng astro.build
+- dùng react/vue/svelte gì cũng
+- kết nối tới cms và data tiện lợi"
+1688787891908776,1688732188581013,,Family.is.no.1,ダン 章喜,"Xin lỗi mình bình luận đánh giá chút , vào web của bạn Khánh Duy thì với giao diện đơn giản thế thì nhanh là đúng rồi . Đâu có bao nhiêu mã html , css và js ."

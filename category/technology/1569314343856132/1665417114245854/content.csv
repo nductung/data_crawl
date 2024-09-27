@@ -1,0 +1,9 @@
+﻿post_id,user_id,user_name,fullname,content
+1665417114245854,,votanlean,An Vo,"Review app Cursor
+Từ hồi có GPT đến giờ thì cách mình code đó là mình sẽ làm theo 4 bước:
+1. Copy cái requirement từ PM rồi paste vào ChatGPT nói nó code, rồi copy code của nó bỏ vào VSCode.
+2. Chạy thấy báo lỗi thì copy cái lỗi và lại paste vào ChatGPT và nhờ GPT fix dùm.
+3. Sau khi nói qua nói lại một hồi thì cái app cũng chạy OK, lúc này mình sẽ nói GPT viết unit test cho đoạn code hoàn chỉnh => Test coverage của mình lên 100% một cách dễ dàng.
+4. Nếu có chỗ nào đó mình thấy hơi dài dòng hoặc có thể gây performance issue thì mình sẽ nói GPT cải thiện cho đến khi mình thấy hài lòng.
+Mình dùng cách này được gần 2 năm nay rồi thì thấy ổn. Cho đến khi Cursor ra đời. Nó giúp mình làm 4 bước trên ngay trong editor luôn (VSCode clone). Chỉ cần bôi đen một đoạn code rồi bấm ""Cmd + Shift + L"" là có thể nói chuyện được với GPT ngay trong editor luôn, khỏi phải copy paste ra trình duyệt. Sau đó thì Cursor sẽ sửa code cho mình, có giao diện so sánh đoạn nào bỏ đoạn nào thêm giống git diff, và hỏi mình OK chưa. Lúc này mình thấy ok thì chỉ cần ""Cmd + Enter"" là nó tự sửa code cho mình luôn.
+Giá của em nó là $20 / tháng. Nhìn có vẻ mắc nhưng mà so với thời gian nó giúp tiết kiệm được thì mình thấy là khoản đầu tư rất là hời."

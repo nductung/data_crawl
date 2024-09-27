@@ -1,0 +1,15 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1690473448406887,1690432631744302,100089726256821,,Hai Ba Lạng,"mình mới phát hiện ra là khi thả JSON,
+
+nhớ để
+key: value
+
+đừng để
+""key"": ""value""
+
+vì nó khó điều khiển art style/direction, như là Manga / retro. Mặc định là realism.
+
+""string"" được dùng để tokenize cho việc ghi chữ trong ảnh
+""Pixar"" thì nó sẽ ghi chữ ""Pixar"" chớ không là pixar style"
+1690519651735600,1690432631744302,61550903191987,,Lynn Mine,Ồ vụ này mình mới biết :d cũng hay
+1690571441730421,1690432631744302,,hxutixnnn,Nguyễn Hữu Tiền,Bổ X

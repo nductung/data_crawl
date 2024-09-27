@@ -1,0 +1,31 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1687440328710199,1686621068792125,100011964556963,,Huỳnh Hoa Vinh,"(1) Microservices: React for FE, Node for BE, etc.
+=> Bạn nên tìm hiểu lại microservice là gì trước đã. Chứ thấy bạn viết rất sai chỗ này."
+1686651375455761,1686621068792125,,duc.nguyen.hoang.uit,Nguyễn Đức,Có code thì show
+1686641698790062,1686621068792125,,kv0906,Văn Trần,Hiếu Nguyễn hàng ngonnn note lại có dịp build 😀
+1686643622123203,1686621068792125,,khoi.codetot,Nguyễn Minh Khôi,Thử https://astro.build/ chưa fen?
+1686668875454011,1686621068792125,,vttmonkey,Tri Vu,"Cho mình hỏi trong số các frontend framework thì cái nào là nhanh nhất vậy, mình uu tiên nhanh nhé"
+1690343625086536,1686621068792125,,plhoangan,Phan Lâm Hoàng Ngân,Cho mình hỏi ké 1 cái. Có framework nào có sẵn CMS/Admin và dễ customize không? Nếu CMS viết bằng React thì càng tuyệt vời. Ai biết thì cứ share. Cám ơn
+1686687928785439,1686621068792125,,kennythang9x,Hoàng Văn Thắng,Bác lạc quan thế. Em làm dự án tầm trung mà làm cái json generator đấy ung hết đầu rồi. 🥹
+1686761252111440,1686621068792125,,Nghiemit2k,Nghiem Khai Pham,Em code backend adonis thì thấy nó code được ts à anh còn hình như ko support js
+1686662548787977,1686621068792125,100005360145371,,Co Hue,Cụ dùng thử Wordpress. Nhìn đi nhìn lại thấy Wordpress vẫn đỉnh thật
+1686651412122424,1686621068792125,,zhu.gheliang.5,Nguyễn Thế Huy,Laravel của nodejs thì chắc chắn là adonisjs rồi :D. Cách thiết kế rất giống nên mình thấy làm việc với adonis khá ok (fullcombo như laravel)
+1686983918755840,1686621068792125,,chuyengia,Thach Nguyen,"Adonis hướng như MVC BE first. Mình thấy xài Next với bộ tổ chức BE tốt thì hay hơn. Vì
+
+Next & tổ chức code BE tốt dễ hơn, tự làm được
+
+MVC fx với phần ""glue"" cho FE (mình đoán bản chất là render sẵn state & init function cho FE framework trong response HTML???) thì mình phải ""trông chờ"" vào ông author (vì tự viết cũng đc, khá mất công 1 lần thôi)
+
+Hiện tại mình vẫn xài kiểu BE (Nest) FE (Vue2, Astro, React) riêng vì build nhanh, tính cô lập tốt, ít mệt mỏi."
+1686659675454931,1686621068792125,,patricknguyen17,Trường Phát Nguyễn,"Đợt mình bắt đầu làm thì chưa có ai chia sẻ nhiều. Giờ thấy nó có podcast riêng khá hữu ích, anh nào React/Vue qua cũng get started dễ dàng luôn
+
+https://www.youtube.com/watch?v=vCe0Gah6e40&list=PL9dIWiKCV571S3ILiADMKlZS4i6uDs3j8"
+1687843382003227,1686621068792125,,thanhminh6996,Thành Minh,"""React for FE & Node for BE"" => đây vẫn là monolithic chứ không phải microservice. Hình như bạn hiểu nhầm nó theo khía cạnh technical, trong khi key aspect của Microservice là business-centric design, phân tán và độc lập, nghĩa là từng service giải quyết từng vấn đề cụ thể của business, độc lập (deployment, processes, storage), có thể dùng bất kể công nghệ gì. Khi một service trong đó sập thì không làm cả hệ thống bị sập theo.
+
+Ví dụ, nếu payment service trong 1 hệ thống e-commerce bị sập, user có thể không checkout và hoàn thành transaction được nhưng vẫn có thể xem sản phẩm và thêm vào giỏ hàng bình thường (vì nó độc lập với các service khác).
+Còn với React for FE & Node for BE thì 1 trong 2 phần sập thì dĩ nhiên là cả hệ thống đi theo rồi :)), vì nó gắn chặt với nhau (tight coupling)."
+1687534038700828,1686621068792125,,NguyenTuan1696,Nguyễn Minh Tuấn,"Nếu build nhanh, 1 người, thì như này sao nhanh bằng thằng Nextjs nhỉ"
+1686708482116717,1686621068792125,,vipprohotkute,Cánh Buồm Phiêu Du,remixjs thì sao bác
+1686641252123440,1686621068792125,100008468620854,,Dai Nguyen,Thê hiện tại bạn đang xử lý phần frontend bằng cách nào bạn nhỉ :D
+1686642918789940,1686621068792125,,jmtvnz1997,Tiến Nguyễn,"Đang khá bực mình với thằng nestjs đang kiếm thằng support sẵn ts nhưng mà thằng này mới release nên cũng hơi rén :)))
+Thằng nestjs code mất thời gian với đám DI của nó quá"

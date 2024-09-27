@@ -1,0 +1,12 @@
+﻿post_id,user_id,user_name,fullname,content
+1676472733140292,61565452437820,,Hazel Tran,"ỨNG DỤNG AI HỖ TRỢ VIỆC QUẢN LÝ KHÂU DỌN DẸP VỆ SINH TRONG KHÁCH SẠN, HOMESTAY!
+Chào mọi người, bên mình đang phát triển ứng dụng AI giúp tối ưu hoá quy trình dọn dẹp và quản lý việc vệ sinh phòng ở trong lĩnh vực khách sạn, homestay.
+Trước tiên, để giới thiệu sơ lược về ứng dụng, thì đây là giải pháp AI giúp cleaners - những người dọn dẹp kiểm tra mức độ sạch sẽ và gọn gàng của căn phòng mình đã dọn.
+Step 1: Sau khi nhận được hình chụp từ cleaner, app sẽ tiến hành quét, phát hiện những đồ vật có trong hình.
+Step 2: Trả kết quả cho việc dọn dẹp bằng cách thể hiện phần trăm messy (mức độ lộn xộn tổng thể), hơn thế nữa còn chỉ ra cụ thể đồ vật nào đang được xem là messy trong hình.
+Nếu mọi thứ đã gọn gàng, app sẽ trả kết quả passed cho phần công việc dọn dẹp đó.
+Bên cạnh đó, các cleaner cũng có thể tự theo dõi hiệu quả công việc của mình theo thời kỳ, như phần trăm pass và fail của bản thân họ trong vòng một tuần qua, một tháng qua,...
+Ứng dụng này có thể giúp các nhà quản lý khách sạn quản lý đội ngũ vệ sinh và công việc dọn dẹp của họ theo cách dễ dàng hơn. Thay vì đơn thuần chỉ đánh giá việc sạch hay không sạch, giờ đây những người quản lý có thể đánh giá kỹ càng hơn về mức độ gọn gàng được thể hiện qua con số chính xác đối với mỗi nhân viên của mình.
+(Bên dưới là hình ảnh minh hoạ kết quả trả về sau khi cleaner upload hỉnh ảnh căn phòng sau khi đã được dọn dẹp vào để cho app đánh giá)
+
+Nhờ mọi người xem và cho ý kiến để đội ngũ có thể phát triển xa hơn nhé!"

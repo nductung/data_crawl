@@ -1,0 +1,9 @@
+﻿post_id,user_id,user_name,fullname,content
+1690432631744302,100089726256821,,Hai Ba Lạng,"#buildinpublic
+tiết kiệm chi phí
+gpt-o1-mini & flux tricks
+- o1 được openai huấn luyện dựa vào COT, nên bạn có thể dùng nó để tối ưu system prompt cho mấy LLM khác
+mình tối ưu cho gemini-1.5-flash
+- flux có thể nhận JSON làm prompt luôn, nên không cần xử lý lại
+lười thì quăng thẳng vào luôn
+kết quả ảnh cho 1 scene với gemini-1.5-flash và flux-schnell"

@@ -1,0 +1,57 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1680976709356561,1680965756024323,,khiemnd5,Nguyễn Đăng Khiêm,"Dựa vào gợi ý của bạn, mình thử thì thấy đc cái UI cũng ok phết.
+ChatGPT gen prompt:
+""Design a modern and clean user interface for a menstrual cycle tracking app. The interface should be simple, intuitive, and visually appealing with the following elements:
+
+A date selection feature (e.g., 'Ngày: 11 Sep 2024').
+Sections for tracking menstrual flow, feelings (such as 'dryness'), and discharge characteristics, with easy-to-use dropdown menus.
+An option to mark 'This is a significant day' with a toggle button.
+A field for additional notes (e.g., 'Nhập ghi chú của bạn ở đây…').
+A button to submit observations, styled clearly and labeled (e.g., 'Ghi Nhận Quan Sát').
+A history of past observations available at the bottom with tabs for 'Ghi Chép' (log) and 'Lịch' (calendar).
+The color scheme should feature a gradient background with soft pink and peach tones, adding a calm and soothing feel to the interface.""
+
+Mang sang v0.dev chạy thì có kqua luôn (ảnh đính kèm)"
+1681021069352125,1680965756024323,,jang.trinh,Jang Trịnh,Mình cũng đang xài workflow từ v0.dev -> replit. / Ae nào hứng thú thì để mình viết 1 cái article nhỏ share.
+1680974242690141,1680965756024323,,h7ngry,Hưng Hoàng,Demo của bạn chỉ bao gồm giao diện hay gồm cả tính năng của 1 app sức khoẻ rồi vậy bạn ?
+1680975959356636,1680965756024323,,mrgoonie,Duy Nguyen,"v0 ngon thật đấy, a cũng thử rồi, tiếc là nó chỉ build được phần giao diện, build được phần backend nữa là ngon!"
+1680966016024297,1680965756024323,,nguyentubn,Nguyễn Tú,v0 là cái gì thế bác
+1680971909357041,1680965756024323,,hungpro8800,Hưng Lê,App này là web app hay mobile app ạ
+1680971196023779,1680965756024323,100024104805714,,Dũng Đàm,nó code cho luôn à bạn ? đẩy lên git mọi người cùng xem với bạn
+1680978149356417,1680965756024323,,hqmpd,Quan Nguyen,hóng video bác Nguyễn Hữu Tiền ơii 🤩
+1680978706023028,1680965756024323,,hxutixnnn,Nguyễn Hữu Tiền,"Mọi người check qua demo ở đây nha: https://theodoichuky.vercel.app/
+
+Tối nay em sẽ chia sẻ workflow để áp dụng build các app đơn giản như thế này."
+1681075666013332,1680965756024323,100088925177607,,Dương Đức,"Cái này ko có backend, database thì nó lưu data vào đâu nhỉ"
+1680971826023716,1680965756024323,,CuongQuachs,Cuong Quach,nó mới ra thêm cái cli mạnh lúm
+1681037446017154,1680965756024323,,anhquoc.nguyen.3398,Nguyen Dinh Anh Quoc,Đỉnh quá bạn tui
+1680988829355349,1680965756024323,,AnNguyeneyedr,An Nguyễn,Mình quan tâm.thanks
+1681035302684035,1680965756024323,,tcdtist,Chi Thanh Dang,lên liền video bác êii
+1681277022659863,1680965756024323,,hxutixnnn,Nguyễn Hữu Tiền,Mời mọi người xem qua workflow để tạo ra app này của mình ở đây nha: https://www.facebook.com/share/p/iu8wagmdnJsu1UsZ/
+1680970446023854,1680965756024323,,zeroitp,Tài Võ,quan tâm hóng :v
+1680988249355407,1680965756024323,,davidphamle,David Pham Le,"Bên mình cũng đang tính xài thử v0 xem thế nào, tại cũng dùng shadcn + nextJS."
+1680979072689658,1680965756024323,100005653717407,,Dũng Trần,bác share workflow e tham khảo với
+1681004542687111,1680965756024323,,vietanh.va,Pham Viet Anh,Quan tâm ạ
+1680992019355030,1680965756024323,,hoangtrungcva,Trung Hoàng,hóng
+1680973572690208,1680965756024323,,MinhRafa,Minh Vu,Quan tâm ạ
+1680968799357352,1680965756024323,,hoa.quachbenblog,Hoa Quach,"Quan tâm, hóng chủ thớt share :)"
+1680966862690879,1680965756024323,,juyjuyy01,Kiều Minh Duy,E xin tìm hiểu vs ạ
+1680969999357232,1680965756024323,,doanhuycsc,Đoàn Huy,Chấm bác ơi
+1680993656021533,1680965756024323,,tsundteo,Pham Tung,quan tâm ạ
+1680971546023744,1680965756024323,,vutiendat.182,Vũ Tiến Đạt,Quan tâm ạ
+1681000796020819,1680965756024323,,nguyenthanhan.me,Nguyễn Thanh An,Hóng
+1680975492690016,1680965756024323,,whist.mitzuno,Trần Quang Duy,Hóng bác ơi
+1680976329356599,1680965756024323,,Bon.happy,Vũ Ngọc Lan,Quan tâm bạn oei
+1680973049356927,1680965756024323,,duyphong1204,Duy Phong,Quan tâm ạ
+1681187789335453,1680965756024323,100011596450508,,Hai Le Phu,Xịn quá cụ ạ
+1680967206024178,1680965756024323,,huaanhhuy,Hứa Anh Huy,Đỉnh thật nhiều cái mới quá
+1680967926024106,1680965756024323,,thanhtu.truongnguyen,Trương Nguyễn Thanh Tú,Chỉ em với sếp
+1681005829353649,1680965756024323,,mr.heur,Nguyễn Trung Hiếu,Hóng
+1680989542688611,1680965756024323,,mirolduong,Kunol Duong,Chấm ạ
+1680969032690662,1680965756024323,100014963790366,,Thanh Vũ,Quan tâm
+1680995732687992,1680965756024323,,honganhnguyen.chuyendoidayyy,Hong Anh Nguyen,Cho hỏi sao trong nhóm mn ko xài bubble io. Cái này có nhược điểm gì hả mn chưa xài nên chưa biết
+1681033236017575,1680965756024323,100001591420782,,Cường Nguyễn,Nice
+1680967799357452,1680965756024323,100003799947125,,Bảo Nguyễn,"Xịn quá bác, em xin tầm sư học đạo ạ"
+1681106329343599,1680965756024323,100011964556963,,Huỳnh Hoa Vinh,Làm mấy cái chơi chơi thì được
+1681161026004796,1680965756024323,,hh.nguyen43,Linh Q. V. Nguyen,.
+1680973636023535,1680965756024323,,nhieuluongducthinh,Nguyễn Đức Thịnh,.
