@@ -1,0 +1,4 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1721708438629414,1721651715301753,100038682230267,,Thái Tuấn,"Dễ nhất là vào nvidia control panel xem mục phyx nó có chia ra cổng xuất hình nào igpu đảm nhận, cổng nào dgpu đảm nhận. Nếu dgpu ko có cổng xuất được nối với nó thì nó chỉ đảm nhận việc render còn xuất hình thì phải qua igpu"
+1721706088629649,1721651715301753,,ntuan112,Nguyen Tuan Anh,có cổng thunderbolt thì xuất được không thì chịu hoặc bạn vào nvidia control xem nso cho xuất cổng nào là bítd
+1721710458629212,1721651715301753,,vo.phuctoan.9,Phúc Toàn,K nha t sài 940mx check trog phyx chỉ có mỗi cổng on thôi
