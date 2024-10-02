@@ -1,0 +1,48 @@
+﻿post_id,user_id,user_name,fullname,content
+7350653191614961,,ngaluong225,Nga Lương,"⁉️⁉️ TRẢ PHÍ GAS ETH NHIỀU NHƯNG AE ĐÃ BIẾT CÔNG THỨC TÍNH?
+Cùng đi sâu vào cách tính phí mỗi giao dịch, vì sao tiền phí thực hiện giao dịch lại đắt hay rẻ?
+
+Công thức tính phí giao dịch
+Trên mạng #Ethereum, hoặc các blockchain layer 1 khác (#BNB , #Solana), tiền phí phải trả để giao dịch được thực hiện sẽ gọi là phí Gas.
+
+Công thức tính phí Gas như sau
+(Phí cơ sở + Phí hoa hồng) * lượng gas tối đa mà người dùng trả = Chi phí thực hiện giao dịch ($ETH).
+
+Nghe thì hơi khó hiểu, vì vậy để mình giải thích cụ thể từng con số mọi người dễ hình dung hơn nha.
+⁃ Phí cơ sở (hay còn gọi là Base fee): đây là khoản phí #blockchain yêu cầu có để giao dịch được coi là hợp lệ. Phí này có thể theo dõi tại etherscan.io hoặc #coingecko đều có. Đơn vị phí này là Gwei. Base Fee sẽ có xu hướng tăng khi thị trường sôi động, và giảm khi thị trường ảm đạm.
+⁃ Phí hoa hồng (Tip): Đây là khoản phí tặng thêm trong giao dịch để giao dịch được ưu tiên thực hiện, đôi khi có thể gọi là priority fee. Đơn vị là Gwei.
+⁃ Lượng gas tối đa mỗi giao dịch (Gas limit): Đây là lượng gas tối đa mà người dùng sẽ chi trả cho mỗi giao dịch. Số lượng tiêu chuẩn sẽ là 21.000. Tuy nhiên, tuỳ vào độ phức tạp của mỗi giao dịch, số lượng này nên được điều chỉnh cho phù hợp. Ví dụ, giao dịch chuyển tiền sẽ được coi là giao dịch đơn giản, trong khi, giao dịch tương tác với các smart contract yêu cầu nhiều công việc tính toán hơn sẽ yêu cầu gas limit cao hơn.
+Lưu ý: Chi phí thực hiện giao dịch sẽ được thanh toán bằng đồng coin của nền tảng đó.
+
+Ví dụ cụ thể
+
+Hôm nay, giá gas là 7 gwei (Theo Coingecko). Vì vậy để giao dịch được thông qua, bạn cần cài ít nhất là 7 gwei.
+⁃ Nếu thấp hơn, giao dịch sẽ thất bại nhưng bạn vẫn mất số phí này.
+⁃ Nếu ngang bằng, giao dịch của bạn vẫn có khả năng được thông qua, nhưng thời gian chờ lâu và có khả năng thất bại.
+⁃ Vì vậy, để giao dịch được thông qua, đặc biệt là xử lí nhanh, bạn nên có thêm hoa hồng (tip) cho các validator. Có thể thêm 2/3 gwei.
+=> Nếu thực hiện giao dịch, bạn có thể cài là 9 Gwei.
+
+Trong trường hợp bạn thấy giao dịch khá phức tạp, thay vì đặt gas limit tiêu chuẩn là 21.000, bạn có thể thêm vào thành 40.000. Nếu giao dịch ko tiêu hết số gas này, bạn sẽ được hoàn lại gas limit.
+=> Nên một số tình huống ae check lại sẽ thấy mình mất ít phí giao dịch hơn số tạm tính khi thực hiện giao dịch.
+
+Như vậy, ta có công thức:
+( 7 + 2) * 40 000 = 360 000 (Gwei)
+Vì 1 Gwei  = 0,000000001 ETH, nên giá phải chi cho giao dịch trên sẽ là 0,00036 ETH.
+
+ETH giảm phát do yếu tố nào?
+
+Dựa vào công thức trên, ta có thể thấy:
+7 Gwei (base price) * 40.000 = 0,00028 ETH chính là phần ETH bị đốt sau khi giao dịch được thực hiện.
+Trong khi đó, phần còn lại là 0,00008 ETH chính là phần thưởng cho các validator (hay phần hoa hồng -tip)
+
+Mỗi giao dịch được thực hiện sẽ loại bỏ phần Base fee ra khỏi cung lưu thông của ETH => giảm cung ETH ngoài thị trường.
+Giao dịch càng nhiều, càng nhiều ETH bị đốt.
+
+Kinh nghiệm sử dụng phí giao dịch
+
+⁃ #Ethereum là #blockchain bạn chắc chắn sẽ dùng nếu đi sâu vào ngách này, vì vậy, nhân lúc $ETH còn rẻ, hãy mua 1 ít chỉ chuyên dành làm phí giao dịch (mua trong downtrend).
+⁃ Trong thời điểm thị trường ảm đảm, bạn có thể tranh thủ làm thêm các kèo airdrop/retro => chi phí sẽ rẻ hơn rất nhiều. Từ đó tiết kiệm phí $ETH.
+⁃ Trong #uptrend, trong trường hợp cần bán gấp coin do đã pump hard (tăng mạnh), ae có thể vặn gas price (tăng gwei) và gas limit lên mạnh để giao dịch được ưu tiên thực hiện. Lúc này phí gas cực kì lớn (có thể lên đến 200u/giao dịch) => cân nhắc sử dụng.
+⁃ Ngoài #Ethereum, các blockchain laser 1 khác cũng cần coin làm phí, bạn có thể tích luỹ thêm để dành sau này dùng (như BNB, Solana, FTM…)
+
+Nếu bài viết hữu ích, mọi người nhớ like và share cho bạn bè nha ❤️"
