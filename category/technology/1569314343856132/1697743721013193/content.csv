@@ -1,0 +1,18 @@
+﻿post_id,user_id,user_name,fullname,content
+1697743721013193,,haonx.97,Xuân Hoà,"Em tàu ngầm trong group một thời gian, nay em xin phép giới thiệu và đồng thời xin tư vấn của các anh chị về hướng phát triển tiếp theo của dự án _prompt-to-video_ ạ.
+Tình hình thử nghiệm hiện tại của dự án:
+- Đang vận hành và scalable được ngay
+- Sản lượng đều đặn (có thể vít lên 6 videos / giờ)
+- Đã tối ưu cost / video xuống tiệm cận 0
+- Đã có feedback tích cực của user về chất lượng video
+- Đã có feedback tích cực của YouTube thông qua lượng views, subscribes đều đặn trong 2 tháng qua
+Một số hướng phát triển tiếp theo của dự án:
+- Cung cấp dịch vụ generate/stream video on-demand (tương tự chatgpt nhưng response là video)
+- Cung cấp paid service phục vụ các YouTuber
+- Tự phát triển thêm nhiều kênh YouTube khác dựa theo sản lượng hiện có
+- Mô hình subscription plan hoặc pay-per-video,
+- API Access for Developers, charge theo API call
+- Dịch vụ Customization
+- Marketplace mua bán Templates/Assets, và cắt % cho mỗi sale
+- Đặt ads trước, sau hoặc bên trong video
+Các anh chị khách hàng tiềm năng, builder-in-public có hứng thú, mong muốn sử dụng tính năng nào vui lòng cho em biết để ưu tiên phát triển ạ. Trước mắt em sẽ hướng đến cung cấp API Access cho các anh chị Developers ạ."

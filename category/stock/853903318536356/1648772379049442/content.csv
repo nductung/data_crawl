@@ -1,0 +1,28 @@
+﻿post_id,user_id,user_name,fullname,content
+1648772379049442,,do.mai.3745496,Mai Đô,"Đường MA100 là gì? Cách sử dụng đường MA100 trong giao dịch
+Nếu bạn muốn trở thành một nhà giao dịch có cái nhìn tổng quan và phong cách đầu tư trung dài hạn, việc hiểu rõ đường MA100 là điều cần thiết. Đường MA100 có khả năng lọc nhiễu và cung cấp xu hướng giá dài hạn, tuy nhiên, nó cũng có một nhược điểm là độ trễ lớn trong việc phản ánh biến động thị trường.
+Dù mỗi chỉ báo có ưu và nhược điểm riêng, khi biết cách kết hợp MA100 với các công cụ phân tích khác, bạn sẽ có thể tối ưu hóa chiến lược giao dịch của mình và chọn được những cổ phiếu có tiềm năng sinh lời cao.
+1. KHÁI NIỆM VỀ ĐƯỜNG MA100
+MA100 là đường trung bình động của giá trong 100 phiên giao dịch gần nhất. Để tính toán, bạn chỉ cần lấy tổng giá đóng cửa của 100 phiên vừa qua và chia cho 100. Công thức như sau:
+MA100 = (Giá đóng cửa phiên 1 + Giá đóng cửa phiên 2 + … + Giá đóng cửa phiên 100) / 100
+Hiện nay, hầu hết các nền tảng giao dịch trực tuyến đều tích hợp sẵn chỉ báo này, giúp bạn dễ dàng sử dụng mà không cần phải tự tính toán thủ công.
+2. CÁCH ĐƯỜNG MA100 HOẠT ĐỘNG
+Với 100 phiên giao dịch, đường MA100 giúp làm mượt đồ thị giá, loại bỏ những biến động ngắn hạn và nhiễu, cho phép nhà đầu tư theo dõi xu hướng dài hạn dễ dàng hơn. Khi giá đóng cửa vượt qua MA100 từ dưới lên, đó thường là dấu hiệu của xu hướng tăng dài hạn. Ngược lại, nếu giá giảm xuống dưới đường MA100, đó là tín hiệu cho xu hướng giảm.
+Ngoài ra, đường MA100 còn được sử dụng để xác định các điểm mua bán cổ phiếu quan trọng.
+3. CÁCH VẼ ĐƯỜNG MA100
+Bạn không cần phải tự vẽ đường MA100, vì hầu hết các trang web chứng khoán đều hỗ trợ công cụ này. Bạn chỉ cần sử dụng các phần mềm phân tích kỹ thuật hoặc các nền tảng giao dịch phổ biến để kích hoạt chỉ báo này trên biểu đồ.
+4. VAI TRÒ CỦA ĐƯỜNG MA100 TRONG GIAO DỊCH
+Xác định xu hướng dài hạn: Đường MA100 giúp nhà đầu tư xác định xu hướng chính của cổ phiếu, giúp họ nắm bắt được các giai đoạn tăng hoặc giảm dài hạn.
+Lọc nhiễu: MA100 loại bỏ những biến động nhỏ, giúp nhà đầu tư không bị phân tâm bởi các biến động giá ngắn hạn.
+Ngưỡng hỗ trợ và kháng cự: MA100 thường được coi là ngưỡng hỗ trợ khi giá nằm trên đường MA và là ngưỡng kháng cự khi giá nằm dưới.
+Dự báo xu hướng tương lai: Nhà đầu tư có thể sử dụng MA100 để dự báo xu hướng giá trong tương lai, giúp đưa ra các quyết định giao dịch phù hợp.
+5. CHIẾN LƯỢC GIAO DỊCH VỚI MA100
+Điểm cắt giữa giá và MA100: Khi giá cắt lên từ dưới đường MA100, đó là tín hiệu mua. Ngược lại, khi giá cắt xuống từ trên, đó là tín hiệu bán.
+Kết hợp với MA200: MA100 cắt lên MA200 thường là tín hiệu mua mạnh, còn khi cắt xuống thì là tín hiệu bán.
+Kết hợp với RSI: Nếu giá chạm MA100 và RSI cho tín hiệu quá bán, đó là thời điểm mua. Ngược lại, khi RSI cho tín hiệu quá mua và giá chạm MA100, đó là tín hiệu bán.
+6. HẠN CHẾ CỦA ĐƯỜNG MA100
+Độ trễ: Do tính toán dựa trên dữ liệu quá khứ, MA100 thường không phản ánh kịp thời những biến động nhanh của thị trường.
+Hiệu quả kém khi thị trường đi ngang: Trong các giai đoạn thị trường không có xu hướng rõ ràng, đường MA100 có thể gây nhiễu và không mang lại hiệu quả.
+Không phù hợp cho chiến lược ngắn hạn: Với những nhà đầu tư giao dịch ngắn hạn, các đường MA ngắn hơn như MA10, MA20 sẽ phù hợp hơn.
+7. TỔNG KẾT
+Đường MA100 là một công cụ hữu ích trong việc xác định xu hướng dài hạn, lọc nhiễu và đưa ra các điểm mua bán cổ phiếu. Tuy nhiên, để tối ưu hóa hiệu quả, nhà đầu tư nên kết hợp MA100 với các công cụ khác như MA200, RSI và quan sát nhiều khung thời gian để có cái nhìn toàn diện hơn về thị trường."
