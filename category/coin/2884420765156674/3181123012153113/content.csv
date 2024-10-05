@@ -1,0 +1,24 @@
+﻿post_id,user_id,user_name,fullname,content
+3181123012153113,,gekkohp,Gekko Gordon,"Phần 2: Phân tích kỹ thuật
+Trong bài 1 chúng ta đã học về Kháng cự và Hỗ trợ. Hy vọng các bạn đã hiểu được kháng cự - hỗ trợ là gì và tại sao lại có kháng cự - hỗ trợ, hôm nay chúng ta đến bài mới.
+Và trước khi vào bài mới, mình xin nhắc lại 1 lần nữa: "" hệ thống giao dịch này không phải của mình, nhưng mình đang sử dụng nó và thấy nó hiệu quả. Ai cần thì đọc, không thì thôi, đừng chỉ trích, cảm ơn.""
+Bài 2: Lý thuyết Dow
+- Giới thiệu: Lý thuyết Dow là một học thuyết được một nhân vật nổi tiếng trong ngành chứng khoán Mỹ tìm ra: Charles Henry Dow - người sáng lập ra chỉ số Dow – Jones và tờ Wall Street Journal (cùng với cộng sự của ông: Jones). Lý thuyết Dow là 1 học thuyết trừu tượng từ tư tưởng và nhận định của Charles Dow trong thị trường chứng khoán. Ông cho rằng trong giao dịch đường giá phản ánh tất cả và không một ai có thể thao túng được ""Xu Hướng"" của thị trường. Sau này, các nhà phân tích tài chính phố Wall đã bắt đầu chấp nhận lý thuyết Dow như một ""lý thuyết nền tảng"", hay một thứ ""bắt buộc"" phải nắm chắc để làm nền tảng cho mọi phân tích kỹ thuật.
+- Nội dung:
+Thường các bạn tìm kiếm trên mạng sẽ ra 6 nguyên lý cơ bản của lý thuyết Dow:
++ Thị trường phản ánh tất cả
++ Ba xu thế của thị trường.
++ Xu hướng chính gồm 3 giai đoạn
++ Các xu hướng được xác định bởi khối lượng giao dịch.
++ Các chỉ số bình quân phải xác nhận lẫn nhau
++ Xu hướng thị trường chính sẽ duy trì và chỉ biến động khi thị trường đảo chiều.
+Nhưng đa phần đọc xong chả hiểu gì. Mình cũng thế.
+Để tinh gọn lại thì có 2 thứ quan trọng cần nắm:
+1: Đường giá phản ánh tất cả: Mọi hành vi mua bán của đám đông theo bất kỳ trường phái nào PTCB, PTTL, PTKT hay thậm chí mua bán tâm linh cũng đều thể hiện trên đường giá. Vậy nên chúng ta chỉ cần nhìn đường giá để xác định xu hướng thôi.
+2. Lý thuyết Dow được phát biểu như sau:
+Thị trường bao gồm 2 xu thế, xu thế cấp 1 và xu thế cấp 2, xu thế cấp 1 là xu thế chính, xu thế cấp 2 ngăn cản sự tăng hoặc giảm giá của xu thế cấp 1.
+Tức là đã có giao dịch mua bán thì có tăng phải có giảm. Xem lại bài 1 Kháng cư - hỗ trợ để hiểu rõ hơn, xem phần ảnh để thấy đám đông chốt lời khiến giá giảm.
+Vấn đề quan trọng là chúng ta phải xác định được xu hướng hiện tại là tăng hay giảm, sau đó mới đi vào tìm xu thế cấp 1 (C1) và xu thế cấp 2 (C2).
+- Chú ý: Các bạn nên nắm rõ thế nào là phá cản theo Dow, thế nào là phá cản theo kháng cự - hỗ trợ. (Xem ảnh)
+Nói thể đủ rồi, các bạn hãy xem ảnh để hiểu rõ hơn.
+Phần trình bày của mình có gì khó hiểu, xin vui lòng góp ý. Xin cảm ơn."
