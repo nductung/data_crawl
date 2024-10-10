@@ -1,0 +1,4 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1726652634801661,1724859274980997,100038682230267,,Thái Tuấn,Tra cách kiểm tra và bật mux switch trên máy của bạn
+1726640034802921,1724859274980997,,NguyenKimSinhThe,Nguyễn Kim,Lap có mux ko bác
+1726639994802925,1724859274980997,,ginag.23i,Nq Giang,"do cái card chỉ render thôi,còn xuất hình là vẫn igpu nó xuất,muốn xuất bằng card dời máy phải hỗ trợ mới có :v,mà thường igpu nó xuất hình ra màn ngoài thì cái card vô tác dụng luôn -))),nó chỉ render lúc dùng màn của lap thôi"
