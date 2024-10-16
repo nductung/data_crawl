@@ -1,0 +1,11 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1706210293512562,1705923580207900,,nhutvantrinh,Trịnh Văn Nhựt,Cùng 1 disk thì gộp ko liền kề được
+1706608663472725,1705923580207900,100053121315624,,Phan Ng,"có, gộp trong winpe, tầm 5p là xong"
+1706198476847077,1705923580207900,61562274509874,,Nguyễn Huy Anh,"cần gì trả phí đâu, miễn phí vẫn làm suốt mà
+https:// www.aomeitech.com/aomei-partition-assistant.html"
+1706337683499823,1705923580207900,100089939481984,,Mi Gô,"Xoá 2 cái phân vùng 768Mb đi rồi extends được ổ C. Nhưng nên dùng app ngoài, recommend MiniTool Partition Wizard hoặc EaseUS Partition Master thì dễ hơn"
+1706242473509344,1705923580207900,,lee.hwong.xing,Lê Quang Vinh,xoá cái phân vùng recovery nặng 700mb kia đi rồi gộp
+1706271853506406,1705923580207900,,vietdan.it,Lê Việt Đan,"Dùng minitool kéo qua cũng được.
+Hoặc diskpart xoá phân vùng rec kìa đi (cũng ko cần nó đâu)"
+1706207173512874,1705923580207900,,ductin.phamnguyen,Phạm Nguyễn Đức Tín,"Dùng Gparted free 100% nha, có điểu hơi rối rắm một tí."
+1706210053512586,1705923580207900,,nguyen.nd1999,Nguyễn Đức Nguyên,"bác làm quả usb anhdv boot bản free cũng được, xử mấy cái này nhanh lắm"

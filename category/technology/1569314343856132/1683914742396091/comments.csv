@@ -1,0 +1,19 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1683931959061036,1683914742396091,,khangnd.vn,Duy Khang,mấy ông bán boilerplate/starter phải hứng cái platform risk siêu to khổng lồ 😨
+1683973902390175,1683914742396091,100040239672554,,Trần Hưng Thịnh,Ai đó có thể share cho em boilerplate code Nextjs và Nestjs đủ tốt được k ạ
+1683947795726119,1683914742396091,,mrgoonie,Duy Nguyen,"Quan điểm của mình thì chưa chắc đã ngon đâu:
+
+1. Vì nó free, free thì ko đủ động lực để làm cho ngon đc
+
+2. Lee ko build SaaS, khó mà optimize đc như mấy ông đang build SaaS
+
+3. Lee làm ở Vercel, đương nhiên sẽ cố gắng ráp mấy dịch vụ của Vercel vào: vendor lock-in (hay platform risk mà Duy Khang share)
+
+Mọi người nghĩ thế nào?"
+1683962989057933,1683914742396091,,stevennguyenbtc,Nam Nguyen,Hôm qua mình mới comment vào post của ổng xong
+1683922799061952,1683914742396091,100079007344150,,Sơn Võ,Mấy con AI kill ae Boilerplate là rõ :)
+1684239189030313,1683914742396091,,dunkbinggg,Bing Bing,bên deno có cái saaskit cũng ngon ạ. maintain thường xuyên nữa https://deno.com/saaskit
+1683942479059984,1683914742396091,,hxutixnnn,Nguyễn Hữu Tiền,Húp mạnh 😤
+1684008935720005,1683914742396091,,NguyenTuan1696,Nguyễn Minh Tuấn,"proj trước ổng dùng thằng postgres client này rõ ngon, giờ lại quay về dùng orm nhỉ
+
+https://github.com/porsager/postgres"

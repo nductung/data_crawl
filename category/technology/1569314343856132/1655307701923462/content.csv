@@ -1,0 +1,10 @@
+﻿post_id,user_id,user_name,fullname,content
+1655307701923462,100005461774425,,Anh Hoang,"Chào anh em,
+Mình muốn xác thực số điện thoại bằng OTP qua SMS thì nên dùng dịch vụ nào ở VN hay nước ngoài ?
+Số users của mình hiện ~500. 
+Số lần xác thực lần đầu sẽ ~500.
+Số lần xác thực cho users hàng tháng không nhiều ~20-30.
+Số lần xác thực lại khi đổi số đth cũng rất ít.
+Nhờ anh em giới thiệu giúp dịch giá vừa hoặc miễn phí trong tầm trên thì quá tốt ạ !
+
+Cám ơn anh em <3"

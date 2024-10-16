@@ -1,0 +1,8 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1708260226640902,1708031209997137,100041028911241,,Cậu Phương,Klq nhma bác mua lap gaming gì vậy ạ
+1708566606610264,1708031209997137,,rudolphtran25,Trần Công Đức,"Nếu bác mua máy hay cầm đi làm vs đi học thì nên để auto selection, nó sẽ dùng advanced optimus để chuyển qua chuyển lại igpu và dgpu mà ko cần tắt máy, cái này nó tự detect nhé.
+Trong trường hợp bác hay cắm sạc và để máy 1 chỗ thì chọn dGPU cho nó hiệu năng nhất. Còn cái optimus thì nó tự nhận là dùng card tích hợp, nhưng tùy trường hợp như mấy con asus có armoury create có 2 chức năng là eco mode và standard mode (eco mode sẽ tắt dgpu đi, dùng mỗi igpu thôi)"
+1708086626658262,1708031209997137,100038682230267,,Thái Tuấn,"Hãy dùng Optimus nếu hay đem đi đây đó, only gpu khi bạn ít dy chuyển, ngồi 1 chỗ chơi game"
+1708088156658109,1708031209997137,100010262411757,,Phạm Văn Thịnh,"Tích vào nvida đấy, nó sẽ chọn card rời. Nhưng mà phải cắm sạc mới đạt hiệu suất"
+1708074149992843,1708031209997137,,tungnguyen7397,Tùng Nguyễn,b hay cắm sạc laptop chơi game thì cứ quất nvidia gpu only nhé
+1708071093326482,1708031209997137,,tamma95,Vinh Long,chọn cái gpu only đi

@@ -1,0 +1,16 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1712288842904707,1712277546239170,100075348840940,,Hải,"Sự thích đó do não điều khiển, đến từ trung khu của não tiết ra Dopamine mỗi khi cơ thể hoàn thành 1 việc gì đó có lợi ích về mặt di chuyền ( hs, ăn, ngủ, ía đải ... ) như 1 phần thưởng khích lệ chủ thể, tạo cảm giác ham muốn khiến chủ thể lặp đi lặp lại việc đó."
+1712300876236837,1712277546239170,1851601017,,Linh Ngoc Trinh,"À, tôi làm được rồi, chỉ là nó không đơn giản cho người bình thường và các hướng dẫn ở trên mạng, cho nên tôi muốn hỏi thêm mọi người cách nào nó dễ cho người không chuyên mò mẫm để họ tự làm thôi"
+1712302249570033,1712277546239170,,kanzaki1993,Đặng Thành Luân,🤔tôi debloat r thì sốp cho xin link app trong store đc ko
+1712304579569800,1712277546239170,,luvideez,Quân,"Thực ra nó là 1 dạng của outlook, nhưng không phải là thuộc bộ office, vừa test thì thấy máy mình cài ở vị trí sau C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2024.829.0_x64__8wekyb3d8bbwe\olk.exe -> có thể đưa nó vào mục startup hoặc tạo 1 schedule running app đó khi pc login hay startup"
+1712308306236094,1712277546239170,,nguyen.m.quan.771,Nguyen Minh Quan,Bác Linh đầu hàng công nghệ...
+1712314656235459,1712277546239170,,hatandat,Hà Đạt,"Anh viết 1 bài giới thiệu group CÙNG NHAU SĂN SALE đăng trong này giúp em đi, em chỉ cho."
+1712317569568501,1712277546239170,,tin.chinh.731,Hoàng Minh,Mấy tháng trước lúc nó mới ra outlook new thay cho mail thì em vẫn tìm được và copy sang startup folder được. Giờ thì chịu ko biết tìm đâu😂
+1712350942898497,1712277546239170,,hatandat,Hà Đạt,"1. Nhấn tổ hợp phím Windows + R, gõ lệnh ""shell:AppsFolder"" nhấn Enter.
+2. Tìm trong list đó app Mail, nhấp chuột phải, chọn ""Create Shortcut"", nó hiện thông báo, nhấn ""Yes"".
+3. Nhấn tổ hợp phím Windows + R, gõ lệnh ""shell:startup"" nhấn Enter.
+4. Kéo thả shortcut app Mail trên Desktop vào folder Startup vừa mở ra.
+5. Khởi động lại máy.
+6. Tham gia group CÙNG NHAU SĂN SALE và đăng bài cảm ơn."
+1712375942895997,1712277546239170,,leducsao,Sao Leduc,tạo file bat chạy app r bỏ vào folder startup là được mà :v
+1712377936229131,1712277546239170,,lovegamehp,Phạm Nghĩa,"bác viết file bat hoặc reg để thêm mail vào startup, rồi đáp cái file đấy cho người ta, bảo người ta mở file đấy lên là được mà."

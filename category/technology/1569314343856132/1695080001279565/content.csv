@@ -1,0 +1,7 @@
+﻿post_id,user_id,user_name,fullname,content
+1695080001279565,,vietanhdev,Nguyễn Việt Anh,"🚀 Nhân dịp Meta AI ra mắt mấy mô hình Llama 3.2 nhẹ hơn, mình tạo tool Llama Assistant để chạy offline hoàn toàn làm một số việc như viết lại câu, viết mail, sửa chính tả, sau này có thể tự động hoá các tác vụ và flow công việc. - Chủ yếu để đảm bảo bảo mật, tránh lộ lọt thông tin.  🛠️ Llama Assistant được build với các mô hình Llama 3.2 mới nhất cùng tuỳ chọn các mô hình khác.
+🔥 Llama Assistant sẽ hướng tới anh em dev và ban đầu giới hạn dùng tốt nhất ở tiếng Anh (ngôn ngữ mình đang cần dùng nhất).
+🔗 Mọi người có thể dùng thử tại đây: https://github.com/vietanhdev/llama-assistant
+📹 Video thử nghiệm: https://www.youtube.com/watch?v=JYU9bagEOqk
+🌟 Star repo 🌟 để có cập nhật về sp bạn nhé! Sp vừa phát triển, sẽ có nhiều lỗi và điểm cần cải thiện, mình mong nhận được phản hồi từ mọi người.
+#LlamaAssistant #AI #OfflineAI #DeveloperTools #ProductivityBoost #Llama3"

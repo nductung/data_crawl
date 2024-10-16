@@ -1,0 +1,11 @@
+﻿post_id,user_id,user_name,fullname,content
+1704178433703055,100089726256821,,Hai Ba Lạng,"#buildinpublic
+lướt vài vòng thấy nhiều bạn ko biết tận dụng system prompt để lái LLM claude/gpt/gemini theo ý
+vấn đề là llm như là người gác cổng của thư viện khổng lồ
+bạn hỏi gì thì nó cũng biết, nhưng trên bề mặt, và chung chung
+nên bạn phải lái nó trở thành chuyên gia trong 1 lĩnh vực
+để nó moi đúng thông tin, ngữ cảnh mà trả lời chuẩn cho bạn
+nên mình tích hợp luôn ""System instruction generator""
+thường mình phải tự viết system prompt, rồi vibe check, rồi sửa
+thường mất cả buổi, giờ thì vài phút
+meta system prompt bên dưới comment cho gpt"

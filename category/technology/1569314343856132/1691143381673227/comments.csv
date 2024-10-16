@@ -1,0 +1,6 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1691201061667459,1691143381673227,,jang.trinh,Jang Trịnh,"Mình dùng make.com + google sheet / đầu tiên tổng hợp list url bài muốn post vào sheet (update mỗi ngày), vào make tạo automation flow kết nối vào sheet, cho Perplexity AI (chỉ thằng này mới có khả năng access vào 1 url và đọc bài) vào đọc và summary lại, sau khi có KQ thì đẩy sang claude AI viết lại 1 lần nữa (vì thằng này cách hành văn nó mượt và người hơn). Bước cuối set thêm 1 node đẩy lên facebook, x, … etc"
+1691245854996313,1691143381673227,,hxutixnnn,Nguyễn Hữu Tiền,"E chưa có content plan gì, nên bạ đâu đăng đó 😂
+
+Có khi đăng quá tr, có khi im re ko có gì để đăng 🥲"
+1691237651663800,1691143381673227,,duong.traceur,Dương Đức,Mình cũng quan tâm chủ đề này

@@ -1,0 +1,42 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1707081596758765,1706976103435981,,phan.haibac,Phan Haibac,Setup wake on lan + VPN mạng ở nhà
+1707080823425509,1706976103435981,,davicky0208,Leo Davicky,"Team view rồi auto run được không nhỉ?
+Mà nếu chỉ đơn giản là lấy tài liệu thì thím có thể làm việc trên driver mà"
+1707081030092155,1706976103435981,,minh.maixoan,Nguyen Tuan Minh,Anydesk cho free
+1707079296758995,1706976103435981,,bimm277,Huy Hoàng,Anyview bạn nhé. Đang có code cho free 1 năm
+1707090260091232,1706976103435981,,nguyen.quyet.chien.100598,Chiến Nguyễn,Dùng one drive bác ơi. Mua 1 năm có gần 200k mà dùng đc cả office 365. File làm xong trên cty tự động lên drive về làm đc luôn ko cần copy qua lại
+1707081553425436,1706976103435981,,nguyenducbao19,Nguyễn Đức Bảo,Dùng luôn gg diver làm ở đâu cũng lưu luôn
+1707101790090079,1706976103435981,,LeHoangNB,Lê Hoàng,"Nếu ko mở port wake on lan đc thì dùng tạm cái ổ cắm wifi, chỉnh bios của pc cho nó auto bật nguồn nữa là đc"
+1707095470090711,1706976103435981,,0.knyL,Linh D. Le,"Ổ cắm wifi + mở máy khi có điện.
+Remote: Nếu công ty được cài phần mềm thì bác có thể dùng Tailscale. Cài trên 2 máy rồi setup Remote Desktop của win dùng luôn."
+1707086193424972,1706976103435981,,megamax.power.3,Shotaro Hidari,"Mình dùng cái này để mở máy, còn điều khiển máy thì mình dùng Deskln"
+1707152373418354,1706976103435981,,conghihi,Diep Cong Anh,"Mh dùng 3 cái luôn
+Chrome remote desktop ưu tiên cho di động và máy tính đc đăng nhập mail
+Anydesk cũng ưu tiên theo user theo tên dễ nhớ
+Ultraview ưu tiên khi sử dụng máy khác ko phải của mình
+Sử dụng theo thứ tự như vậy tùy trường hợp
+C"
+1707080043425587,1706976103435981,,andree.lenguyen,Tân Cú,"lấy tài liệu thì chơi drive (GG drive hoặc Onedrive), ko cần mở máy"
+1707086893424902,1706976103435981,,CaoThanhDayNe,Cao Thanh,bro có thẻ anydesk :v
+1707143753419216,1706976103435981,,hoangakia.vn,Hoàng Nguyễn,"còn dư chân pcie thì mua cái module cắm vào, kết nối wifi xong là có thể bật tắt từ xa dc :D"
+1707084350091823,1706976103435981,,hoangthong911,Hoàng Thông,"ổ cắm wifi xiaomi bật mở qua app, vô bios bật tính năng tự động chạy máy khi có điện, rồi cài teamview ultraview mà vào"
+1707110413422550,1706976103435981,,bim811,Tùng Nguyễn,Mình sử dụng tính năng Wake on lan và PM Anydesk để điều khiển và bật máy luôn
+1707080490092209,1706976103435981,,thichanxoai1998,Trần Văn Đạt,"Anydesk, nhưng chỉ bật đc khi máy đang ở sleep"
+1707079063425685,1706976103435981,61550446223415,,Trung Nghĩa Lê,"lấy ở nhà thì bạn muốn dùng cũng phải tải lên tải xuống mà, sao k sài cloud cho rồi, còn điều khiển thì bật remote desktop lên rồi mở port bla bla các thứ nữa"
+1707092706757654,1706976103435981,,tranngocminh1990,Minh Trần,"Mình dùng Chrome remote desktop, máy ở cơ quan xài mac, ở nhà xài PC ngon ơ. Trc có dùng Teamviewer mà nó lock mẹ mất, chắc do dùng nhiều quá! @@"
+1707119176755007,1706976103435981,,Dung.Tien.Vu,Vũ Tiến Dũng,"cách đơn giản và ít tốn kém nhất là bác mua cái ổ điện wifi tầm 200k, setup pc ở chế độ Always on when AC back. sau đó thì đơn giản rồi chỉ cần cài app điều khiển cái ổ điện trên điện thoại, bật ổ điện lên là máy tự bật sau đó remote bằng teamview là xong"
+1707255050074753,1706976103435981,,vta1201,Vuong Tuan Anh,"gán 1 cái dns cho router (để truy cập vào router qua địa chỉ web custom, VD: duckdns. org ), sau đó truy cập vào router thông qua cái DNS kia rồi WOL. Nghe tả thì có vẻ dài dòng nhưng thao tác nhanh lắm và quan trọng là ko phải mua thêm thiết bị gì hết
+
+Mở browser trên đt gõ www.modemdns. xxx sau đó login vào modem và chọn WOL cho máy là xong.
+
+Remote máy thì dùng luôn Chrome remote desktop."
+1707334533400138,1706976103435981,,congtrinh.nguyen,Nguyễn Công Trình,Chrome remote desktop
+1707126740087584,1706976103435981,100068249064931,,Hoàng Nguyễn,Mình có bán ổ cắm thông minh wifi điều khiển từ xa có đo công suất tiêu thụ 199k bảo hành 12 tháng nhé
+1707081226758802,1706976103435981,100028081539746,,Trung Bùi,Remote desktop connection. Neu dung Window.
+1707151590085099,1706976103435981,,lap.haquang,Hà Quang Lập,"Parsec, oslink, chrome remote, moonlight… chứ any desk, teamview, ultraview sida vl."
+1707419470058311,1706976103435981,,quoctuan.it,Tuấn Lại,"Xài cái này bật tắt, chứ WOL thì hơi hên xui, còn remote thì cái nào quen dùng thì dùng thôi"
+1707093483424243,1706976103435981,,thangnguyen2001,Đức Thắng,chrome remote là ngon nhất
+1707311700069088,1706976103435981,,EYCHungCity,Nguyễn Hùng,parsec
+1707306463402945,1706976103435981,,nguyen.quanghiep.75,Nguyễn Quang Hiệp,"ultraview dùng cái này nè , mà sao ko lưu luôn trên gg dive cho tiện"
+1707083040091954,1706976103435981,,khiem.tnhh,Đới Sĩ Khiêm,Chắc kết hợp mấy cái công tác của smart home là bật đc á. Còn sau đó thì tui ko biết.
+1707091040091154,1706976103435981,,hoang.a.my.1,Hoang Anh My,bạn dùng cái này khá hay. có thể dùng cả trên đt androi

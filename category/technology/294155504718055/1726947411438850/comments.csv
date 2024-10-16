@@ -1,0 +1,27 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1727408671392724,1726947411438850,,ray.bi.167,Lê Anh Thắng,cục wifi 6 của viettel thì cổng lan ra được bao nhiêu các bác?.Em cũng đang dùng
+1727409088059349,1726947411438850,,vietdan.it,Lê Việt Đan,"Cắm dây mà luôn dưới 100Mbps thì:
+1. Check port router xem nó là 1Gbps hay 100Mbps
+2. Check port mạng trên máy xem nó 100Mbps hay không
+3. Check trong máy (Networks Properties) Xem thử hiện là 1Gbps hay 100Mbps
+
+Nếu cái này cũng đạt chuẩn thì gọi kỹ thuật xuống, setup lại port của Router thành full duplex 1000Mbps là được (có thể router cấu hình ko chính xác vụ port speed)"
+1727478891385702,1726947411438850,,tien.nguyen.0109,Tiến Nguyễn,V là do card mạng của bạn chỉ nhận tới 100mbps thôi chứ điện thoại đo lên 200 thì nhà mạng bình thường
+1727453091388282,1726947411438850,,du.du.1422409,Trần Hoàng Đức Du,"Vnpt nhà t xài cat5, cắm vẫn nhận từ 300-400 gói thấp nhất. Để ý nó có 2 cổng. 1 cổng như t đã nói và 1 cổng chỉ được 100 thôi."
+1727407851392806,1726947411438850,,tuanthanthien215,Trần Quốc Tuấn,này bác xem lại cổng ra của cục modem có hỗ trợ 1Gbps không nha :v
+1727425084724416,1726947411438850,,jeremiek55,Nguyễn Hà Khánh,Dây cat 6 nhưng bấm không thông đủ 8 sợi vẫn 100Mbps nhé thím. Nếu dây cắm trực tiếp từ con modem nhà mạng thì kiểm tra lại dây. Còn nếu cắm qua switch trung gian thì xem switch đó cổng ra bn.
+1727461828054075,1726947411438850,,heogiakhotanh,Phạm Thiên Phúc,"1. card mạng của máy chỉ hỗ trợ 100Mbps
+2. đi qua sw 100Mbps.
+3. đầu dây mạng bấm lỗi.
+4. port mạng trên modem chỉ đc 100Mbps.
+kiểm tra các cái này xem dính ở đâu"
+1727462018054056,1726947411438850,,s3nt1.isme,Trọng,"À mấy bác cho em hỏi mấy nay mạng Viettel nhà em cứ tối tối là chơi mấy game quốc tế k được, này là tính năng hay lỗi v ae 😞(kiểu vô twitch lúc dc lúc k)"
+1727411408059117,1726947411438850,,vu.luuquang.948,Lưu Quang Vũ,đây wifi 6 thấy trên đt khá ổn nhưng trên lap nó cứ lỏ lỏ kiểu gì đấy các bác
+1727418601391731,1726947411438850,,hoathienly.M,Văn Minh,Gói 150mbps Viettel nó bị như này
+1727420714724853,1726947411438850,,archmage.xx,Linh Hoàng,Thế bạn cắm dây mạng trực tiếp vào modem của VNPT hay qua cục phát wifi hay switch? Cắm trực tiếp xem nhé :)))
+1727430401390551,1726947411438850,61566612929992,,Nguyễn Thắng,lắp FPT cho mạnh
+1727414194725505,1726947411438850,,minhcuong.2704,Lê Minh Cường,"đo dây cắt lại bạn :v mình vừa làm xong luôn, gói 200mb mà chạy có 50 60 = dây,
+kỹ thuật kiểm tra 1 vòng rồi cắt dây bấm lại h up lại 19x rồi"
+1727420798058178,1726947411438850,,anhtientn277,Nguyễn Ngọc Thế,máy tính cắm dây gì cat5 thì chỉ đc 100mbps là đúbg r
+1727407401392851,1726947411438850,,namct91,Nam Bui,Máy tính đời cổ thì card mạng chỉ tối đa 100mbps. Hoặc b cắm qua cục wifi rẻ tiền cổng LAN chỉ tối đa 100mbps. Cắm thẳng vào cục modem của nhà mạng mà vẫn 100mbps thì xem lại cấu hình cục modem hoặc máy tính
+1727408968059361,1726947411438850,,minhduc.nb.98,Nguyễn Minh Đức,Show cấu hình máy tính lên xem sao

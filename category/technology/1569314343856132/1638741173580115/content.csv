@@ -1,0 +1,26 @@
+﻿post_id,user_id,user_name,fullname,content
+1638741173580115,,onequy,Minh Quy,"Chào mọi người, vài tháng trước mình đã giới thiệu app đầu tiên của mình Gooday. Hôm nay mình xin giới thiệu app thứ hai trong 'sự nghiệp' side project của mình: Vocaby.
+
+Vocaby là cái app nhỏ gọn và đơn giản giúp bạn học từ vựng tiếng Anh một cách dễ dàng thông qua các... thông báo (notification). Mỗi thông báo sẽ giới thiệu một từ mới.
+
+Với Vocaby, bạn có thể:
+
+- Tùy chỉnh tần suất và cách hiển thị thông báo (hiện phát âm, ví dụ, định nghĩa,...). Bạn có thể cài đặt để hiển thị nhiều lần mỗi ngày, trong tối đa 10 ngày.
+- Hỗ trợ dịch từ ra tới gần 100 ngôn ngữ phổ biến nhất.
+- Truy cập 10 cấp độ phổ biến của từ vựng.
+- Data tổng cộng lên đến 50,000 từ vựng.
+- Tích hợp 5 dịch vụ dịch thuật, bao gồm Microsoft, Google và Deep Translate, bạn có thể thay đổi dịch vụ để đảm bảo bản dịch chính xác nhất đối với bạn.
+
+Tại sao mình làm app này và ý tưởng đến từ đâu?
+
+Một lần nọ mình tìm trên Google ý nghĩa của một từ vựng. Google đã hiển thị một mini-app có thể gửi từ vựng mới hàng ngày qua thông báo đến điện thoại của mình. Mình thấy tính năng khá hay, mình tap vào xài ngay. Nhưng vài ngày sau, các thông báo không còn xuất hiện nữa. Có thể là lỗi hoặc gì đó... Vì vậy, mình quyết định tạo ra ứng dụng riêng mình để thực hiện tính năng này và nâng cao nó với nhiều khả năng hơn (như mình list bên trên).
+
+Fun fact: Mình yêu thích làm app, nhưng mình cũng bị 1 'căn bịnh' như bao anh em dev, đó là đang làm app này thì ý tưởng app khác trào ra, thì trường hợp mình đang làm app khác thì ý tưởng Vocaby này xuất hiện, mình nhảy qua làm luôn, vì mình định làm nhanh gọn trong... 2 ngày. Cuối cùng: app này đã mất tới hơn... 2 tháng mới xong :))) Nhưng app nào mình cũng yêu thích làm, nên mình không hối tiếc gì cả, hạnh phúc là hành trình mà hehe.
+
+App này mình open-source & #BuildInPublic, mình đăng bài quá trình làm khá thường xuyên bên Twitter (X) của mình. Vocaby vẫn dùng tech stack ruột của mình: React Native, Firebase và Sqlite.
+
+Link tải app mình để bên dưới cmt. Mình cũng vừa launch trên Product Hunt. Mọi người ủng hộ thì hãy vào vote cho mình nghen.
+
+Và mình cũng xin nhận mọi feedback nè.
+
+Cảm ơn các bạn!"

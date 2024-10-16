@@ -1,0 +1,27 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1707444526709779,1707435520044013,,khoi.codetot,Nguyễn Minh Khôi,"Cũng quan tâm, đang Paypal bị rate 4.4% hơi khóc."
+1707446006709631,1707435520044013,,mrgoonie,Duy Nguyen,"Mình thấy phí bên nào cũng vậy (tại mình có doanh thu mấy đâu) 🤣
+
+Đùa chứ phí rẻ thì bạn nghiên cứu thêm Polar.sh và Creem.io thử xem
+
+Nhưng điểm trừ là 2 ông này khá mới nên còn thiếu khá nhiều tính năng 😅"
+1707459526708279,1707435520044013,,imsoianchay,Nguyễn Xuân Trường,Mình đang dùng cả stripe và paddle. Paddle fee cao bơn nhưng mình vẫn thích dùng hơn
+1707447353376163,1707435520044013,,phuoccn,Lương Hữu Phước,"Stripe có cho việt nam đâu bạn, lemonsqueezy có cho VN mà fee cũng cao"
+1707466090040956,1707435520044013,,toidicodeblog,Tran Trang,"Stripe Bạn phải tự lo thêm vụ thuế của bạn nữa đó, vì thế nên nó rẻ hơn các bên khác như: lemomonsqueezy à"
+1707464963374402,1707435520044013,,longnt.one,Long Nguyễn,"Cổng thanh toán Stripe+Paypal là combo ngon nhất r
+Mà Stripe chưa hỗ trợ VN nên cần lập cty ở các nước khác vd như HK/Sing/US
+Tối ưu nhất có lẽ vẫn là US"
+1707548856699346,1707435520044013,,smthanh,Sử Minh Thành,"Làm kiểu AB testing, force toàn bộ new user dùng Stripe, rồi viết mail gửi hàng loạt cho old user mời chuyển đổi qua Stripe, vẫn giữ toàn bộ old user dùng song song Paddle và Stripe, đến khi họ end subs hoặc thẻ của họ hết hạn chỉ hiện thị mỗi option Stripe."
+1707440773376821,1707435520044013,,nguyentranchung.b3,Nguyễn Trần Chung,Quan tâm
+1707484083372490,1707435520044013,,qwertyduythinh,Nguyễn Duy Thịnh,Onepay ok nhé. Đáp ứng đủ yêu cầu của bạn
+1707539766700255,1707435520044013,,0xEchoPhantom,Phạm Quang Vũ,"Stripe phải làm công ty Us , hoặc sing hay hk => chi phí còn tốn hơn vài lần"
+1707538686700363,1707435520044013,,0xEchoPhantom,Phạm Quang Vũ,Đang reg paddle lun 🗿
+1707444573376441,1707435520044013,100008184183200,,Trần Đức Lân,Add thêm phương thức thanh toán chứ k thay ạ.
+1707449646709267,1707435520044013,,ph.xxx,Ph Vu,"Chạy cả 2 cổng đi sốp, thanh toán mới thì chỉ chấp nhận thông qua Stripe, Paddle thì đợi thẻ hết hạn người ta nhập thẻ mới dùng Stripe, như thời hạn sử dụng thẻ ở VN thì tầm 3 năm nữa sốp migrate xong :v"
+1707495813371317,1707435520044013,,trungnx26,Trung Nguyễn,"Rồi sau chị rút tiền về VN thì lại thêm 1 mớ phí nữa Ty Nguyen, em thì vẫn dùng stripe, còn mặt kệ phí"
+1707488593372039,1707435520044013,100094017800547,,Mai Đình Ngọc,Không cam kết được số thì ít bên nào có rate tốt cho mình cả chị ạ
+1707451586709073,1707435520044013,,Bcat95,Đôn Anh Nguyễn,Chúc mừng team ra global. e cũng hay tt online mà cả 2 này đều lạ lẫm cả
+1707547633366135,1707435520044013,100014963790366,,Thanh Vũ,"- Thuế thì trong thiết lập price hoặc checkout có 2 chế độ là tax exclude(người mua trả) và include (người bán trả). Ở cổng nào thì cũng vậy, bạn chỉnh lại là đc.
+- Stripe fee ~3% chỉ gồm những chức năng thanh toán cơ bản, còn để dùng thêm 1 số chức năng cần thiết như chống gian lận, bồi hoàn, thu thuế... bạn sẽ phải trả thêm. Full trọn gói có thể lên hơn 8%. 5% của Paddle là đã bao gồm những chức năng đó rồi.
+- Fail thẻ thì bạn nên xem lý do fail là gì, hệ thống chống gian lận của Paddle có thể thấy thẻ từng giao dịch bất thường nên auto từ chối, bạn liên hệ support để họ làm thủ công xem sao.
+- Cuối cùng là nếu bạn ko thể tự đóng thuế global và lập cty ở nước ngoài thì né Stripe ra. Có thể tham khảo thêm transaction.cloud hoặc ở VN có Paymentwall."

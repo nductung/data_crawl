@@ -1,0 +1,14 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1716136359186622,1716037875863137,1851601017,,Linh Ngoc Trinh,"thả 200 số đó vào 200 dòng trong excel, quay random. org từ 1-200, xong quy đổi ngang hàng, nhanh gọn ko phải code hay làm app"
+1716134079186850,1716037875863137,,vunghine,Hoàng Vũ Nghị,"import random
+
+def lay_so_ngau_nhien(arr):
+return random.choice(arr)
+
+mang = [1, 2, 3, 4, 5]
+so_ngau_nhien = lay_so_ngau_nhien(mang)
+print(so_ngau_nhien) làm luôn cái hàm này cũng được bác"
+1716136932519898,1716037875863137,,dat.huynh27,Đạt Huỳnh,"vấn đề đặt ra là bạn có export đc chính xác list 200 con số đó ko. Nếu đc thì export list đó ra rồi lên trang wheelofnames nhập list đó vào, đảm bảo khi quay sẽ luôn có người trúng"
+1716133365853588,1716037875863137,,lovegamehp,Phạm Nghĩa,bác bảo con AI nào đấy nó viết code hta cho
+1716134609186797,1716037875863137,,moc.duong.2903,Mộc Dương,Random . Org là 1 ví dụ free và nhanh nhất
+1716135845853340,1716037875863137,,nhattuvl,Bùi Nhật Tú,Quay từ 0 - 1000 xong lấy người gần kết quả nhất 😳

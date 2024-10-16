@@ -1,0 +1,34 @@
+﻿post_id,user_id,user_name,fullname,content
+1681275039326728,,hxutixnnn,Nguyễn Hữu Tiền,"Từ ý tưởng thành sản phẩm bằng v0
+v0.dev/chat là một công cụ mới của nhà Vercel giúp generate UI sử dụng Next.js và Shadcn UI. Bạn cần tạo 1 tài khoản (miễn phí) và có thể bắt đầu sử dụng (free 10 messages/ngày).
+B1: TẠO PROMPT BẰNG CHATGPT
+Mình dùng Prompt Engineer của ChatGPT và chat theo format: ""Improve my prompt: [your prompt here]"".
+Lưu ý: nên đưa đúng keywords hoặc đầy đủ context cho nó viết tốt hơn.
+Chẳng hạn như ở câu đầu tiên nó hiểu sai từ ""billings"" nên ra không đúng kết quả.
+Sau đó, mình cung cấp thêm context như hình tiếp theo thì nó đã hiểu và ra được prompt hoàn chỉnh hơn.
+B2: CHUYỂN PROMPT SANG V0
+Mình copy toàn bộ phần sau của ""Improved Prompt"" sang v0 và ra được thành quả như bên dưới.
+Lưu ý: Vì số lượng tin nhắn free có hạn nên mn hạn chế chat từng câu mà hãy gộp lại như hình, yên tâm là nó có thể xử lý hết đống đó mà ko xót 1 cái nào. 😎
+Nên nói ""Show all code in one file"" để nó không chia code của mình ra thành nhiều phần (bị lỗi ko Preview được).
+Tip: mọi người có thể dùng tính năng Edit Message để regenerate lại kết quả nếu không hài lòng với prompt trước.
+v0 có thể generate được icon, chart và cả animation, nên mn nhớ xài để nhìn app xịn hơn nha.
+B3: PUBLISH APP
+Ở bước này có thể bấm Publish và share cho bạn bè xài được rồi.
+Nếu muốn custom hay chỉnh sửa thêm code thì chuyển sang bước 4 nhé.
+B4: TẢI VỀ PROJECT (LOCAL SETUP)
+Dùng tính năng CLI mới để triển khai project về máy cá nhân.
+Câu lệnh sẽ thêm 1 component mới vào dự án hiện có của bạn hoặc tạo mới 1 dự án Next.js nếu chưa có.
+Lúc setup dự án mới hơi quằn xíu nên nếu bạn chưa rành về Next.js thì hãy đọc sơ qua nha, nhất là về SEO và custom theme.
+B4: DEPLOY DỰ ÁN
+Publish code mới lên Github và kết nối với tài khoản Vercel khi nãy, bạn có thể deploy được app của mình lên domain [yourappname].vercel.app miễn phí. 🎉
+MỘT VÀI LƯU Ý:
+Có thể dùng Claude thay cho ChatGPT.
+Có thể sử dụng tiếng Việt thay vì tiếng Anh.
+ĐIỂM MẠNH
+Phù hợp với các dự án nhỏ, đơn giản cần thực hiện nhanh để kiểm tra tính khả thi của ý tưởng.
+Có thể dùng để tạo ra các web app dạng free tool để boost traffic cho website. Mình sẽ chia sẻ thêm về case này sau.
+ĐIỂM YẾU
+Chưa hỗ trợ generate full stack app (client side only).
+Phải sử dụng Nextjs và Shadcn UI.
+
+Toàn bộ link trong bài viết mình sẽ để ở dưới comment cho mọi người. Cảm ơn mọi người đã đọc. 🙌"

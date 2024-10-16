@@ -1,0 +1,3 @@
+﻿post_id,user_id,user_name,fullname,content
+1701625233958375,,nhattien2106,Nhật Tiến,"Chào mọi người, hiện tại em đang build một app trích xuất hoá đơn bằng nextjs typescript và deploy trên vercel. Tuy nhiên lúc em xuất file pdf thì lúc dev trên localhost rất oke nhưng lúc chạy trên production lại lỗi corruption file.
+Em xai puppeteer và soi thì vercel chỉ cho xuất run time 10ms và file e lúc xuất 140ms nên thành ra lỗi. Mọi người ai có kinh nghiệm khắc phục thì chỉ e với ạ. Em có resize lại file chỉ có 1kb thôi nhưng vẫn lỗi 🥹. Cám ơn mng"

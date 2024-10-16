@@ -1,0 +1,5 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1693893648077560,1693839758082949,100038682230267,,Thái Tuấn,"2 cái display là nó nó cho 2 card, 1 cái igpu của chip, 1 cái gpu riêng được nối với cổng xuất hình thôi. Cái đó không quan trọng"
+1693891831411075,1693839758082949,,tamma95,Vinh Long,Chụp cái báo 90% ram đi( cái nào ăn bao nhiêu). Chứ 2 cái display thì do máy có 2 card chứ có ảnh hưởng gì đâu
+1693907948076130,1693839758082949,,nhutvantrinh,Trịnh Văn Nhựt,"ram phụ thuộc vào nhiều yếu tố có cả app chạy ngầm hay virus, v.v.v.
+2 cái vga nó chạy hybrid khi nào cần lực đồ họa sẽ tăng cường cái vga rời (or e có thể set thủ công trong Nvidia Panel/Windows Graphic Properties or Geforce Experience)"

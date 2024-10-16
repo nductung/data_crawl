@@ -1,0 +1,20 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1713859669414291,1713643149435943,,kirito.boss.33,Dũng,Tiện đây các bác cho em hỏi i7-7500u+ gtx 1050 thì yếu hay mạnh hơn i7 4780mq+ gtx 960m ạ
+1713834736083451,1713643149435943,100038682230267,,Thái Tuấn,"Thử nhập lần lượt từng cái vào command prompt và ấn enter từng cái:
+ipconfig /release
+
+ipconfig /flushdns
+
+Copyipconfig /renew
+
+netsh int ip reset netsh
+
+winsock reset"
+1714799035987021,1713643149435943,,tuongabc,Đỗ Tường,Ax210 chỉ card 300k.nếu bạn cần. Ac8265 = 70k.
+1713837742749817,1713643149435943,100027481456713,,Cù Văn Kiên,qua em bán cho con 9560NGW 200k :D
+1713884912745100,1713643149435943,,nguyenhoang.dev,Nguyễn Việt Hoàng,check xem nó trỏ ip về đâu
+1713835182750073,1713643149435943,,maruu.nguyen,Khôi Nguyên,"khéo do dns máy nó cài sai, hôm qua con lap của bạn mình nó bị"
+1713836349416623,1713643149435943,,minhduc.nb.98,Nguyễn Minh Đức,Card wifi rẻ bèo mà. Con xịn như ax210 có chưa đến 4l
+1714551489345109,1713643149435943,,duchau.nguyen.145,Đức Hậu,Con ax201 shoppee có hơn 300k mà b card j mà tận 8 lốp z
+1714473029352955,1713643149435943,,whynotnguyenn,Thanh Nguyên,"Wtf 8 lốp :))), lên S mua ax210 wifi6 hơn 200 xíu đã xài lút cán r, giàu thì lên luôn wifi7 tầm 7 lốp đổ xún"
+1713834662750125,1713643149435943,,trucu123,Huỳnh Châu Thanh Trúc,"Bác reset lại network thử xem được không. Dây LAN nữa, cắm dây LAN vào dùng xem"

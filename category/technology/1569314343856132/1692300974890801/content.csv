@@ -1,0 +1,31 @@
+﻿post_id,user_id,user_name,fullname,content
+1692300974890801,,theremynagoesagain,Huỳnh Ngọc My Na,"ĐỘI NGŨ VIỆT NAM MANG ỨNG DỤNG HỖ TRỢ BỆNH NHÂN ALZHEIMER ĐẾN CUỘC THI GEMINI API CỦA GOOGLE
+
+Đến năm 2023, Việt Nam có 531.000 người bị sa sút trí tuệ. Hầu hết người mắc bệnh này không thể sống độc lập mà cần sự giám sát của gia đình hoặc người chăm sóc.
+
+🇻🇳 Hiểu được khó khăn này, 8 thành viên người Việt Nam của Dirox tự hào mang đến Cuộc thi dành cho nhà phát triển Gemini API của Google sản phẩm MemKeep 🌟
+
+👨‍⚕️👩‍⚕️ MemKeep là một ứng dụng Android lưu trữ ký ức nhằm nâng cao khả năng của bệnh nhân và giúp người chăm sóc thêm an tâm trong sinh hoạt thường nhật.
+
+Phương thức hoạt động của MemKeep:
+
+1️⃣ Lưu trữ thông tin bằng nhiều định dạng: thông tin cá nhân, lịch hẹn, hình ảnh, kỷ niệm,..
+
+2️⃣ Trợ lý AI Emma: người bệnh có thể giao tiếp với Emma bằng những câu hỏi tự nhiên như “Tôi có con không?” hay “Con tôi tên gì?”
+
+3️⃣ Emma đào sâu và phân tích kho dữ liệu để nhanh chóng đưa ra câu trả lời.
+
+Công nghệ đằng sau MemKeep:
+⚙ Android mobile app: Kotlin + Firebase mobile SDK
+⚙ Backend: NodeJs
+⏩ Firebase AI Services:Firebase ML API, Vertex AI API
+⏩ Firebase Serverless: Firestore, Cloud functions
+
+Hãy trải nghiệm HOÀN TOÀN MIỄN PHÍ và bình chọn để MemKeep có thêm cơ hội phát triển, góp phần tô đậm dấu ấn của lực lượng công nghệ số Việt Nam trên bản đồ của Google!
+
+📲 Trải nghiệm ứng dụng: memkeep.carrd.co
+🏆 Bình chọn: ai.google.dev/competition/projects/memkeep
+
+Nếu anh em cần thêm thông tin, hãy bình luận hoặc liên lạc qua hang.ha@dirox.net nhé!
+
+#gemini #buildwithgemini #alzheimer"

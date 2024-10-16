@@ -1,0 +1,14 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1727412901392301,1727027711430820,100005866621609,,Việt Cường,Dạng này chỉ hỗ trợ 1 dạng SSD M2. chuẩn NVME. Ko lắp dc card wifi M2 vào đâu. Card wifi phải có card chuyển đổi riêng mới lắp dc.
+1727412914725633,1727027711430820,,nghiem.nguyen.123456,Nghiêm Nguyễn,"card wifi thì mua card pcie x1 wifi gắn vào, chứ ai lại mua card chuyển pcie về nvme rồi dùng card wifi m2 gắn vào"
+1727426078057650,1727027711430820,,TechSnagit,Tuan Nguyen,"cái này nó chỉ là chuyển chân vật lý PCI. nên hoàn toàn không có ic xử lý chuyển mạch tín hiệu nào cả,
+
+sơ đồ chân out giống ssd M2 nvme ( tức là SSD dạng giao tiếp chuẩn PCI),
+
+cho nên nó chỉ hỗ trợ các Module giao tiếp dạng PCI, kể cả card wifi M2 điều tương thích vì sơ đồ chân hoàn toàn giống nhau, đó là lý thuyết, và thực tế tôi cũng đã test qua, hoàn toàn tương thích card Wifi M2"
+1727477154719209,1727027711430820,100008176817526,,Tang Minh,nó hỗ trợ gì lắp nấy thôi
+1727435594723365,1727027711430820,,maianh.levin,Mai Anh Levin,Về lý thuyết là được còn thực tế thì hên xui
+1727410828059175,1727027711430820,,phuccm21,Minh Phuc Chu,đầu hàng công nghệ
+1727508088049449,1727027711430820,,nguyentranthuong89,Nguyễn Trần Thương,"AX200 kèm ăn ten xịn xò, 150k Chung cư tecco town, Bình Tân, Tp.HCM"
+1727410111392580,1727027711430820,100009646547931,,Trần Nam Hà,Tìm cái cạc wifi cùng chân nvme rồi lắp thử xem 😃
+1727504678049790,1727027711430820,,l.kh.hyy,Lâm Khánh Huy,Nếu ông mua lẻ cái card wifi M2 kể cả nó có chạy thì chỗ đâu ông gắn 2 cái ăng ten 😀 đừng nói là mua tiếp 2 râu ăng ten xong khoan 2 lỗ bắt vô nha. Sao cồng kềnh vậy

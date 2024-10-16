@@ -1,0 +1,8 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1695108004610098,1695080001279565,,tqlwasme,Vương Gia Mộc,Bạn có thể cho mình hỏi tí . Mình không rành AI muốn tìm hiểu làm 1 con ai trả lời tự nhiên hỗ trợ tìm kiếm là chủ yếu thì nên dùng models nào ạ . Deploy cloud không gpus càng tốt ạ
+1701440460643519,1695080001279565,,bui.hoai.39,Bui Hoai,"Suggest cho bạn combo sau
+1. Dify.AI - Có tiền thì xài CHATGPT , ít tiền thì xài chung TogetherAI
+
+2. Dify.AI + Ollama self host ko cần GPU chạy local cũng dc
+
+Vì sao dùng Dify , vì bạn cần làm vấn đề liên quan đến RAG mà no code thì xài Dify cho nhanh"

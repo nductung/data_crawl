@@ -1,0 +1,31 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1689436738510558,1689433825177516,,quocanh261997,Michael Nguyen,Mua của mấy trang như MatBao rẻ hơn đó bạn
+1689440551843510,1689433825177516,,cuongxinchao,Nguyễn Mạnh Cường,Google Drive có vậy không bạn?
+1689987301788835,1689433825177516,,dongdv3004,Dương Văn Đông,E đã có kn build chiến lược giá cho sp quốc tế. Có gì ae đàm đạo nhé A
+1689439828510249,1689433825177516,100089726256821,,Hai Ba Lạng,"này gọi là Geographical pricing, tuỳ kinh tế của 1 quốc gia
+
+cái này hợp lý hơn là ép 1 mức giá cao của nhà giàu cho người nghèo.
+
+1/ không phải, vì thu nhập của VN thấp hơn nên vậy thì sẽ hợp túi tiền
+mức giá đầu vào dễ cho người dùng tiếp cận sản phẩm, tạo thương hiệu, sau này upsell các dịch vụ khác
+
+2/cái này thì tuỳ vào sản phẩm và khách hàng mục tiêu, nên ko thể trả lời"
+1689484035172495,1689433825177516,,tvt84,Tuan Truong,"Mua ở Việt Nam chỉ 1 tr/ năm, qua đại lý rẻ hơn nhé bạn."
+1689988221788743,1689433825177516,,dongdv3004,Dương Văn Đông,"Đây gọi là định giá động. Phụ thuộc vào thị trường, khách hàng, công việc, sản phẩm thiết bị kh dùng nữa… bác thử test grab mà xem. 1 con mát ghẻ và 1 con máy cc xem."
+1689591715161727,1689433825177516,,davidtran119,Trần Nam,Bạn nên thử các mức giá khác nhau. Thấy mức giá nào người dùng sẵn sàng trả thì để mức giá đó. Có thể áp dụng AB test.
+1689472865173612,1689433825177516,,VivamosMajor,Van Minh Hung,"Giá thì theo từng vùng phù hợp với mức sống và thu nhập. Như lương ở VN thì thường SG > HN >> các tỉnh khác hay mẽo thì NYC, SF > các thành phố còn lại, vậy thôi."
+1689441628510069,1689433825177516,100005360145371,,Co Hue,"Chiến lược giá này nếu thị trường có đối thủ rồi thì bạn có thể dựa vào đó. Như claude theo chatgpt.
+Nếu chưa có thì bản phải nghiên cứu 1 là ngành, lợi íc chi phí, xã hội nơi thu tiền. Hoặc đơn giản tự bốc thuốc"
+1689483268505905,1689433825177516,,anpuv.pham,Vu Pham,"Có 3 cách set giá (và áp dụng cả 3 theo product life cycle cũng dc)
+
+Trc break even point
+
+- cách đầu tiên là top down, indie hacker hay bỏ qua. Mình sẽ xem xét break even point ở thời điểm nào, số lượng package bán ra và tốc độ bán có thể đạt dc, subscriptions hay one time payment hay hybrid sẽ giúp đạt dc nhanh hơn. Anh thấy có 1 số sản phẩm monetize model họ intentionally one time payment trc để growth userbase rồi sau đó release ra thêm các features có long term value để thu thêm subscription.
+
+- cách 2 bottom up từ user, nếu không có direct competitor thì đầu tiên mình xem xét đến nền tảng mình mang giá trị gì cho user, value prop có là leverage trực tiếp đến tài chính của user hay không (vd bot tài chính giúp khách hàng x dòng tiền lên) , xong rồi chọn các mốc thu tiền 0.99 hay 9.99 hay 99.99, kết hợp với cách 1 để có chặn dưới.
+
+- Cách 3, bành trướng vô hạn lãnh thổ. Thường khi pass break even point hoặc CAC bắt đầu cao lên thì mình quan tâm tới growth kiểu set 1 mức giá cho 1 tập đặc biệt, vd như geo pricing, segment pricing (edu, for indie hacker only etc) chủ yếu là chặn đối thủ mới sinh ra hoặc nuôi user đến khi tốt nghiệp xong thì thịt.
+
+- (Optional) Thiết lập kênh phân phối với giá chiết khấu nhằm tối ưu CAC khi qua 1 thị trường mới."
+1689586218495610,1689433825177516,,duongvanba.agency,Dương Văn Ba,mình đang mua 3$ khuyến mại 1 năm đây sao bạn đắt thế :v
+1689469128507319,1689433825177516,,xoavn,Trần Đức Anh,đổi qua thổ nhĩ kỳ nó còn hơn 3$ thôi

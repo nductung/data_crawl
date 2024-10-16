@@ -1,0 +1,8 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1701645197289712,1701625233958375,,khangnd.vn,Duy Khang,"Tài khoản hobby thì serverless function mặc định cho 10ms (tối đa chỉ 60ms). Bạn có thể upgrade lên Pro, tối đa đc 300ms, nhưng cách tốt nhất là tách phần xử lý puppeteer thành 1 service riêng deploy lên aws lambda function + dùng API gateway để trigger, lúc này tha hồ mà config thời gian xử lý ko sợ timeout và cũng ko phải tốn phí 🙂"
+1701645043956394,1701625233958375,,hxtruong666,Xuân Trường,"Xuất file pdf là bạn tải file thông qua url trên website hả bạn?
+
+Thường thì mình cứ upload lên storage nào đó (như S3,Minio) rồi có link tải bình thường thông qua URL thôi."
+1701646627289569,1701625233958375,,smthanh,Sử Minh Thành,"1. có thể trả về data cần xuất ra pdf về phía client để xử lý xuất pdf
+2. upgrade lên bản Vercel Pro $20/tháng"
+1701644460623119,1701625233958375,100009038663233,,Thien Ho,Build server riêng thôi bạn

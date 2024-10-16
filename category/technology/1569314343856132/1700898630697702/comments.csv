@@ -1,0 +1,8 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1700918697362362,1700898630697702,,nguyentubn,Nguyễn Tú,"Này do nội dung mail chứ link gì k
+Chứ ko phải do SES"
+1700907007363531,1700898630697702,,edng.de,Việt Hoàng,"Trước có lần mình chèn cái logo vào cũng vô spam, sau đó cũng k cần nữa nên cũng chưa tìm hiểu sâu vụ này"
+1700918274029071,1700898630697702,,dinhtin95,Đinh Tín,Khả năng cao các mail bị người nhận report domain là spam...
+1700916937362538,1700898630697702,,Uet.Duy,Đức Duy,"Chủ yếu là do content bạn ạ, thỉnh thoảng đảo content đi phát, ít ảnh nhiều text lên là đc.
+Cái này là kinh nghiệm cá nhân thôi chứ cũng k theo lý thuyết gì"
+1701178804003018,1700898630697702,,dung.buihong,Dũng Bùi Hồng,"1 phần thì các mail server nhận đổi chính sách. Ví dụ như đây là chính sách của Google 2/2024 https://support.google.com/a/answer/81126?hl=vi#zippy=%2Cyêu-cầu-đối-với-việc-gửi-từ-thư-trở-lên-mỗi-ngày. Ngoài xác thực SPF, DKIM bạn nên chèn các Link cho người nhận Unsubscribe mail trong content. Không phải do SES đâu."

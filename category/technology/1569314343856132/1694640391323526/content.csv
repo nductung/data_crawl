@@ -1,0 +1,17 @@
+﻿post_id,user_id,user_name,fullname,content
+1694640391323526,100089726256821,,Hai Ba Lạng,"#brainstorming
+có ai xây dựng images to store không?
+user flow: upload images -> chọn template phù hợp -> dùng ai để sửa description -> đặt giá -> public
+app workflow:
+-> nhận images
+-> dùng vision model để mô tả hình ảnh (1)
+-> chọn template trong kho và đề xuất
+-> tự viết description từ (1)
+-> lưu đề xuất từ user
+-> build và deploy khi user publish
+why now:
+với vision model, mình có thể clone website/store nhanh chóng
+llm có thể viết code, chấp nhận customization từ user nhanh
+llm có thể giúp user translate product to multiple languages
+các công ty to như con tàu to, khó mà đổi hướng nhanh được, phải vài tháng
+vài dev/designer đam mê có thể launch mvp trong 1 tuần"

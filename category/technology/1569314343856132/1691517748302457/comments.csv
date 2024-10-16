@@ -1,0 +1,4 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1691527214968177,1691517748302457,,tranlongvu186,Vũ Trần,"Bác tích hợp Jitsi ấy. Có thể dùng elest.io deploy 1 con Jitsi xong dùng Iframe API của nó tích hợp vào product của mình là xong, nhanh gọn nhẹ"
+1692054788248753,1691517748302457,,arisng01,Anh Nguyen,"Mình cũng đang tìm hiểu về vấn đề này cho project ở cty. Bạn thử theo hướng tìm white label SaaS về mảng video conference, rồi tích hợp vào app của mình thử, thay vì phải tự build từ đầu. Ví dụ mình mới biết tới https://www.digitalsamba.com/ , và đang tìm hiểu SaaS này để tích hợp."
+1691654448288787,1691517748302457,,brian.hoang.1994,Hoàng Giang Biển,nếu bác làm để thử có thể dùng gói free của agora để xem luồng hoạt động ok chưa. rồi sau đó tìm giải pháp xây dựng cho rẻ

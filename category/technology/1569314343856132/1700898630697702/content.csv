@@ -1,0 +1,3 @@
+﻿post_id,user_id,user_name,fullname,content
+1700898630697702,,yuto.yasunaga.27,Le Minh Thien Toan,"Các anh em làm product có ai sử dụng dịch vụ gửi mail AWS SES cho mình hỏi với. Có ai bị trường hợp là mail gửi cho user đều bị bay vào mục Spam không ☹️
+Lúc trước mình dùng AWS SES gửi mail vẫn bình thường, dạo này mới bị, mặc dù nội dung mail thì vẫn code HTML/CSS cho sạch đẹp rõ ràng. Và đã xác thực SPF, DKIM, DMARC."

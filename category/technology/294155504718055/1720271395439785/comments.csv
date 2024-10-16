@@ -1,0 +1,12 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1723847825082142,1720271395439785,,bardock.saiyan.98622,Âu Dương Phong,"Ping cao nhưng ko có đứt thì cũng đâu ảnh hưởng gì mấy. Ping đứt mới lo mạng chập chờn. Ping bị giật thế này chỉ lo mỗi đội chơi game :))
+Nếu wifi có 5Ghz thì đổi quả 5Ghz dùng xem"
+1723851581748433,1720271395439785,,dthangcopy,No Thắng,tắt cái smart connect ngu si của bọn asus đi là hết
+1723844955082429,1720271395439785,,tamma95,Vinh Long,Mua hub typeC là ổn
+1723843825082542,1720271395439785,,tuann2910,Nguyễn Văn Tuấn,Mua hub có cổng lan đi b
+1723859448414313,1720271395439785,100038682230267,,Thái Tuấn,"Nhìn như bị nhảy kênh, vào cài đặt của cục wifi rồi tắt từng kênh một xem nó có hết ko"
+1723866131746978,1720271395439785,,sengtocxoen,Sang Nguyễn,"Ping cao bất thường mới hôm nay thôi hay sao ấy. nếu diễn ra nhiều thì chắc do nguyên nhân chỗ của bạn đến router mạng chung gần nhất bị vấn đề. Còn nếu mới hôm nay thì có thể là do có 1 thiết bị nhảy ip liên tục, gây nghẽn broadcast hoặc sao đó do mỗi cái IP được cấp phát liên tục. Hoặc cũng có thể một phần mềm nào đó trong máy cứ báo cấp phát IP liên tục dẫn đến ping - respone không kịp. Tạm thời cứ thử kiểm tra mạng ở các thiết bị khác xem, nếu chỉ bị mỗi máy tính thì là do máy, không thì là do mạng"
+1723845085082416,1720271395439785,,vinhpk,KhacVinh Pham,cục wifi nhà mạng cấp cho bạn là cục nào? Bạn ngồi cách xa modem không? Vạch sóng ra sao? Nhiều yếu tố nó quyết định nên phải đủ thông tin mới trả lời dc
+1723841865082738,1720271395439785,,gio.lanh.90813237,Nguyễn Tuấn Trường,Bạn kết nối lan xem còn bị hay không mới biết được
+1723888865078038,1720271395439785,100004270576038,,Thắng Hà,"Lắp thêm cục wifi nữa đi, trc mình dùng thẳng cục của nhà mạng cũng bị như vậy, h cục của nhà mạng tắt wifi chỉ để convert quang thôi cục phát wifi là cục khác chơi pubg đc luôn ko bị nhảy ping như này nữa."
+1724251831708408,1720271395439785,,nguyenthihuyen.11298,Nguyễn Thị Huyền,Tình hình em tắt cái smart contect trên my asus thì ko ping lên cao nữa mà nó ping đến 100 ms. Có thể do chức năng đó chứ mạng nhà em setup ok hết.

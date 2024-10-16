@@ -1,0 +1,26 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1687119472075618,1687080468746185,,0xEchoPhantom,Phạm Quang Vũ,"Sao nghe usecase không thực tế lắm, này chủ thớt có check demand chưa"
+1687092022078363,1687080468746185,,coachdanghuuson,Đặng Hữu Sơn,"Google notebook llms hiện đã ra mắt sources to podcast, 2 con AI Agent tự giao tiếp, trò chuyện với nhau để bàn luận về một bản tin/nguồn tin nào đó rồi"
+1687098625411036,1687080468746185,,ManhDo.DBone,Đỗ Mạnh,Bên mình dùng text to audio của bên t3 hay tự build vậy bác
+1687087958745436,1687080468746185,,anh3lang,Tran Van Xuan,"Sản phẩm của bạn tự động quy trình hết hay sao. Mình cũng tìm hiểu tts hơn 1 năm và cũng áp dụng rất nhiều rồi, ko biết sản phẩm của bạn có gì đặt biệt"
+1687794265341472,1687080468746185,100009038663233,,Thien Ho,thím tìm cofounder thì nên mô tả rõ mong muốn tìm người như thế nào? chuyên môn ra sao? thế mạnh là gì? chứ nói thế này ai biết đc
+1687096958744536,1687080468746185,100089726256821,,Hai Ba Lạng,"Dự án AI được bootstrap bở Replit AI Agent 😄 luôn, mình chuyên Javascript và Go, biết tí Python thôi. Replit Agent giúp mình tạo demo đầu. Rồi mình cải thiện từ từ bắng AI trên Replit.
+Còn front-end được xây dựng với Vue."
+1687140488740183,1687080468746185,,phanhoangminhluan,Phan Hoàng Minh Luân,"Anh Thanh Nguyễn Duy, idea hay phết anh"
+1687086042078961,1687080468746185,,trqhien,Hien Tran,Mấy dạng text to audio và ngược lại này thì support tiếng Việt tốt không bác? Mình đang build product cho thị trường Việt Nam nên quan tâm topic này
+1687187048735527,1687080468746185,100006347195441,,Phuong Le,"Idea hay bạn ơi, mình có inbox hỏi riêng nha"
+1687171862070379,1687080468746185,100089726256821,,Hai Ba Lạng,"như này doable luôn, cho YouTube/tiktok/instagram,...
+https://videogen.io/
+
+chủ yếu là mình cần tập trung vào core product trước nên bỏ qua
+
+workflow như vậy đơn giản
+
+dùng LLM trích keyword từ script thành scene
+- tìm hình trên unplash hay pexel
+- hoặc tạo hình với flux
+- hoặc tạo video với Luma Dream Machine API
+
+rồi dùng ffmpeg nhập lại audio và ảnh/video thành video cuối"
+1689959688458263,1687080468746185,,htc.hoangtuananh,Tuấn Anh,TTS thì khá là ngon công nghệ có vẻ mature rồi mình đang làm STT thấy vẫn còn căng lắm không biết có bro nào nằm vùng đây cho mình học hỏi kinh nghiệm với 🥲
+1690943235026575,1687080468746185,,dao.dang.16,Dao Dang,Nguyễn Đàm Khánh Linh

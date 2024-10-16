@@ -1,0 +1,17 @@
+﻿post_id,user_id,user_name,fullname,content
+1696047431182822,100089726256821,,Hai Ba Lạng,"#buildinpublic
+phương trình để sản xuất video hàng loạt
+prompt |> dsl |> json |> video
+tuần qua mình bí chỗ này, không code gì nhiều,
+cứ vật va vật vờ
+não mình nó hoạt động kỳ lạ, phải chơi chơi thì ý tưởng tới
+giờ tiếp tục vào guồng build
+template để sản xuất video hàng loạt
+prompt |> dsl |> json |> video
+tại sao không prompt to json luôn?
+bí mật 🤣, phải giữ secret sauce cho startup chớ
+với prompt |> dsl, mình có thể làm
+prompt |> dsl |> ui để người không chuyên có thể sửa template
+prompt |> dsl |> code khi llm giỏi hơn có thể tạo mà compile trực tiếp luôn
+và bản thân prompt, có thể là
+prompt |> prompt"

@@ -1,0 +1,27 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1679454849508747,1679452132842352,,sonhavietnamese,Nguyen Son Ha,Thời của MVC quay lại 🫠
+1679466306174268,1679452132842352,100005360145371,,Co Hue,Em tối cổ vẫn giữ nguyên stack reactjs rest cả 6 năm.
+1679522869501945,1679452132842352,100026518281025,,Đức An,"Em thì lại có ý kiến khác 1 chút, e cũng làm qua 1 vài ngôn ngữ nhưng js mang lại 1 trải nghiệm mới hoàn toàn, 1 sự tự do cũng như gu của cá nhân nhiều hơn, tuy nhiên cũng cần khá nhiều kinh nghiệm và sự hiểu biết. 1 phần shadcn ui được nhiều sự quan tâm cũng là về tính custom của nó
+
+Cơ bản thì ko ai cấm việc mình sử dụng next.js/express với các stack cũ như typeorm, sequelize hay passportjs có tính ổn định, nhưng bởi vì lib mới đều ra đời theo hướng innovate về 1 cái gì đó, có lí do của nó nên mọi người thường đổ về cái mới nhiều hơn.
+
+prisma thay vì typeorm: generated code, functional thay vì dùng class + decorator như typeorm
+drizzle thay vì prisma: sử dụng typing system của typescript và ko cần gen code như prisma
+yup => zod => typebot: nhẹ hơn, api design tốt hơn, treeshakeable
+next i18n => next international: typesafe
+vân vân mây mây
+
+Khi mình ko ưng ý 1 stack trong project hoặc nó broke => tự viết mới hoặc kiếm trên ecosytem, luôn có 1 đứa có suy nghĩ tương tự 🙂)) . Ví dụ prisma vs drizzle
+Và em thích React vì 1 lí do nữa là từ khi học xong React em ko cần học thêm 1 kiến thức nền tảng nào nữa, just js
+
+Về laravel thì ko có gì để chê, nhưng có 1 điểm thường thấy ở các framework all-in-one là khi cần 1 feature gì đó đặc biệt hoặc bugfix thì có thể sự ưu tiên của maintainer đang ko nằm ở phần đấy, learning curve framework hơi dài và sự phụ thuộc mình đặt khá nặng vào framework.
+Cái laravel livewire mới thì cũng hay nhưng cảm giác hơi magic khi mà gửi interaction lên server, hơi giống với RSC khi mà e nghĩ sẽ cần hiểu biết 1 chút
+Tthêm nữa, nếu muốn trải nghiệm code tốt hẳn thì nhiều tính năng phụ thuộc vào IDE ví dụ PhpStorm.
+Deployment cũng là 1 vấn đề với em khi trước đây sử dụng laravel, khi vọng công ty mới của Laravel sẽ mang lại nhiều hướng đi hơn trong vấn đề này"
+1679468426174056,1679452132842352,,VivamosMajor,Van Minh Hung,Ruby on rails da best (mặc dù cũng amature user 🥺)
+1679462346174664,1679452132842352,,hieunv.ce,Hieu Nguyen,"Tính ra cứ kiểu như RoR, một mình một cõi cũng hay, mà cõi này cũng đầy đủ phết."
+1679595516161347,1679452132842352,,donhuoclam0112,Đỗ Nhược Lam,IMO thì dùng next cho cả fe be luôn thì nó đi ngược lại với single responsiblity trong solid. 1 service hay 1 func chỉ nên mang 1 mục đích thôi. Cá nhân mình thì vẫn dùng next cho be nhưng cũng chỉ để forward request sang 1 service be khác thôi chứ dùng hoàn toàn như 1 service be luôn thì hơi … quan ngại.
+1679506219503610,1679452132842352,,anhvupt98,Phạm Trung Anh Vũ,Thật sự là có tồn tại quả lib tên next-i18next-next-next-previous không các bác 😰
+1679512819502950,1679452132842352,,hieplevuc,Phong Le,Nhưng mà với Laravel thì phải học ở PHP lẫn JS :v. Anh em dev thì thường thích chuyển framework hơn là chuyển Lang.
+1679485146172384,1679452132842352,100001591420782,,Cường Nguyễn,Quen tay thì cái nào phù hợp dễ dùng thì dùng. Miễn kiếm ra tiền thôi. Chạy theo công nghệ hơi mệt
+1679458082841757,1679452132842352,,nguyenbahoangnam251092,Nam Nguyen,"Em thì đang khá thích htmx, chủ yếu do nhu cầu sử dụng nhẹ, đơn giản, mà nó cũng k lệ thuộc vào javascript để xử lý backend"

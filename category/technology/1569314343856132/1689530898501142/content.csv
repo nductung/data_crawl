@@ -1,0 +1,19 @@
+﻿post_id,user_id,user_name,fullname,content
+1689530898501142,,khangnd.vn,Duy Khang,"Cách ước tính doanh thu từ quảng cáo của một website
+Hôm trước có một số anh em thắc mắc con số doanh thu từ các sp trên ThuNhap.online mà mình chia sẻ từ đâu mà ra, mình đăng 1 post riêng để giải đáp, đồng thời cũng chia sẻ cách làm để mọi người cùng tham khảo.
+Ngoài các sp có doanh thu đã được xác minh hoặc được chính tác giả chia sẻ công khai thì có nhiều sp tạo thu nhập bằng mô hình quảng cáo và chưa có con số chính thức thì mọi người có thể sử dụng cách đơn giản và miễn phí dưới đây để ước tính doanh thu của website, vừa để dễ dàng validate ý tưởng sp đã có, vừa có thể phân tích đối thủ:
+
+Công cụ sử dụng
+similarweb.com/website
+Similarweb cung cấp các số liệu liên quan đến lưu lượng truy cập và phân loại website, làm cơ sở để ước tính con số doanh thu một cách tương đối
+adsense.google.com/start
+Trang chủ của Adsense có một công cụ đơn giản để ước tính doanh thu
+
+Hướng dẫn sử dụng
+Trên Similarweb, nhập tên miền của trang web, vd: https://www.similarweb.com/website/textfixer.com/
+Từ đây, mọi người có thể thấy trang web được xếp vào phân loại nào, quốc gia có lượng truy cập nhiều nhất, và lượng truy cập hàng tháng trong 3 tháng gần nhất. Đây là các thông tin cần thiết để ước tính doanh với Adsense (hình 1).
+Trên Adsense, nhập các thông tin trên vào công cụ tính, Adsense sẽ hiển thị con số doanh thu ước tính hàng năm (hình 2).
+
+Lưu ý
+Cách làm trên hiển nhiên sẽ cho ra kết quả mang tính tương đối và chỉ có giá trị tham khảo, kết quả thực tế còn tùy thuộc rất nhiều yếu tố như nhà cung cấp quảng cáo, số lượng quảng cáo được hiển thị, tỷ lệ truy cập giữa các quốc gia, eCPM, CTR v.v...
+#indiehackervn"

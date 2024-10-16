@@ -1,0 +1,31 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1722213665245558,1721534525313472,,manhvnFreeman,Võ Ngọc Mạnh,Tháo ssd sang máy khác cài win xong lắp vào máy xem có boot được ko? Bios thì chỉ có mang máy lên trung tâm bảo hành thôi.
+1722200805246844,1721534525313472,100008176817526,,Tang Minh,tháo ổ cứng ra xem dc k.
+1722214851912106,1721534525313472,100076124203638,,Bánh Gạo,bác thử hỏi chủ nó thử xem
+1722203718579886,1721534525313472,,xuanbach1368,Bùi Thanh Xuân Bách,"cách duy nhất là nạp lại Bios nha, phải có công cụ phần cứng"
+1722201265246798,1721534525313472,,sao.trucqiehuong,Mạnh Võ,Ib hỗ trợ thử cho bác
+1722196328580625,1721534525313472,,vantuan.ngo.900,Van Tuan Ngo,"Trước đây thì chỉ vứt main đi thôi, kb bh thế nào"
+1722198715247053,1721534525313472,,nhutphong123,Nguyễn Nhựt Phong,Ông thử lên tìm bios pw chấm org xem =))) tìm cách lấy hashcode hoặc seri thử đi biết đâu được
+1722226475244277,1721534525313472,,LeQuangTruong34,Lê Quang Trường,Tháo ic bios ra chích 3v rồi gắn lại. Ko thì thay luôn ic
+1722209765245948,1721534525313472,,dongka195,Đông Nguyễn,fw nạp có công cụ riêng ấy
+1722232388577019,1721534525313472,,hiep.nguyen.9849,Hiệp Nguyễn,Trả máy lại cho ngta đi fen <(“)
+1722208531912738,1721534525313472,,sev0246,Đặng Ngọc Bảy,"https: bios-pw. org
+thử trang này chưa, gg hướng dẫn rồi thử xem"
+1722207648579493,1721534525313472,100005866621609,,Việt Cường,"Cầm máy ra hàng ngta có ph.ần mềm chạy lại Rom cho con BIOS ở trên Main. Dạng Pa-ss Bios nó ghi thẳng vào Rom rồi, tháo pin Cmos hay pin laptop ko giải quyết dc vấn đề đâu."
+1722227491910842,1721534525313472,,luu.tu.hy.825,Trung Lưu,"Cái này vào tiệm, họ khò chip bios ra, cho vào máy đọc xog nạp lại thôi, rủi ro thì có thể sẽ hoạt động ko ổn định"
+1722223501911241,1721534525313472,,quockhanh895,Quốc Khánh,Tháo ra nạp
+1722237061909885,1721534525313472,,trung.thamtuconan,Trung Đặng,"Dòng máy ko tìm thấy pin cmos thì có nghĩa là pin cmos đã dc loại bỏ và tích hợp mạch cmos vào pin rồi nhé, rút pin ra chờ 1 2p lắp pin lại là nó rs bios.
+Rs bios rồi mà ko mất pass thì chịu khó vác ra tiệm, mất 1 200k họ nạp lại bios là xong
+Ko có cách nào khác cho ng tay ngang ko có kiến thức nhé"
+1722210911912500,1721534525313472,,Ddkphutho,Nguyễn Đức,Nhảy đâu đc cái lap thế bác
+1722201098580148,1721534525313472,,aburobocon,Abu Robocon,Think pad đời cũ thì m có toool
+1722237168576541,1721534525313472,,no.one.invisible,Nguyễn Huỳnh Minh Trí,Search mã Laptop - cmos battery là ra à
+1722206265246298,1721534525313472,,LandBoy1993,Nguyễn Mạnh,Lên trung tâm bảo hành nó hỗ trợ cho nhé
+1722230788577179,1721534525313472,,laogiaptyb,Đồng Hiệp,"đáp hãng, có phí bạn ạ"
+1722193211914270,1721534525313472,,moc.duong.2903,Mộc Dương,Tự làm thì nhấc pin cmos xem
+1722211145245810,1721534525313472,61557075902460,,Tân Phú Quận,Dòng này nó hành ae kỹ thuật như hành kinh. 🤣
+1722203245246600,1721534525313472,,NhaPhong195,Nhã Phan,Đưa vô hãng nhờ họ chạy lại dùm nhé
+1722201231913468,1721534525313472,100086522358899,,Đinh Huy An,Banh máy ra rút cục cmos ra
+1722196761913915,1721534525313472,,hai.xbiker,Hai Xbiker,Mình nhớ có một trang web cung cấp mật khẩu mặc định của bios bạn thử Google xem: default password for: Tên máy
+1722214705245454,1721534525313472,100084239653837,,Le Hoang,Hồi trước mình đặt. Xong thời gian tự nhiên bị lỗi ko vào đc nữa. Báo pass sai. Đã thử đủ các cách trên mạng ko đc. Mang ra tiệm mất 200 mới đc
+1722217878578470,1721534525313472,,songchos77,Doan Phi Diep,Trả máy cho ngta đi bác

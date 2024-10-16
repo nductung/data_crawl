@@ -1,0 +1,5 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1708939806572944,1708869856579939,,nhutvantrinh,Trịnh Văn Nhựt,Delete disk và format lại ntfs
+1708934679906790,1708869856579939,100008176817526,,Tang Minh,"Chuyển usab sang fat32
+Dùng Winsetupfromusb ấy mà tạo usb boot"
+1708934316573493,1708869856579939,,your.6cent,Thien Thien Nguyen,Ez nhấn chuột phải vào this pc chọn manager kiếm tới tab cuối cùng chọn disk management sẽ thấy phân vùng usb do chưa tạo nên nó không hiện hoặc bị hư phân vùng chọn delete hoặc shink volume lại là đc

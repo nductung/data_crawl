@@ -1,0 +1,7 @@
+﻿post_id,user_id,user_name,fullname,content
+1684982298956002,,mrgoonie,Duy Nguyen,"Vừa hoàn thành thành phần embed component (cả Vanilla JS & React) cho IndieBacklink, về cơ bản Indie Boosters sẽ có thể tùy chỉnh giao diện của thành phần này.
+Nếu dùng Vanilla JS thì chỉ cần nhúng script element (CDN) vào nơi bạn muốn hiển thị trong source code là được.
+Mình đang nghĩ đến việc xây dựng thêm nhiều theme hơn trong tương lai, nhưng thôi, để kịp ra mắt MVP thì tạm vậy cho ngày hôm nay đã! 😋
+Ngày mai sẽ làm việc trên các API để track & đo lường trong dashboard.
+P/S: Vừa check nhanh thì thấy mới 24h mà gần hết slot của trang waitlist rồi, wow 🤩
+#buildinpublic #buildinpublicvn #indiehackers"

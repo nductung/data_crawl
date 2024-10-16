@@ -1,0 +1,36 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1728547831278808,1724255405041384,100087379034573,,Trần Văn Long,"Trong Windows Task Manager, mục Committed (hay Committable Memory) thể hiện lượng bộ nhớ mà hệ điều hành Windows đã cam kết cung cấp cho các ứng dụng đang chạy, bao gồm cả bộ nhớ RAM và bộ nhớ paging file (còn gọi là pagefile hoặc virtual memory - bộ nhớ ảo).
+
+Committed Memory bao gồm:
+
+1. RAM vật lý: Bộ nhớ thực trong hệ thống.
+2. Paging file: Bộ nhớ ảo được lưu trữ trên ổ cứng, dùng khi RAM vật lý không đủ.
+
+Có thể Committed Memory vượt quá tổng lượng RAM không?
+
+• Có thể vượt quá RAM vật lý, nhưng không vượt quá tổng dung lượng của RAM cộng với dung lượng paging file. Khi các ứng dụng yêu cầu bộ nhớ vượt quá dung lượng RAM vật lý, Windows sẽ sử dụng paging file để lưu trữ tạm các dữ liệu ít được sử dụng.
+
+Trường hợp Committed Memory vượt quá:
+
+• Nếu lượng bộ nhớ được yêu cầu vượt quá tổng dung lượng RAM vật lý và paging file, Windows sẽ không thể cung cấp thêm bộ nhớ, dẫn đến việc hệ thống có thể hiển thị lỗi hoặc ứng dụng bị treo, xuất hiện thông báo “Out of memory” (hết bộ nhớ).
+
+Cách kiểm soát Committed Memory:
+
+• Bạn có thể điều chỉnh dung lượng paging file bằng cách vào System Properties -> Performance Settings -> Advanced -> Virtual Memory và tăng kích thước paging file. Tuy nhiên, sử dụng quá nhiều paging file có thể làm giảm hiệu suất hệ thống vì tốc độ đọc/ghi từ ổ cứng chậm hơn nhiều so với RAM.
+
+Tóm lại, Committed Memory có thể vượt quá RAM vật lý, nhưng không vượt quá tổng dung lượng RAM cộng với paging file. Nếu lượng committed vượt quá giới hạn này, hệ thống sẽ gặp lỗi bộ nhớ."
+1728542551279336,1724255405041384,,mr191200,Thân Lê,"Trong Windows 11, ""Committed"" trong mục RAM (Memory) của Task Manager đề cập đến tổng lượng bộ nhớ mà các ứng dụng và quy trình đang sử dụng hoặc đã yêu cầu từ hệ thống. Dưới đây là một số điểm quan trọng về ""Committed"":
+
+Hiểu về ""Committed Memory""
+Committed Memory: Là lượng bộ nhớ mà hệ thống đã cấp phát cho các ứng dụng và dịch vụ đang chạy. Điều này bao gồm cả bộ nhớ đã được sử dụng và bộ nhớ được dành riêng nhưng chưa dùng đến.
+Tổng quan: Nếu ứng dụng yêu cầu một lượng bộ nhớ lớn, hệ thống sẽ ""committed"" lượng bộ nhớ đó mặc dù ứng dụng chưa sử dụng toàn bộ. Điều này giúp đảm bảo rằng ứng dụng có đủ bộ nhớ khi cần.
+Cách theo dõi trong Task Manager
+Mở Task Manager: Sử dụng Ctrl + Shift + Esc hoặc nhấp chuột phải vào Taskbar và chọn Task Manager.
+Chọn Tab ""Performance"": Trong tab này, bạn sẽ thấy thông tin chi tiết về bộ nhớ.
+Xem ""Committed"": Trong phần Memory, bạn sẽ thấy mục ""Committed"" cho biết tổng lượng bộ nhớ đã được cấp phát.
+Ý nghĩa
+Quản lý hiệu suất: Theo dõi ""Committed"" giúp bạn hiểu cách các ứng dụng sử dụng bộ nhớ và phát hiện ứng dụng nào có thể gây ra sự cố hiệu suất.
+Giải phóng bộ nhớ: Nếu ""Committed"" quá cao, có thể cần phải đóng các ứng dụng không cần thiết hoặc khởi động lại máy tính để giải phóng bộ nhớ."
+1728537851279806,1724255405041384,,Cu.Meo.1994,Hiếu Nguyễn,Gỡ ram ra chùi sạch lắp lai
+1728558657944392,1724255405041384,,layvo.bacho.733,Phạm Quang Chiến,mọi hệ điều hành nó có xu hướng lấp đầy ram còn trống. có thể nó load trc 1 số dữ liệu quan trọng để hoạt động mượt mà hơn hoặc các app chạy standby. nó cache trong ram. loại này dễ dàng bị loại bỏ khi cần nên hệ điều hành sẽ coi nó là khả dụng. đấy nó mới là ram thực dùng k phải thực dùng là cái 53gb kia đâu. nó cache 25gb kia kìa. chưa kể còn có thể còn có page file nữa. những cái cache kia nó dễ dàng đc giải phóng khi cần ram nên nó đc liệt vào dạng ram khả dụng ( available) mọi người quen gọi nó là ram trống nhưng thực sự ram trống nó chỉ là 1 phần trong ram khả dụng kia thôi
+1728541691279422,1724255405041384,100087379034573,,Trần Văn Long,Cái đó tổng ram dung lương vật lí và ram ảo trong ổ cứng nhé
