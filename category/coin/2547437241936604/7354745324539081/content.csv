@@ -1,0 +1,35 @@
+﻿post_id,user_id,user_name,fullname,content
+7354745324539081,,ngaluong225,Nga Lương,"📌DÀNH CHO AI CHƯA HIỂU VỀ SMART CONTRACT
+
+Tiếp tục series những thuật ngữ khó hiểu khi tìm hiểu về Ethereum, hôm nay mình sẽ chia sẻ về Smart Contract một cách dễ hiểu.
+
+1️⃣ Smart contract là gì? 
+
+Hiểu đơn giản, smart contract là chương trình máy tính tự động được lập trình sẵn để thực hiện một số lệnh nhất định, theo tư duy “Nếu A.. thì B…”. Đặc biệt, một khi đã được tạo ra, smart contract sẽ ko thể thay đổi. 
+“Code is law”. 
+
+Ví dụ đơn giản: 
+Ví dụ 1: Bạn A muốn mua một căn nhà từ bạn B. 
+Bạn B nói, ngay sau khi A chuyển tiền, B sẽ chuyển giấy tờ nhà đất sang cho A. Từ đây, một smart contract được xây dựng theo lệnh:
+Nếu B nhận được tiền từ A, giấy tờ nhà đất ngay lập tức được chuyển cho A 1 cách tự động, mà ko qua trung gian hay bên thứ 3 nào kiểm soát. 
+Ví dụ 2: 
+Khi mua token private sale, token các bạn sẽ bị khoá và mở khoá theo lịch trình đặt trước. Cụ thể, dự án nói sẽ tự động gửi token vào ngày 15 hàng tháng trong suốt 1 năm. Đây cũng là ứng dụng của smart contract.
+2️⃣ Smart contract ở những khía cạnh nào? 
+
+“Những gì các chương trình máy tính có thể làm, smart contract làm được hết”. 
+ ⁃ Tự động hoá trả token cho nhà đầu tư sau vesting
+ ⁃ Tạo và phân bổ các tài sản số (crypto/NFTs)
+ ⁃ Giao dịch tự động trên DEX
+ ⁃ Ứng dụng trong các DApp: game, sàn, marketplace (chợ)… 
+… 
+=> Hầu hết các lệnh được lập trình sẵn trên blockchain, thực hiện một số nhiệm vụ nhất định tự động đều có thể coi là smart contract. Smart contract là 1 phần ko thể thiếu trên mạng ETH, để giúp mạng ETH phát triển hệ sinh thái nở rộng và nhiều tính năng như bây giờ. 
+
+Nếu Smart Contract phổ biến sau khi được sử dụng trên mạng ETH thì Bitcoin có smart contract ko và ở dạng nào? 
+
+Trên thực tế, Bitcoin có cho phép xử lí smart contract, nhưng ở dạng đơn giản nhằm mục tiêu tối thiểu hoá các lỗi có thể phát sinh trên mạng lưới, giúp Bitcoin an toàn hơn. Hi sinh sự đa dạng để ưu tiên tính bảo mật. 
+
+Sau cập nhật Taproot, mạng Bitcoin đã có thể tương tác với các Layer 2 sử dụng smart contract trên mạng chính này. 
+
+3️⃣ Kết luận
+
+Hiểu về smart contract giúp ace hiểu được cách thức hoạt động của một số lệnh được dùng trên mạng Ethereum hoặc các blockchain khác, và bản chất vận hành của các ứng dụng DApp hiện nay. "
