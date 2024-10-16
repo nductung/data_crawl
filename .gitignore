@@ -1,0 +1,7 @@
+.idea/
+
+.DS_Store
+
+**/post_error.csv
+
+**/user_error.csv
