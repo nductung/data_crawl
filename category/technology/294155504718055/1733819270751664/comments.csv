@@ -1,0 +1,9 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1733830014083923,1733819270751664,,dotrongminh,Minh Trọng Đỗ,do thiết bị modem wifi cấp dhcp hết nên không còn dư IP để cấp thêm
+1733830744083850,1733819270751664,,mouse9x,Tuan Cam,set ip tĩnh là đc :D
+1733869830746608,1733819270751664,,zeddydat,Zeddy Đạt,Modem hết hoặc không cấp địa chỉ IP
+1733836130749978,1733819270751664,100013109341608,,Hải,Nhảy ip hoặc tràn ip
+1733846507415607,1733819270751664,,cchieuu,Lục Chiều,E thì hay cài ntn là nó được
+1733863854080539,1733819270751664,,MinhKienTechnology,Kiên Lê,Router không bật DHCP bro
+1733830044083920,1733819270751664,,vanthanh2207,Hoàng Văn Thành,Bác đặt ip tĩnh xem sao nhé hoặc có quá số lượng ip đang conect tới wifi đó
+1733864080747183,1733819270751664,,hung.thieusy,Thiều Sỹ Hùng,Thường thì mấy cái Nhà trọ thường họ lắp thiết bị cơ bản. Nó nhảy DHCP của nhau. Nên nhiều lúc thành trùng vs tràn IP linh tinh cả. Bạn nên set lại IP cho từng AP là hết
