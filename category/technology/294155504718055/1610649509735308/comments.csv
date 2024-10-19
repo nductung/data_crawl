@@ -1,0 +1,17 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1610675629732696,1610649509735308,,adfnav,Lê Minh Quang,đang để boot lehacy hay uefi
+1610659093067683,1610649509735308,,ntquyet247,Quyet Nguyen,"Đời này nó vậy, ổ m-sata không boot win được"
+1611079053025687,1610649509735308,,Fan.Xing.2016,Thạch Hạo,"Tôi đang dùng con này đây. M-SATA bạn dùng làm ổ lưu trữ thôi, không boot vào được đâu. Chức năng của nó là hỗ trợ dualboot với ổ sata để máy khởi động nhanh hơn"
+1610661643067428,1610649509735308,,trungthiet,Thiet Lam,Chon ACHI Trong bios chứ hay để Raid bro
+1611154803018112,1610649509735308,,vunghiadp,Vũ Nghĩa,Nếu chưa được ib tôi làm cho.
+1610660566400869,1610649509735308,100039845799213,,Nguyễn Chiến,Khi cài có tháo hết các ổ khác ra k?
+1610692729730986,1610649509735308,,linhnganpc,Ốc Quế,Msata để làm ổ mở rộng thôi. Cài win qua ổ sata đi thím
+1610668493066743,1610649509735308,,alannguyen016,Thanh,Có thể thêm win trong ổ mSata vào menu boot
+1610914543042138,1610649509735308,100007903782167,,Đỗ Khải,ôi HP 8570W... nồi đồng cối đá
+1613289966137929,1610649509735308,,tam.van.5667,Van Tam,Trước đây tôi có dùng qua 2 con. Boot msata bình thường.
+1610695063064086,1610649509735308,100025280743960,,Tiến Đạt,Ib e xem cho nhé!
+1611687662964826,1610649509735308,100083893902732,,Nguyễn Hiếu,để raid xem được không
+1610661973067395,1610649509735308,,thuancoihg,Trần Đức Thuận,Bạn xem thử bật cái intel rapit technology trong bios lên chưa nhé. Với lại thấy bảo là dòng này nó chỉ nhận ổ msata khi tháo hết các ổ khác thôi
+1610660956400830,1610649509735308,,minhlaminhga,Phạm Hồng Minh,"Đời này theo mình biết thì nó chỉ boot từ mSATA nếu như bạn tháo cái 2.5"" ra."
+1610677429732516,1610649509735308,,s50cents,Gin Nguyễn,tạo 1 esp efi trên ổ khác rùi cho nó boot qua đó. khó quá thì xài refind
+1735045577295700,1610649509735308,,00toilaai00,Thinh Hoang,Bác biết cách boot chưa.
