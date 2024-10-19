@@ -1,0 +1,17 @@
+﻿post_id,user_id,user_name,fullname,content
+1710256209761944,,,,"Em xin tư vấn của các anh chị về hướng phát triển tiếp theo của dự án _prompt-to-video_ ạ.
+
+Các tính năng chính ở phiên bản lần này:
+Creator chọn 1 lĩnh vực mà họ quan tâm
+Tự động tìm kiếm các chủ đề liên quan
+Tự động tạo prompt tương ứng
+Lên kịch bản và viết nội dung bằng AI
+Upload lên Youtube và quản lý videos
+
+Các tính năng sẽ được phát triển trong thời gian tới:
+Thêm option render và quản lý videos cho Tiktok, Instagram Reels, Facebook Watch 
+Cải thiện matching của hình ảnh và audio bằng sentiment
+Phân tích trending và gợi ý những chủ đề hot cho creator.
+Thêm các tính năng chỉnh sửa video cơ bản trước khi export
+
+Hiện tại em đã phát triển xong client giúp kết nối và tự động hóa 100% ở repo: https://github.com/qtvhao/videone"
