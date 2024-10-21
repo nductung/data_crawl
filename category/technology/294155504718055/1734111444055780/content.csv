@@ -1,0 +1,6 @@
+﻿post_id,user_id,user_name,fullname,content
+1734111444055780,,,,"Tình hình là nhà em đang dùng 6 mắt camera analog và đầu ghi dahua (xvr 1A08) xem qua app dmss. Chuyện sẽ chẳng có gì nếu phụ huynh không nghe lời thợ lắp thêm 2 con yoosee củ chuối. Lão vất thêm cho 2 cụ đúng cái app yoosee, giờ mỗi lần muốn xem bao quát là phải thoát ra vào lại 2 app đấy.
+Em đang tìm cách add 2 con yoosee vào đầu qua ip tĩnh, tín hiệu báo online nhưng không hiểu sao nó lại không nhận được cấu hình. Hình ảnh thì vẫn lên nhưng audio (âm thanh) thì tịt ngóm.
+Em mới thử dùng luồng rtsp (luồng rtsp test qua VLC vẫn có audio) thì lại đếch tìm thấy cái custom protocol (tùy chỉnh rtsp) trên đầu ghi ở đâu nữa, rõ là dahua nó đã bỏ moẹ đi rồi. Không có rtsp thì để onvif làm chó gì. Em đang tìm cách về firmware tầm năm 2021 đổ lại, vì em nhớ lúc mới mua nó có rtsp tùy chỉnh.
+Bác nào tay to tư vấn giúp em ca này với (em hỏi luôn firmware cũ đào đâu ra bây giờ) 😢
+#thacmac"
