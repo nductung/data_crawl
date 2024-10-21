@@ -1,0 +1,11 @@
+﻿post_id,user_id,user_name,fullname,content
+8483991461721414,,,,"Cách tính tiền lỗ khi cắt lỗ trong giao dịch spot và futuers.
+💠 Trong giao dịch spot: Mua bằng tiền tươi, không vay mượn. Vì thế không mất tiền lãi vay, phí funding.....
+Chỉ phải trả phí giao dịch vì thế sau khi mua thành công thì chúng ta không mất thêm phí nào. Nếu cắt lỗ chỉ mất đúng số tiền lỗ.
+♻️Ví dụ: Như hình bên dưới điểm vào lệnh và điềm cắt lỗ chêch nhau 1%. Thì chúng ta chỉ mất đúng 1% đó thôi.
+💠 Trong giao dịch Futuers thì chúng ta cần trả lãi suất tiền vay.
+♻️ Ví dụ chúng ta bỏ vào tài khoản $1000, chúng ta đánh x10 tức là vay thêm $9000 của sàn. Lãi suất này không cố định mà điều chỉnh theo nhu cầu. Như hiện nay lãi vay trên Binance đang khoảng trên 10%/ năm.
+Nhưng thời điểm nhu cầu vay cao thì có khi lên 30% - 40% thâm chí cao hơn. Từ lãi suất năm, họ chia ra theo giờ và bạn vay bao nhiêu giờ thì bạn trả bấy nhiêu lãi.
+- Vừa tham khảo đối với khách thường là: 0.00127354% (giờ) / 11.16% (năm).
+💠 Phí Funding:
+- Funding Rate hay Funding Fee là tỷ lệ lãi suất hoặc phí giao dịch được thanh toán định kỳ cho nhà đầu tư đang mua hoặc bán khống. Mục đích của loại phí này là để duy trì sự cân bằng giữa giá hợp đồng tương lai và giá thị trường thực tế."
