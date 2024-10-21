@@ -1,0 +1,26 @@
+﻿post_id,user_id,user_name,fullname,content
+1747144122740708,,,,"𝗖𝗮́𝗰𝗵 𝗰𝗵𝗼̣𝗻 𝗠𝗮́𝘆 𝗹𝗼̣𝗰 𝗸𝗵𝗼̂𝗻𝗴 𝗸𝗵𝗶́ 𝗻𝗵𝗮𝗻𝗵 𝘃𝗮̀ 𝘁𝘂𝘆𝗲̣̂𝘁 đ𝗼̂́𝗶 𝗰𝗵𝗶́𝗻𝗵 𝘅𝗮́𝗰
+ACE như lạc vào ma trận khi chọn máy lọc không khí, trong đó quan trọng nhất là không biết mua chiếc máy với thông số như thế nào để phù hợp với nhu cầu và đảm bảo hiệu quả lọc cho không gian nhà mình.
+Chưa kể, thông tin mà các hãng đưa ra cũng khá chung chung, kiểu dạng “mẫu này phù hợp với diện tích xxx m2, mẫu kia có thể lọc cho phòng yyym2”; chi tiết hơn có thể là “công suất lọc tối đa zzz m2 khí/phút/giờ”. Nhưng quy đổi và áp dụng như thế nào để khách hàng dễ chọn lựa thì đều không chia sẻ thêm.
+Và hôm nay, Hà Thẩm Định - Hàng Nhật Chất+ xin chia sẻ chút thông tin, hy vọng giúp ACE hiểu rõ và dễ dàng quy đổi rồi áp dụng trực tiếp trong việc lựa chọn một chiếc máy lọc không khí phù hợp nhất cho gia đình.
+Trước tiên, MLKK như điều hòa, để chọn máy phù hợp cần căn cứ vào thể tích chứ không phải diện tích phòng. Và khi đó, có 2 thông số gần như bắt buộc mọi máy, mọi hãng đều phải công bố đó là:
+𝟭. 𝗖𝗼̂𝗻𝗴 𝘀𝘂𝗮̂́𝘁 𝗹𝗼̣𝗰 𝘁𝗼̂́𝗶 đ𝗮/𝗽𝗵𝘂́𝘁 𝗵𝗼𝗮̣̆𝗰 𝘁𝗿𝗲̂𝗻 𝗴𝗶𝗼̛̀
+𝟮. 𝗧𝗼̂́𝗰 đ𝗼̣̂ 𝗽𝗵𝗮̂𝗻 𝗽𝗵𝗼̂́𝗶 𝗸𝗵𝗼̂𝗻𝗴 𝗸𝗵𝗶́ 𝘀𝗮̣𝗰𝗵 𝗖𝗔𝗗𝗥,
+Trong đó: 𝑪𝑨𝑫𝑹= (𝑨𝑪𝑯 𝒙 𝑳 𝒙 𝑾 𝒙 𝑯) / 60] với:
+- ACH - Air Change per Hour - Số lần thay đổi không khí mỗi giờ
+- L - Chiều dài của phòng
+- W - Chiều rộng của phòng
+- H - Chiều cao của phòng
+𝐿𝑢̛𝑢 𝑦́: 𝑆𝑜̂́ đ𝑜 𝑡𝑖́𝑛ℎ 𝑡ℎ𝑒𝑜 𝑓𝑒𝑒𝑡, 1𝑚 = 3.28 𝑓
+Theo khuyến cáo của các tổ chức y tế, ACH nên khoảng 5 lần đối với phòng sinh hoạt bình thường/phòng ngủ. Nghĩa là cứ trong 12 phút, toàn bộ số không khí của phòng được lọc sạch 1 lần.
+Như vậy, nếu căn phòng của bạn có thông số: Dài 5m, rộng 4m, cao 3m (thể tích 60m3), để đảm bảo hiệu quả đạt mức khuyến nghị, ACH=5, chiếc máy lọc không khí cần có:
+𝟏. 𝐓𝐨̂́𝐜 đ𝐨̣̂ 𝐥𝐨̣𝐜 𝐤𝐡𝐨̂𝐧𝐠 𝐤𝐡𝐢́ 𝐭𝐨̂́𝐢 đ𝐚:
+𝟓(𝐀𝐂𝐇)*𝟔𝟎(𝐕)=𝟑𝟎𝟎𝐦𝟑/𝐠𝐢𝐨̛̀; 𝐭𝐮̛𝐨̛𝐧𝐠 đ𝐮̛𝐨̛𝐧𝐠 𝟓𝐦𝟑/𝐩𝐡𝐮́𝐭.
+𝟐. 𝐓𝐨̂́𝐜 đ𝐨̣̂ 𝐩𝐡𝐚̂𝐧 𝐩𝐡𝐨̂́𝐢 𝐤𝐡𝐨̂𝐧𝐠 𝐤𝐡𝐢́ 𝐬𝐚̣𝐜𝐡 𝐂𝐀𝐃𝐑:
+𝟓*(𝟓*𝟑.𝟐𝟖*𝟒*𝟑.𝟐𝟖*𝟑*𝟑.𝟐𝟖)/𝟔𝟎=𝟏𝟕𝟔𝐟𝟑 𝐤𝐡𝐢́/𝐩𝐡𝐮́𝐭
+Từ 2 công thức trên, dù bất kỳ máy của hãng nào, chỉ cần biết 1 trong hai thông số (bắt buộc phải công bố nếu máy đạt tiêu chuẩn lưu hành) là 𝗖𝗼̂𝗻𝗴 𝘀𝘂𝗮̂́𝘁 𝗹𝗼̣𝗰 𝘁𝗼̂́𝗶 đ𝗮/𝗽𝗵𝘂́𝘁 𝗵𝗼𝗮̣̆𝗰 𝘁𝗿𝗲̂𝗻 𝗴𝗶𝗼̛̀ và 𝗧𝗼̂́𝗰 đ𝗼̣̂ 𝗽𝗵𝗮̂𝗻 𝗽𝗵𝗼̂́𝗶 𝗸𝗵𝗼̂𝗻𝗴 𝗸𝗵𝗶́ 𝘀𝗮̣𝗰𝗵 𝗖𝗔𝗗𝗥 ACE đều dễ dàng vận dụng để quy đổi ngược hoặc xuôi chiều để biết được có phù hợp với phòng mình muốn sử dụng hay không. Chỉ xin có thêm đôi chút lưu ý như sau:
+- 𝐾ℎ𝑖 𝑚𝑢𝑎, 𝑛𝑒̂𝑛 𝑐ℎ𝑜̣𝑛 𝑚𝑎́𝑦 𝑑𝑢̛ 𝑐𝑜̂𝑛𝑔 𝑠𝑢𝑎̂́𝑡
+- 𝐴𝐶𝐻 𝑡ℎ𝑒𝑜 𝑘ℎ𝑢𝑦𝑒̂́𝑛 𝑛𝑔ℎ𝑖̣ 𝑙𝑎̀ 5, 𝑡𝑢𝑦 𝑛ℎ𝑖𝑒̂𝑛 𝑛𝑒̂́𝑢 𝑐ℎ𝑖̉ 𝑠𝑜̂́ 𝑛𝑎̀𝑦 𝑐𝑎̀𝑛𝑔 𝑐𝑎𝑜, 𝑝ℎ𝑜̀𝑛𝑔 𝑐𝑎̀𝑛𝑔 𝑛ℎ𝑎𝑛ℎ đ𝑢̛𝑜̛̣𝑐 𝑙𝑜̣𝑐 𝑠𝑎̣𝑐ℎ
+- 𝑁𝑒̂́𝑢 𝑝ℎ𝑜̀𝑛𝑔 𝑛𝑔𝑢̉ 𝑚𝑎𝑠𝑡𝑒𝑟, 𝑐𝑎̂̀𝑛 𝑡𝑖́𝑛ℎ 𝑐𝑎̉ 𝑡ℎ𝑒̂̉ 𝑡𝑖́𝑐ℎ 𝑛ℎ𝑎̀ 𝑣𝑒̣̂ 𝑠𝑖𝑛ℎ
+- 𝑁𝑒̂́𝑢 𝑝ℎ𝑜̀𝑛𝑔 𝑐𝑜́ 𝑛𝑔𝑢̛𝑜̛̀𝑖 𝑔𝑖𝑎̀ 𝑣𝑎̀ 𝑡𝑟𝑒̉ 𝑒𝑚, 𝑛𝑒̂𝑛 𝑐ℎ𝑜̣𝑛 𝑚𝑎́𝑦 𝑐𝑜́ 𝑐ℎ𝑢̛́𝑐 𝑛𝑎̆𝑛𝑔 𝑏𝑢̀ 𝑎̂̉𝑚
+Hy vọng các thông tin trên sẽ giúp ACE chọn được chiếc máy tốt và phù hợp nhất cho gia đình mình."
