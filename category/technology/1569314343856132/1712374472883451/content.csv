@@ -1,0 +1,20 @@
+﻿post_id,user_id,user_name,fullname,content
+1712374472883451,,,,"#buildinpublic
+làm sao thu hút ngừoi dùng / khách hàng nhanh nhất?
+giúp họ kiếm tiền từ app/sản phẩm của mình
+mình đang suy nghĩ về workflow và mini apps 🤔
+vấn đề là để làm ra nội dung hay thì vẫn mất thời gian/kiên nhẫn để thử nghiệm với prompt
+và vẫn cần kinh nghiệm chuyên môn
+nếu bạn là creator, quen với ai, bạn có thể tạo workflow, gắn ui biến thành mini app, và bán
+và bạn có thể bán prompt collection/quyền sử dụng nội dung như video và ảnh của mình tạo ra
+nếu bạn là người dùng không chuyên, lâu lâu mới tạo nội dung, bạn trả tiền cho mini app cho lẹ
+workflow có thể là
+- upload ảnh -> upscale -> caption -> đăng sang instagram
+- upload ảnh -> remove background -> replace background -> edit text
+- upload ảnh(s) -> tạo kịch bản -> tạo video ngắn giới thiệu sản phẩm
+- nhập yêu cầu -> tạo ảnh -> tạo kịch bản -> tạo comics/video dạy học
+về phần ui
+hiện tại ai có thể one-shot ui/app cho những tác vụ cơ bản rồi
+giờ làm sao để tích hợp hiệu quả nữa là được
+bạn có phát triển cái gì tương tự hay không?
+cho mình học hửi và sao chép 😂"
