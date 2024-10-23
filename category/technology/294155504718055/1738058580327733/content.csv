@@ -1,0 +1,3 @@
+﻿post_id,user_id,user_name,fullname,content
+1738058580327733,,,,"#ThacMac
+Các bác ơi cho em hỏi 1 xíu, hiện tại thì em đang có 1 con website. Trên đó thì có cho khách hàng điền form đăng kí tư vấn, khi khách hàng điền xong thì hệ thống sẽ gửi thông tin mà khách hàng điền về mail server của bên e. Nhưng ko biết vì lí do gì mà nếu em để địa chỉ nhận là trong mail server của bên e thì rất lâu mail mới gửi tới, trong khi e để địa chỉ nhận qua gmail thì gần như gửi ngay lập tức. Vậy là vấn đề như nào có bác nào có kinh nghiệm ko. Việc gửi mail là hệ thống của bên website riêng, không liên quan đến mail server bên e."
