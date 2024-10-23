@@ -1,2 +1,4 @@
 ﻿comment_id,post_id,user_id,user_name,fullname,content
 1713096436144588,1713066366147595,,hoangntk,Bang Nguyen,"Bạn mở pháp nhân công ty ở US hay Singapre rồi apply các rule data privacy như GDPR còn ở US và đặc biệt là Cali thì thêm CCPA. Rồi Saas cứ thế run, client trên thế giới vẫn dùng."
+1713132926140939,1713066366147595,,nguyenmv2,My V Nguyen,Tuỳ theo bạn có handle business account k và khác hàng có enforce data residency k (mặc dù GDPR k cover data residency). Nếu cần data residency thì data k đc rời EU. Đa phần cty ở Đức có yêu cầu này
+1713121549475410,1713066366147595,,qwertyduythinh,Nguyễn Duy Thịnh,Mở ở đâu cũng được. Chỉ cần chứng minh user có quyền yêu cầu xoá data và mình xoá thực sự.
