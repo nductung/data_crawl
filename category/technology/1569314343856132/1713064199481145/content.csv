@@ -1,0 +1,8 @@
+﻿post_id,user_id,user_name,fullname,content
+1713064199481145,,,,"#buildinpublic
+claude lúc tào lao, lúc đỉnh vãi
+mình mất cả hơn 2 tiếng, làm cái inpaint với pixijs
+mà không được, tính bỏ cuộc
+vấn đề là pixijs 8 mới ra, training data chỉ có pixijs 7 thôi
+vậy là kêu nó dùng canvas thuần, 1 phát ra, nhưng mà iterate nữa version 5 mới dùng được
+trong 20 phút mình xong cái tool"
