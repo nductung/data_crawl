@@ -1,0 +1,15 @@
+﻿post_id,user_id,user_name,fullname,content
+1713195852801313,,,,"#buildinpublic
+(xin post thêm bài nữa 😄)
+vì tính năng này vừa hay ho, vừa đáng sợ
+one-shot re-speech any video
+rất hay để làm meme hoặc bán sản phẩm, nhưng sợ bị kẻ xấu làm harmful content
+nếu là xây dựng sản phẩm thì bạn restrict/limit như thế nào để cân bằng?
+pipeline
+- download & trim video
+- extract audio for speech
+- clone voice
+- speak the prompt with the voice
+- stitch video + speech together
+demo: vì đang build nên mình làm thử meme quản cáo app dùm bạn
+video gốc: https://www.youtube.com/watch?v=VVxYOQS6ggk"
