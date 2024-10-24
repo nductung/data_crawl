@@ -1,0 +1,9 @@
+﻿post_id,user_id,user_name,fullname,content
+3825568521041889,,,,"Uniswap thúc đẩy giao dịch đa chain với cầu nối không cần cấp phép – Giá UNI tăng 4%
+Uniswap Labs, nhóm phát triển chính của sàn giao dịch phi tập trung (DEX) hàng đầu, vừa công bố tính năng cầu nối không cần cấp phép (permissionless bridging) qua giao diện và ví Uniswap, hiện đã hoạt động trên 9 mạng lưới.
+“Việc di chuyển tài sản giữa các chain luôn là một thách thức,” Uniswap Labs chia sẻ. “Người dùng thường phải dựa vào các cầu nối bên ngoài, đối mặt với giao diện không quen thuộc và thời gian giao dịch kéo dài.”
+Việc ra mắt cầu nối không cần cấp phép của Uniswap nhằm giải quyết những bất tiện khi quản lý tài sản trên nhiều chain khác nhau. Điều này diễn ra trong bối cảnh Uniswap đang phải đối mặt với sự sụt giảm thị phần trong giao dịch phi tập trung thời gian gần đây.
+HỖ TRỢ ETHEREUM, BASE, ARBITRUM VÀ CÁC GIAO THỨC PHỔ BIẾN KHÁC
+Ban đầu, tính năng cầu nối này sẽ hỗ trợ một số giao thức blockchain phổ biến nhất. Theo Uniswap Labs, người dùng hiện có thể bắc cầu đến Ethereum, Base, Arbitrum, Polygon, OP Mainnet, Zora, Blast, World Chain và ZKsync. Cầu nối không cần cấp phép này, tích hợp trên cả giao diện và ví của Uniswap, được vận hành thông qua Across Protocol.
+“Khác với các cầu nối truyền thống, Across là một cầu nối không cần cấp phép, hoạt động trên mạng lưới phi tập trung của các pool thanh khoản và relayers”.
+Công ty cũng nhấn mạnh rằng cầu nối này là một trong những tính năng được người dùng mong đợi nhất. Một cuộc khảo sát được thực hiện trên nền tảng X vào tháng 7 cho thấy, tính năng “cầu nối” đứng đầu danh sách yêu cầu, vượt qua cả “lệnh giới hạn trên Layer-2”."
