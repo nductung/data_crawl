@@ -1,0 +1,15 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1713814356072796,1713792879408277,,cuongxinchao,Nguyễn Mạnh Cường,Bạn tự SEO trang của bạn đi
+1713825479405017,1713792879408277,,nvankhoi,Nguyễn Văn Khởi,Bạn code bằng JAM stack à ?
+1713802952740603,1713792879408277,,bauhuynh.2020,Bau Huynh,Bạn chỉ biết SEO on-page thôi sao?
+1713807399406825,1713792879408277,,thanhnm.tech,Minh Thành Nguyễn,khi bạn đưa ra thị truờng sẽ có vô vàn yêu cầu từ KH. Sau 1 thời gian update thì ko còn đc 100 nữa đâu :)
+1713800596074172,1713792879408277,,qwertyduythinh,Nguyễn Duy Thịnh,Để trải nghiệm thử xem sao
+1713821086072123,1713792879408277,,minhlong.tran.589,Trần Minh Long,Project này tuyệt quá bác ơi =)))
+1713813549406210,1713792879408277,,hanhecomkey,Cao Van Hanh,Thật tình cờ cty mình lại đang kd website global. iB mình nha
+1713837782737120,1713792879408277,,artruuser,AR T RU,"- Menu ở trang single post hơi kì.
+- Ở thời điểm hiện tại mà bạn vẫn còn dựa vào điểm hiệu suất trong Lighthouse để đánh giá việc web load nhanh hoặc tốt cho SEO thì sai rồi.
+- Khi mà web load nhanh, đảm bảo các tiêu chí điểm Core Vitals 28 ngày thì mới đúng là cái người dùng cần nhé. Vì điểm này nó sẽ báo lỗi trong Search Console.
+- Mình thấy bạn có bình luận bảo web Filming Fixer có traffic ngoại nhiều nhưng khi check https://cruxvis.withgoogle.com/#/ thì ko có thống kê nào cả? → Key top là 1 chuyện, còn traffic có vào key đó nhiều hay không lại là 1 chuyện khác.
+- Đứng ở khía cạnh user thì mình ko quá quan trọng việc web load nhanh hay chậm, mà nội dung trong web đó có đúng cái mình đang tìm không? Web load chậm thêm vài giây cũng không quá khó chịu.
+- Rất hoan hỷ dự án của bạn. Nhưng để người dùng bỏ tiền ra với những cái cơ bản mà chưa chắc là Google đang đánh giá cao thì mình nghĩ chưa phải lúc.
+- Hãy public như 1 opensource để ae test, góp ý, nâng tính năng → Sau này làm bản trả phí cũng không muộn."
