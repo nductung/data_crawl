@@ -1,0 +1,17 @@
+﻿post_id,user_id,user_name,fullname,content
+1714714162649482,,,,"Như có chia sẻ vào hôm trước, đây lại là một micro saas khác đã “phát sinh” và gây trì hoãn thêm 1 chút cho Indie Backlink… (lại là 1 cái cớ khác nữa thôi 🫣)
+ZII.ONE - Personalized Link Shortener
+Lại là một công cụ shorten link nữa? Chắc mọi người sẽ nghĩ vậy 😆
+VẬY THÌ NÓ CÓ GÌ ĐẶC BIỆT? 
+Thật ra cũng không có gì quá đặc biệt, chỉ là sau khi tạo ra link rút gọn, mình cho phép custom thêm hình thumb share khi chia sẻ link lên các trang mạng xã hội.
+Trước mắt mình chỉ capture screenshot của trang đích rồi thêm background gradient ngẫu nhiên bên dưới.
+Tính năng tracking (đếm lượt click, lượt scan QR, geolocation,...) cũng đã xong, mà chưa có giao diện nên tạm ẩn đi rồi 😓
+KHẢ NĂNG MỞ RỘNG
+Sau này mình sẽ mở rộng hơn nữa bằng các tính năng nâng cao như cho phép chỉnh sửa hình ảnh thumb share này, thiết kế, thay đổi màu sắc, thay đổi template, thêm hình, thêm chữ, vân vân và mây mây. (còn sau này là khi nào thì không biết, tùy vào độ lười nữa 😂)
+Ngoài việc tạo link rút gọn bằng trang chính, mình có tạo, à không, chính xác là AI đã giúp mình tạo ra 2 công cụ tạo shortlink khác:
+CLI: với câu lệnh `zii <url-trang-đích>`
+Chrome Extension: https://zii.one/ziiext
+Tác giả không ai khác chính là Cursor Composer, với đúng 2 prompt một phát ăn ngay :))
+Again, sản phẩm cũng đang ở dạng MVP thôi nên hoàn toàn miễn phí, mời anh chị em dùng thoải mái.
+(Còn nữa, từ từ giới thiệu tiếp nghen, to be không-tình-iu)
+Ngoài lề: Tại sao sản phẩm này tên “ZII”? Vì nó cũng có cách phát âm tương tự như tên của mình, zậy thôi à :))"
