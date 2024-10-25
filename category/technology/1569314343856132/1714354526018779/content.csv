@@ -1,0 +1,6 @@
+﻿post_id,user_id,user_name,fullname,content
+1714354526018779,,,,"#buildinpublic
+nghiện code từ 5h sáng
+https://www.facebook.com/share/p/ws7rEWbnt2AdpfWN/
+mình dùng fabric, chỉ 508 dòng code thôi.
+lên ý tưởng với claude, sửa lổi các kiểu do nó vẫn dùng version cũ. mình phải git clone fabric repo, thả vào Cody để hỏi"
