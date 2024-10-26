@@ -1,0 +1,12 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1715366389250926,1715354729252092,100026518281025,,Đức An,"Cái này bạn chủ web tự code hết á b, ko có dùng thư viện
+Framework bạn ấy dùng là svelte
+
+Còn mấy phần bạn tô màu đỏ thì cũng là html css bình thường thôi, cái khó là mấy chỗ phải tính toán trong canvas kia kìa"
+1715365502584348,1715354729252092,100089726256821,,Hai Ba Lạng,"seed thành công rồi 😂
+dùng gì không được, cái gì mà bạn quen
+cứ thử, hỏi claude/gpt thôi"
+1715361842584714,1715354729252092,,sonhavietnamese,Nguyen Son Ha,"Bác có thể tham khảo penpot, bóc tách các phần để tự có câu trả lời nha https://github.com/penpot/penpot"
+1715379679249597,1715354729252092,,buivan.tien.792,Bui Van Tien,js bac oi
+1715434812577417,1715354729252092,,htc.hoangtuananh,Tuấn Anh,Cái này full js nhưng nếu muốn chức năng ngon hơn nữa thì nên có api tới CV nữa. Nhiều tiền hoặc phần cứng ngon thì LLM không thì tự train hoặc dùng prettrain model cho từng chức năng riêng
+1715403759247189,1715354729252092,,dangminhtuan,Đặng Minh Tuấn,Web gì thế nào? Gửi mình link web được không?
