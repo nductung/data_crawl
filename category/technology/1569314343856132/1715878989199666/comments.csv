@@ -1,0 +1,16 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1715893299198235,1715878989199666,,vinhnek21,Thành Vinh,"Hai Ba Lạng a ơi cmt share mấy tool bị xóa rồi ạ, em lướt đt thấy mở lap ra thì không còn ạ :((("
+1715932115861020,1715878989199666,,truongvu264,Vũ Xuân Trường,"nhưng để làm những tính năng khác biệt và đi sâu hơn thì nó lại là cả 1 vấn đề khác , trước mình build base cả FE + BE cũng tầm 2 ngày , xong thấy những chức năng nó không quá khác biệt với những sản phẩm khác nên bí quá cũng dừng lại 😂"
+1715927849194780,1715878989199666,,tieuquesu1,Nguyễn Văn Sử,Ladipage.vn có đủ cần gì đi đâu các bác
+1715951165859115,1715878989199666,,IAmLoiDepTrai,Nguyễn Hiệp Lợi,Lam site ban hang ok
+1715880525866179,1715878989199666,100089726256821,,Hai Ba Lạng,"này mình one-shot với Claude rồi dùng https://stackblitz.com/ + https://bolt.new/
+tầm 15 phút thôi
+
+vue + tailwindcss + interactjs. trên mạng đầy blocks của tailwindcss
+- https://readymadeui.com/
+- https://tailblocks.cc/
+- https://flowbite.com/blocks/
+
+lấy mấy cái đẹp đẹp rồi thả vào json, rồi map json vào block type, rồi render
+làm sao để llm gen từ yêu nữa"
+1716011469186418,1715878989199666,,hanhecomkey,Cao Van Hanh,A check ib e với ạ

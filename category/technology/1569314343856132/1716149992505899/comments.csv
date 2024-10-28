@@ -1,0 +1,5 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1716171222503776,1716149992505899,,nguyenhoangvu97,Nguyễn Hoàng Vũ,E hỏi tí bí kíp để ae BE có thể code ra FE đẹp với :))
+1716173079170257,1716149992505899,,haidawngdo,Đỗ Văn Sơn,Nếu thế thì chỉ 1 luồng làm việc cho toàn bộ user hả anh.
+1716152292505669,1716149992505899,,ti.sohotsoyani,Tống Xuân Hoài,A tải mã html về r bỏ vào trình render thì có nhanh hơn khum 🫣
+1716165629171002,1716149992505899,1450640173,,Anthony Nguyễn,Giả sử sp bạn được ae tin dùng thì bạn sẽ xử lý 100 yêu cầu tạo thumbnail cùng lúc như nào?

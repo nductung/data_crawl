@@ -1,0 +1,9 @@
+﻿post_id,user_id,user_name,fullname,content
+1716149992505899,,,,"Hôm nay mình đã dành cả ngày để tối ưu thời gian tạo thumbnail cho ZII.ONE
+Hôm qua nó đã mất đến hơn 2 phút để tạo ra 5 hình thumbnail, bởi vì mình đã có chút sai sót trong việc capture screenshot của trang đích, mình đã chụp đến 5 lần, trong khi đáng ra chỉ cần 1 lần là đủ (lol 🫣), sửa lại chỗ này đã giảm thời gian tạo thumbnails xuống còn 1 phút hơn.
+Tuy nhiên mình vẫn cảm thấy nó quá chậm, mình muốn nhanh hơn nữa. Mình đã cố gắng tối ưu rất nhiều chỗ trong code, nhưng không có cải thiện nào đáng kể 🥲
+Cho tới khi mình đặt `console.log()` ở khắp mọi nơi và đoán ra được rằng ở mỗi bước chụp hình trang đích, việc khởi tạo browser (mình dùng Playwright để chụp hình webpage) mất khá nhiều thời gian (20s-30s), nên mình đã sửa lại cho browser khởi tạo ngay từ khi server bắt đầu, và giữ nó ở đó suốt quá trình hoạt động, khi chụp hình chỉ việc mở new tab thôi.
+✌️ Voilà! Thời gian đã giảm đi hơn 1 nửa, từ 1m2s xuống còn 32s!
+Mình vẫn còn muốn nhanh hơn nữa cơ, nhưng đã hết ngày mất rồi, nên thôi suy nghĩ thêm sau vậy.
+(Ở trên máy mình thì chỉ mất 4-5s là xong, mình nghĩ là do có GPU nên tốc độ xử lý nhanh hơn)
+#buildinpublic #bipvn #indiehackers"
