@@ -1,0 +1,11 @@
+﻿post_id,user_id,user_name,fullname,content
+1716593869128178,,,,"#buildinpublic
+làm sao để tạo nhân vật nhất quán (trước sau như 1/consistent)
+1/ tạo từ đầu
+- prompt + fixed seed, (pic 1)
+- prompt rồi inpaint, mất công
+2/ đã có ảnh
+- inpaint, mất công
+- text to viddeo, rồi extract frame (pic 2)
+cái này mình mới học lỏm hôm qua trên twitter, nên giờ code
+live updating"

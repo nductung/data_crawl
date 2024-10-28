@@ -1,0 +1,8 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1716613245792907,1716593869128178,100089726256821,,Hai Ba Lạng,"[x] extract current and multiples frames
+
+cái này hay ở chỗ là mình có thể tự làm extend từ bất kì frame nào mình muốn
+thay vì cuối frame
+
+và có nhiều ảnh để train lora cho nhân vật nhất quán"
+1716599292460969,1716593869128178,,louis.khanh,Khanh Louis Nguyen,Cho mình hỏi là bạn xài local model hay model trả phí để prompt vậy? Mình xài local llama làm task summarize mà thấy chậm quá 😅
