@@ -1,0 +1,7 @@
+﻿post_id,user_id,user_name,fullname,content
+1741542039979387,,,,"Hi các bác, mình đang tính build up 1 con PC để vừa làm việc (dev) + chơi game.
+Mình đã từng dùng 2 con Ryzen 2400G Desktop và 4900HS laptop.
+=> Về khoản chơi game thì nó không có vấn đề nhưng về khoản coding, khi bật hyper-v docker thì 1 lát nó lại màn hình xanh, đặc biệt là lúc sau khi external screen off (sau khi screen saver) là nó xanh màn hoài luôn. (Cùng 1 người cài và xài windows nhưng Intel lại không bị).
+Bác nào đang dev dùng Ryzen thế hệ gần đây có thế issue gì về docker hay hyper-v không? Mình đang băn khoăn nên chọn giữa Intel vs AMD cho như cầu trên. Vì giá Intel với hiệu năng nó đem lại trong thời điểm này không cân xứng lắm.
+
+#hoidap"

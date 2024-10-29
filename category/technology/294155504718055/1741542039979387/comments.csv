@@ -1,0 +1,10 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1742232586576999,1741542039979387,,nhatminh.dang,Đặng Nhật Minh,"5700X vs 7700X không vấn đề gì với docker, wsl nhé. 2400G đời sâu quá nên lỗi màn hình xanh có khi không phải do cpu đâu"
+1742210733245851,1741542039979387,,duongnguyen2703,Dương Nguyễn,mình xài con legion 5 ryzen 5 6600H trước code dự án treo hyper-v cả ngày không thấy sao
+1742216926578565,1741542039979387,,depression.minhvu,Minh Vu,làm việc không thì Intel cũng được chứ cả game thì lấy AMD cho mát bác
+1742219736578284,1741542039979387,,leminhchien,Lê Minh Chiến,"Mình đang dev trên Ubuntu với amd PC, rất mạnh và không có vấn đề gì cả. Xanh màn có nhiều nguyên nhân lắm. Nhưng giờ cứ yên tâm build amd ít lỗi lắm. Nhân tỏ nhỏ của Intel mới là vấn đề."
+1742225836577674,1741542039979387,100038682230267,,Thái Tuấn,"R5 5500U dùng hyper v vẫn bình thường mà nhỉ, wsl.. chạy ầm ầm"
+1742224749911116,1741542039979387,,duybaolenguyen291,Le Nguyen Bao Duy,Hình như phải bật ảo hoá giả lập trong bios cho AMD mới dùng đc hyper v mà.
+1742257746574483,1741542039979387,,pham.vincent.3386,Vincent Pham,"dùng amd chạy docker, k8s mấy năm nay có sao đâu, cơ mà dùng trên ubuntu, windows ko rõ có sao ko"
+1742265643240360,1741542039979387,100060991662777,,Trung Hoàng,"Ryzen đời 2,3 có lỗi về tương thích thiết bị, 2 con ram khác hãng cắm vào cũng xanh lè :) Về sau ngon hết nhé"
+1742228719910719,1741542039979387,,nguyenhoangducminh,Nguyễn Hoàng Đức Minh,docker mình bật cả tháng nay có sao đâu (5950X)

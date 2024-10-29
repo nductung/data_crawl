@@ -1,0 +1,8 @@
+﻿post_id,user_id,user_name,fullname,content
+1741498533317071,,,,"#help
+Chào ae, CKTG tới rồi mà máy tính bị hư buồn quá .
+Hơi dài nên MN có đọc bắt bệnh giúp m nha. Hehe.😅
+Mình có 1 bộ PC cấu hình như sau: I3 10100, ram 16GB, main Gigabyte h410M-H, nguồn ìninity Eco 650W, SSD.
+Ban đầu máy bị crash nhiễu như hình mình để ở dưới, nhưng sau đó thì lại lên nên mình xài bt,
+Khoảng 1 time tới nay thì máy hết xài dc vẫn tình hình như trên nhưng nó ko về bình thường nữa kèm đó là random thêm các triệu chứng như tắt hẳn màn hình nhưng CPU vẫn chạy hoặc có khi tắt luôn của CPU. 🥲
+Quá trình mình debug như sau: ban đầu mình nghĩ là do cáp VGA cùi nên mình đã thay hẵn dây HDMI nhưng ko hết, sau đó mình nghĩ HĐH lỗi nên mình boot bằng USB boot nhưng vẫn y chang nên mình loại trừ do OS lỗi, sau đó mình chùi ram và thay hẵn pin CMOS do nghi ngờ hết pin nên nó chết ngoại vi và tháo CPU vệ sinh và tra keo mới, nhưng vẫn ko hết, màn hình thì chắc ko hư do màn mới, sau khi loại trừ thì mình nghĩ là do CPU hoặc main thoai ae ạ, CPU thì khó hư nên có khi là do main, mình làm hết sức rồi mà vẫn ko cứu đc 🤔. MN xem có phải do main như mình nghĩ ko để mình gửi đi sửa phát, MN cho ý kiến phát nhé. Hehe"
