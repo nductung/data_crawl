@@ -1,0 +1,13 @@
+﻿post_id,user_id,user_name,fullname,content
+1717275139060051,,,,"Nhờ #buildinpublic mà mình nhận được nhiều đóng góp đến từ mọi người:
+- Giải pháp chạy browser trên node (thay vì trong container) -> tăng hiệu suất
+- Giải pháp serverless để scale tốt hơn
+- Giải pháp Browser Rendering Worker của Cloudflare
+- Bug report
+- Layout feedback
+- Câu hỏi challenge: Scale up như thế nào? Xử lý đa luồng ra sao?
+…
+Bạn thấy đấy, có quá nhiều cái lợi khi xây dựng trước công chúng. Không phải cái gì mình nghĩ cũng đúng, có rất nhiều thứ trên đời này cần phải học hỏi, và càng có nhiều góc nhìn, bạn sẽ càng nhanh tiến bộ, càng nhanh tiến gần đến mục tiêu của mình.
+“Stay hungry, stay foolish” _ Steve Jobs
+Vậy còn chờ gì nữa, chia sẻ quá trình xây dựng của bạn ngay nào!
+#buildinpublic #bipvn"
