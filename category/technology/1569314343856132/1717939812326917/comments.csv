@@ -1,0 +1,9 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1717954628992102,1717939812326917,,AstralRaijin,Trần Thiện Thanh,Viết Python cho chạy mỗi 1p thì sao bác :v
+1717948525659379,1717939812326917,,mrgoonie,Duy Nguyen,A dùng UptimeRobot 😁
+1717956735658558,1717939812326917,,PhamBanBan,Phạm Vũ Nhật Toàn,Cloudflare cũng có healthcheck đó bạn
+1717955172325381,1717939812326917,,kietpham13,Phạm Kiệt,Em dùng uptime nha bác
+1717956892325209,1717939812326917,,smthanh,Sử Minh Thành,"dùng Kuma Uptime, opensource selfhost"
+1717958865658345,1717939812326917,,quangpl99,Le Quang,UptimeRobot nhe a : D
+1717986768988888,1717939812326917,,beatvn03,Chirs Wilson,"dùng tool ngoài healthcheck đi bạn, route53, waf, đụng gì cũng tốn xèng, ae chỉ dùng uptime cũng ok đó bạn, năm ngoái mình cũng apply uptime. không thì build con gateway trên ec2, rồi setup health check nhé"
+1717995605654671,1717939812326917,,mtphuocc,MT Phước,"Dùng Uptime Kuma, tiết kiệm hơn nữa thì dùng mấy service có sẵn nhưng thường thì free plan nó chỉ cho check 5p/ lần đổ lên chứ ko cho nhanh hơn :D"

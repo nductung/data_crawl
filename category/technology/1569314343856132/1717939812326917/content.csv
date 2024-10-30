@@ -1,0 +1,4 @@
+﻿post_id,user_id,user_name,fullname,content
+1717939812326917,,,,"Sáng nay check bill từ AWS thấy chi phí cho phần Healthcheck cũng ngốn kha khá, do đó mình xóa sạch 😅 tiết kiệm được cái gì hay cái đó.
+Trước mắt chưa tìm được cái thay thế nên làm đại cái giải pháp nho nhỏ là tạo crontab check mỗi 5 phút.
+Các anh em có nhiều sản phẩm thì healthcheck như thế nào? (ngoài AWS Route53 ra)"
