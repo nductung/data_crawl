@@ -1,0 +1,6 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1719064572214441,1718974272223471,,caomanhtuanbsb,Cao Manh Tuan,"Anh thấy dùng Supabase mà dùng cái RLS của nó ko khác gì mua dây buộc mình ấy. Khó maintain lắm.
+
+Recommend chuyển sang dùng Drizzle , có thể cân nhắc dùng với supabase và coi nó như một cái managed postgresql thì hơn."
+1719002212220677,1718974272223471,100026518281025,,Đức An,Chi tiết bản release xem tại đây: https://github.com/scrapersensei/beta-releases/releases/tag/v0.2.0
+1719001872220711,1718974272223471,100026518281025,,Đức An,Bài viết hôm qua của mình: https://www.facebook.com/groups/indiehackervn/posts/1718216585632573/

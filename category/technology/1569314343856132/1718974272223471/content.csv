@@ -1,0 +1,14 @@
+﻿post_id,user_id,user_name,fullname,content
+1718974272223471,100026518281025,,Đức An,"ScraperSensei dev log day 2
+Mình đã release v0.2.0 của ScraperSensei, bao gồm sharing feature, documentation, tăng tính ổn định,...
+Bài học hôm nay:
+- Mintlify support nhiều theme ""venus"" | ""quill"" | ""prism""
+- Supabase CLI hỗ trợ squash nhiều migrations thành 1, hôm nay mình tạo hơn 10 migrations để fix cái RLS cho đúng ý 🤣
+- Supabase Dashboard hỗ trợ impersonate 1 user bất kỳ trong câu SQL, giúp việc test RLS dễ dàng hơn
+- Viết RLS là 1 nỗi đau, project cũ mình dùng Supabase nhưng ko dùng RLS nên không biết, may mắn là Cursor hỗ trợ phần lớn, mình chỉ việc test lại logic đảm bảo ko lọt bugs
+Kế hoạch tiếp theo:
+- Ngày mai publish lên Chrome WebStore, theo kinh nghiệm chắc sẽ mất từ 3-14 ngày để review.
+- Làm landing page, Privacy Policy & TOS
+- Beta test trong 10 ngày tiếp theo
+- Setup payment
+- Post lên cộng đồng nước ngoài (buildinpublic X, reddit, HN)"

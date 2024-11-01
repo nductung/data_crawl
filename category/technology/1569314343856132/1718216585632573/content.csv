@@ -1,0 +1,23 @@
+﻿post_id,user_id,user_name,fullname,content
+1718216585632573,100026518281025,,Đức An,"Hello mọi người
+
+Hơn 1 tuần trước, Anthropic ra mắt computer use, giúp các tác vụ liên quan đến máy tính trở nên dễ dàng hơn. Nhận thấy cơ hội của mảng này cũng như muốn thử nghiệm ý tưởng công nghệ từ vài tháng trước, cuối tuần trước mình vừa hoàn thành MVP 1 browser extension giúp automate các tác vụ trên browser, sử dụng AI.
+
+Dưới đây là demo mình dùng extension để tự động đặt hàng trên website Phúc Long, sau đó extract thông tin giỏ hàng, sử dụng hoàn toàn AI và chạy ngay trên browser, hơn hết cả nó hỗ trợ sử dụng Tiếng Việt cho prompt (và các ngôn ngữ khác như Anh, Trung, Nhật).
+
+Một vài tính năng chính của extension:
+- Automate sử dụng AI (type ""something"" in the textbox)
+- Extract sử dụng AI
+- Automate manual tasks (click, type, goto)
+- Sử dụng OpenAI Api Key cá nhân
+- Cloud (tương lai)
+
+Một vài use case phù hợp cho extension:
+- Lead generation
+- Browser automation
+- Ecommerce crawling
+- Collect reviews
+- Quality control
+- ...
+
+Mình đang chạy beta test để cải thiện độ ổn định của extension, xây dựng hướng đi tốt cho sản phẩm, cũng như tìm kiếm cơ hội cho sản phẩm ở VN trước khi launch global. Nếu mọi người quan tâm thì tham gia group Telegram beat test để trải nghiệm nhé, link invite mình để dưới comment 🙏"

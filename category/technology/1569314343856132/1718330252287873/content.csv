@@ -1,0 +1,8 @@
+﻿post_id,user_id,user_name,fullname,content
+1718330252287873,,dunkbinggg,Bing Bing,"Chào mọi người, mình mới launch 1 sản phẩm tên là Tikim lên ProductHunt, đây là một app quản lý chi tiêu trên iOS.
+App này mình làm trong quá trình học SwiftUI. Trước đó mình đã định làm app kiểu như này bằng react native hoặc flutter rồi.
+Nhưng mà nghĩ lại thì mình muốn nó có thể dùng offline, và có thể sync dữ liệu qua iCloud, nên quyết định sẽ dùng swift, và chỉ làm cho iOS.
+App native nên khá mượt và nhẹ (~7mb), hỗ trợ quản lý chi tiêu, thu nhập, tài sản, ngân sách (giống các app chi tiêu khác). Không cần đăng nhập hay đăng ký gì cả, tải về là dùng luôn (dữ liệu có thể đồng bộ qua iCloud).
+Link product hunt: https://www.producthunt.com/posts/tikim
+Link tải app: https://apps.apple.com/vi/app/tikim-expense-tracker/id6727017255
+Mọi người vote giúp mình nhé ạ! Mình cảm ơn.!"
