@@ -1,0 +1,19 @@
+﻿post_id,user_id,user_name,fullname,content
+1721528205301411,100089726256821,,Hai Ba Lạng,"#buildinpublic
+chia sẻ progress cái high conversion page builder, vì có vẻ nhiều bạn thích và hỏi thăm
+đăng lỗi hiển thị tailwindcss cho nó thật, vì nếu bạn build thì sẽ gặp phải
+cách one-shot 1 page
+- cần Architect prompt để tạo content guideline và layout, chớ đừng bắt developer viết marketing và code luôn
+vào chế độ code thì nó ít lả lướt chữ hơn
+- lúc này cần developer prompt, mình map code có sẵn, và guideline từ Architect để nó viết lại code, thay content marketing vào
+kinh nghiệm là đừng dùng JSON, thiếu quote: "" hoặc comma: , là phải mất thời gian và token ($) generate lại
+mình dùng XML tag rồi parse sang JSON
+đang viết post thì nghĩ là nên làm thêm cái video để demo 😁
+hết bị lỗi css thì play CDN nó chịu load, cần thả nguyên cục tailwind vào vì đây là dev, khi build thì mình tối ưu sau
+có nhiều cách để tối ưu
+- dùng prompt cache
+- thay vì bắt nó viết lại code tailwindcss thì lặp lại nhiều, tốn nhiều, thì mình chuẩn bị placeholder rồi replace thôi
+- finetune
+cũng có nhiều cách phát triển thêm
+ví dụ: thả hình vào + thả layout mẫu tìm được, rồi one shot ra 1 trang hoàn chỉnh theo mẫu
+tự upload layout lên, thay vì dùng layout có sẵn của app,..."
