@@ -1,0 +1,53 @@
+﻿post_id,user_id,user_name,fullname,content
+1723556561765242,,locdh90,Lộc Đặng,"NÊN TIẾP CẬN ĐẦU TƯ VÀO SẢN PHẨM GEN-AI NHƯ THẾ NÀO?
+
+Hôm rồi mình có ngồi tư vấn cho một startup đang muốn tìm hiểu và nâng cấp sản phẩm theo hướng tích hợp Gen-AI, nhận thấy đây cũng là nhu cầu chung của nhiều nhà đầu tư/team startup hiện nay, nên mình chia sẻ lại một số quan điểm cá nhân về vấn đề này để giúp mọi người tiết kiệm thời gian và tránh được tối đa sai lầm. 
+
+👉Công nghệ này sẽ thay đổi tất cả mọi thứ, nên cần phải biết, phải nghiên cứu ngay từ hôm nay. 
+
+Luận điểm này với những người theo dõi AI một thời gian sẽ thấy khá hiển nhiên, tuy nhiên mình vẫn phải nhấn mạnh lại, vì team startup mình tư vấn từ hơn 1 năm trước mình đã trao đổi cần nâng cấp sản phẩm tích hợp thêm Gen-AI vào nếu không muốn bị vượt mặt bởi đối thủ, nhưng tại thời điểm mình trao đổi thì các bạn vẫn còn khá mơ hồ về cách Gen-AI hoạt động, các khái niệm cơ bản như RAG, function calling…Những hiểu biết này có thể coi là “nội lực” của doanh nghiệp. Nếu không có nội lực thì tới thời điểm phù hợp, muốn hấp thụ “võ công” cũng không được. 
+
+Do đó ngay cả khi chưa quyết định sẽ làm gì, hay đầu tư gì vào Gen-AI, thì cũng hãy khuyến khích đội ngũ, đặc biệt dev HỌC NGAY, NGHIÊN CỨU NGAY
+
+👉 Tuy nhiên khi quyết định làm/đầu tư gì cụ thể vào Gen-AI lại cần rất thận trọng.
+
+Ví đơn giản thì Gen-AI giống như đại lộ đi tới tương lai. Vì nó là đại lộ nên không chỉ có mình bạn chạy, mà tất cả đều cùng chạy, trong đó có cả..container, xe tải, xe lạng lách đánh võng…Cũng giống như tham gia giao thông, đường thì rộng đấy nhưng nếu bạn đi ẩu thì rủi ro “tai nạn” cũng là rất cao. 
+
+Dưới đây là một số dạng “tai nạn” nên tránh:
+💀 Chạy vào làn container: container ở đây chính là các tập đoàn công nghệ lớn như OpenAI, Google, Apple, Microsoft. Họ có tiền, có lực, có hệ sinh thái, và sẵn sàng cung cấp sản phẩm với giá…miễn phí. Vì thế lời khuyên đầu tiên là thấy các bên này làm gì thì tốt nhất là…né ra. Ví dụ: đừng build kiến trúc LLM mới, đừng làm AI Search, đừng làm local chatbot, đừng cung cấp hạ tầng chạy AI
+
+💀Chạy vào làn xe tải: xe tải ở đây là các thế lực phần mềm truyền thống và đang đầu tư mạnh vào AI. Họ có tiền, có sẵn data, có đội ngũ chuyên gia và quyết tâm dùng AI cải tiến lõi sản phẩm của họ. Đi chung làn với các ông này thì vẫn có thể tìm ra các ngách mà họ bỏ trống, nhưng rủi ro “bị cán” cũng rất cao. Ví dụ: đừng build công cụ design mới thay Photoshop, build tool AI Video mới thay Adobe Premiere…
+
+💀 Chạy vào đường núi: đây là những con đường mà mới đầu đi có thể bằng phẳng, nhưng càng đi sẽ càng dốc. Con đường này có thể tới đích, nhưng vấn đề là liệu bạn có đủ sức để leo được dốc đó? Con dốc này có thể là dốc về thời gian, về chi phí, về độ sâu công nghệ, về thiếu hụt dữ liệu cần bổ sung cho tới khi đạt được giải pháp đủ chất lượng mà người dùng chấp nhận. 
+
+💀 Chạy vào đường đang xây dựng mà chưa có ai đi: Gen-AI đang mở ra nhiều con đường mới, nhưng cũng có nhiều con đường là…đường cụt, vì đường mới quy hoạch chứ chưa xây xong. Đừng nghe “Google” nói cái này sẽ là xu hướng mà vội vã nhảy vào thực hiện/đầu tư ngay. 
+
+👉Tiêu chí ưu tiên để đầu tư vào GenAI là đi theo core value mà khách hàng/user sẽ trả cho bạn, thay vì làm những thứ mà AI có thể làm được 
+
+Trên đại lộ Gen-AI có rất nhiều con đường, đường nào trông cũng hấp dẫn cả, và thật khó mà biết trước được đường nào sẽ dẫn đến đích, đường nào dễ bị “cán”. Để không bị rối, nên học theo cách lái xe trong sương mù, bám vào những vạch kẻ đường để không cần nhìn và vẫn đi an toàn. Những vạch kẻ đường trong lĩnh vực Gen-AI chính là core value mà việc ứng dụng AI có thể giúp tăng thêm giá trị đáng kể so với giải pháp truyền thống. 
+
+Một số core value chính của GenAI là: 
+✅ Tự động hóa, giảm chi phí so với con người —> chatbot CSKH, chatbot đào tạo nội bộ
+✅ Trả về output có chất lượng cao hơn input    —> ứng dụng phục chế ảnh, viết văn tự động, lọc lead ứng viên…
+✅ Biến kĩ năng chuyên môn thành phổ cập & dễ tùy biến —> generate landingpage từ text, thiết kế nhân vật, thiết kế trang phục
+✅ Ra quyết định thay, giảm mental load —> content moderation, lọc CV…
+…
+Còn có nhiều core value khác, nhưng ý tưởng cơ bản ở đây là phải truy được tận cùng xem giải pháp AI bạn muốn làm/đầu tư tạo giá trị gia tăng từ đâu? Có thực sự đến từ core value của Gen-AI không?
+
+👉Đồng thời, để giảm hơn nữa rủi ro, hãy tự đặt và trả lời các câu hỏi dưới đây. 
+
+- Trong vòng 6 tháng tới các bên lớn có làm bài toán này không? Đơn vị lớn có phải ở vị thế tốt nhất để giải bài toán này không?
+
+- Trường hợp worse case thì user có chấp nhận được không?
+
+- Nếu làm được 6-7 điểm thì có giải quyết được painpoint của doanh nghiệp hay không?
+
+- Bạn có đủ nguồn lực để làm tới 8-9 điểm hay không? Ít nhất theo đuổi cuộc cạnh tranh trong vòng 2 năm tới?
+
+- Khách hàng có phải tham gia nhiều vào quá trình triển khai sản phẩm này không?
+
+- Làm giải pháp này có giúp tạo ra giá trị cao hơn cho khách hàng cũ hoặc tiếp cận thêm các tập khách mới với cùng giải pháp cũ hay không?
+
+👉Kết luận
+
+Gen-AI là cơ hội rất lớn và thay đổi sâu rộng mọi thứ, do đó sẽ không ai có thể đứng ngoài cuộc đua này và cần bồi đắp kiến thức, hiểu biết, thực hiện các thử nghiệm trong lĩnh vực này ngay lập tức để chuẩn bị “nội lực”. Nhưng khi quyết định bắt tay vào làm gì đó, hay đầu tư vào giải pháp nào đó thì nên cẩn trọng và luôn bám theo giá trị cốt lõi mong muốn mang đến cho khách hàng làm tiêu chí hàng đầu."
