@@ -1,0 +1,22 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1749056562561268,1747281902738734,,haiduong2k2,Hải Dương,"Các bước dọn máy mình hay dùng bạn có thể áp dụng:
+1. Tải hibit uninstall và thực hiện các việc sau trong app
++ gỡ những ứng dụng không dùng
++ Chọn chức năng làm sạch registry (xoá registry rác)
++ Vào mục quản lý startup: Bỏ tích hết những app không hay dùng. Chỉ cho những app quan trọng được startup khi mở máy (ví dụ gg drive, onedrive, window security,...) (bước này quan trọng vì giảm số lượng app chạy khi khởi động máy giảm bớt lag
+2. Tải tresize free và làm như sau:
++ Vào app chọn scan ổ C và sắp xếp các thư mục theo size.
++ Tiếp theo lần tới thư mục chứa dữ liệu của user trong win là users/admin/... Hoặc user/<tennguoidung>/.... Tại đây xem các app nào đang chiếm nhiều dung lượng thì truy vết sâu vào thư mục đó tìm cách xoá bớt. Nguyên tắc khi xoá là chỉ xoá những thư mục có chữ cache thì sẽ không ảnh hưởng gì tới việc sử dụng app và dữ liệu lưu trong app. Còn việc xoá các thư mục chứa dữ liệu không có chữ cache thì bạn phải tìm hiểu nó là gì rồi hãy xoá.
++ Sau khi đó tìm thư mục program_data và xoá các nội dung các thư mục cache tương tự, và tìm thư mục temp (ở đâu đó trong programdata../local/...temp)
++ Cuối cùng bạn cần dọn nốt những file lớn mà bạn không dùng tới trong download, document,....
+
+Lưu ý nếu dọn xong vẫn đầy ổ thì bạn nên gỡ các app có dung lượng trên 500mb ra và cài lại. Sau đó khi cài đặt lại thì lưu các app này ra ổ khác. Lý do là khi thư mục chứa win (ổ C) có càng nhiều dữ liệu thì việc khởi động load win sẽ càng lâu và lag"
+1748893785910879,1747281902738734,,gago365,Đặng Văn Hiệp,"hai thứ chiếm lưu lượng nhiều nhất là Desktop, Download và IDM Cache Files. Chuột phải vào chọn Properties rồi chọn Location khác thôi."
+1749081002558824,1747281902738734,,TranTheHuy.HuyBilly,Trần Thế Huy,bác down soft gì ko nó toàn ở ổ C đấy
+1749060605894197,1747281902738734,,haiduong2k2,Hải Dương,"Sau khi dọn rác xong thì có 1 số cách để ổ C không bị đầy lại như sau:
++ Chuột phải vào các thư mục như download và document,...(Các thư mục bạn hay lưu dữ liệu trong ổ C) chọn properties, chọn tiếp location và chuyển hết sang ổ khác. Tương tự khi bạn dùng treesize bạn sẽ tìm ra ứng dụng nào hay lưu data vào ổ C thì vào ứng dụng đó tìm cách chuyển vị trí lưu sang ổ khác.
++ Khi bạn cài đa số các app sẽ cho bạn option lựa chọn vị trí lưu thì bạn nên ưu tiên lưu vào các ổ còn lại
++ Khi dùng máy thấy có hiện tượng lag thì vào task manager kiểm tra app nào đang chiếm nhiều tài nguyên và xem xét tắt. Nếu các app đều cần thiết thì việc bạn cần làm là mua thêm RAM (và SSD nếu thiếu dung lượng ổ cứng)
++ Cuối cùng là khi dùng xong 1 app nào đó thì nên chuột phải và end task app đó để ngăn chạy ngầm. Để có option end task khi chuột phải thì bạn tải winaero teak và winutil chris ... để tìm cách thêm option endtask nhé (xem hướng dẫn youtube)
+
+Chúc bạn thành công (thông thường gặp phải mấy máy như này thì mình chuyển hết data sang ổ khác rồi cài lại win cho nhanh, sau đó tải app về và làm theo nguyên tắc trên là ok)"
