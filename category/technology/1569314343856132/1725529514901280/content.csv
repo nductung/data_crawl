@@ -1,0 +1,10 @@
+﻿post_id,user_id,user_name,fullname,content
+1725529514901280,,hxutixnnn,Nguyễn Hữu Tiền,"Happy Sunday đồng build 🙌
+App Bentofy.xyz của mình đang bị lỗi login/signup do 1 thời gian dài không gọi vào db dẫn đến bị khoá project. 😭
+Nhận ra nhu cầu chỉ cần cho user login và signup để sử dụng app thôi nên mình thử dùng Clerk (học từ bác Hanzo Truong 🫡) này xem sao.
+Thật bất ngờ với DX của Clerk, migration chỉ mất khoảng 2h để tìm hiểu, tích hợp và deploy cho user sử dụng được (rút gọn được khoảng 80% code cho login/signup do có sẵn các built-in components 🤯).
+Giờ mình có thể tiếp tục hoàn thiện bản update mới cho Bentofy và chia sẻ với mọi người sớm hơn trong tương lai. 🤩
+Qua đây có 2 điều mình học được:
+1. Giảm thời gian cho các tính năng ko cần thiết giúp tăng thời gian build tính năng mang lại nhiều giá trị hơn cho user.
+2. UX rất quan trọng. Nhờ Clerk có up-to-date docs, “plug-and-play” code example & built-in components có sẵn như SignIn, SignUp mà mình mới có thể migrate nhanh như vậy đc (game-changer 🫡)
+Highly recommend mọi người thử qua Clerk nha!"
