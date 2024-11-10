@@ -1,0 +1,12 @@
+﻿post_id,user_id,user_name,fullname,content
+1725572128230352,,pxquang.2002,Phan Xuân Quang,"Giới thiệu với mọi người công cụ truy vấn với cơ sở dữ liệu SQL sử dụng ngôn ngữ tự nhiên (thậm chí là tiếng Việt), dành cho cả người biết lẫn người không biết SQL. 
+https://github.com/phanxuanquang/AskDB
+Công cụ này được tạo ra với mục tiêu tối giản hóa việc truy vấn và phân tích dữ liệu trong database. Người dùng không nhất thiết phải tìm hiểu quá sâu về SQL để có thể truy vấn dữ liệu.
+Đây sẽ là công cụ hữu ích dành cho dân không rành lệnh SQL (giống như mình) nhưng vẫn muốn tìm hiểu về phân tích dũ liệu.
+Với công cụ này, người dùng:
+Không cần thiết phải biết SQL, chỉ cần viết câu truy vấn bằng ngôn ngữ tự nhiên, thậm chí là tiếng Việt, sau đó sẽ nhận được kết quả truy vấn.
+Được gợi ý lên đến 100 câu truy vấn, bao gồm cả lệnh SQL và truy vấn bằng ngôn ngữ tự nhiên, dựa trên cấu trúc database.
+Tự động phân tích data chỉ với 1 nút bấm.
+Xuất kết quả truy vấn trực tiếp hoặc chuyển đổi truy vấn ngôn ngữ tự nhiên thành lệnh SQL tương ứng.
+Tương thích với các hệ quản trị cơ sở dữ liệu phổ biến như SQL Server, PostgreSQL, MySQL, và SQLite.
+Dữ liệu truy vấn không bị lộ, toàn bộ dữ liệu đệm được lưu cục bộ và được mã hoá sẵn."
