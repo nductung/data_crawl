@@ -1,0 +1,22 @@
+﻿post_id,user_id,user_name,fullname,content
+1726467678140797,,haibui0911,Hai Bui,"Chào mọi người, mình là Hải 👋. 
+
+Mình lặn trong group này khá lâu và luôn ngưỡng mộ những sản phẩm chất lượng mà các bạn chia sẻ. Gần đây, mình cũng thử sức tự phát triển một vài công cụ hỗ trợ công việc hàng ngày
+
+Hiện tại, mình làm việc tại một công ty software consulting/outsourcing. Khi có dự án mới, team mình thường phải điều chỉnh CV của nhân viên sao cho phù hợp với yêu cầu dự án - một công việc lặp đi lặp lại và khá tốn thời gian, có khi mất đến 2 giờ chỉ để tối ưu CV và trao đổi với account manager. Do đó, mình và anh account director đã nảy ra ý tưởng phát triển Priorli - một công cụ tự động hóa CV, hỗ trợ quản lý dự án và khách hàng, tập trung vào các công ty software consulting/outsourcing và cả người dùng cá nhân muốn cập nhật CV khi ứng tuyển vào nhiều công ty/dự án khác nhau.
+
+Đối với người dùng B2C, các tính năng bao gồm:
+📑 Tối ưu hóa CV tự động theo Job Description: Chỉ cần dán JD, công cụ sẽ tự động điều chỉnh CV của bạn sao cho phù hợp với yêu cầu tuyển dụng.
+🎨 Mẫu thiết kế chuyên nghiệp: Nhiều mẫu CV đẹp mắt, giúp bạn dễ dàng tạo ấn tượng.
+🔗 Chia sẻ dễ dàng: Tạo profile link cá nhân giúp bạn chia sẻ và tải về CV nhanh chóng.
+Đối với khách hàng B2B, các tính năng bao gồm:
+📑 Tối ưu hóa CV tự động cho dự án: Paste mô tả dự án và  Priorli sẽ tối ưu hóa CV của nhân viên, giúp tiết kiệm thời gian và nâng cao hiệu quả tuyển dụng.
+🖍 Mẫu CV chuyên nghiệp & dễ dàng tùy chỉnh: Các mẫu giúp CV nhân viên trông chuyên nghiệp và dễ điều chỉnh theo nhu cầu công ty.
+📊 Hỗ trợ chuẩn bị proposal dự án: Ngoài tối ưu CV, Priorli hỗ trợ chuẩn bị tài liệu dự án để gửi khách hàng, tiết kiệm thời gian và tăng hiệu quả công việc.
+⏱ Quản lý giờ làm việc: Nhân viên ghi lại giờ làm việc cho từng dự án, giúp công ty theo dõi tiến độ và thanh toán chính xác, giảm sai sót trong quản lý giờ công.
+
+Hiện tại, công ty mình đã bắt đầu sử dụng Priorli và nhận được nhiều phản hồi tích cực. Hôm nay, mình muốn giới thiệu bản trial cho B2C và rất mong nhận được phản hồi từ mọi người để cải thiện Priorli. Hy vọng công cụ này sẽ giúp các bạn tiết kiệm thời gian và làm cho CV chuyên nghiệp hơn!
+
+Nếu bạn nào cũng đang làm outsourcing/software consultant và muốn công ty trải nghiệm thử Priorli thì connect với mình 😁
+Mình có để code offer exclusive cho group mình và link ở dưới comment.
+Rất mong nhận được sự ủng hộ và ý kiến đóng góp để công cụ ngày càng hoàn thiện, vì mình build 1 mình nên k đủ resource để test 🥲"
