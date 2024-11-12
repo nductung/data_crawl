@@ -1,0 +1,6 @@
+﻿post_id,user_id,user_name,fullname,content
+1726882541432644,100089726256821,,Hai Ba Lạng,"#buildinpublic
+qwen2.5-coder mới ra nên phải thử ngay, nó code ngang ngửa với gpt4o 🤯
+mình 1-shot tạo page với 2 agent: architect & developer
+mất hơn 1 phút để tạo trang, nên bạn có thể kéo video về cuối xem kết quả, hoặc xem 3x
+hiện tại mình dùng 2-agent claude & gpt4-mini, mà qwen giởi vậy thì phải nghiên cứu lại agent để giúp user tiết kiệm chi phí, tạo được nhiều page/site hơn"
