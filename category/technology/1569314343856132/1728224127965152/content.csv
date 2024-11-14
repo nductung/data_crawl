@@ -1,0 +1,11 @@
+﻿post_id,user_id,user_name,fullname,content
+1728224127965152,100089726256821,,Hai Ba Lạng,"#buildinpublic
+bữa giờ bận bịu ""tái định nghĩa"" chỉnh sửa ảnh, lol,
+thực ra thì vò đầu bức tai refactor code vì tự dưng server giở chứng
+bị thằng em chê phần xoá nền rồi inpaint rườm rà, nên kiếm cách tự động thay nền theo yêu cầu, và gợi ý thay nền luôn
+này mình lấy đại cái đồng hồ trên Ali về, ko có ý tưởng gì cả
+lên app nhờ chỉnh thay nền, inpaint xoá chữ TQ
+có yêu cầu thêm nhẫn vàng mà nó ko nghe 😂
+workflow:
+gợi ý thay nền: gửi hình lên claude nhờ nó viết 3 gợi ý
+tự động thay nền: xoá nền bg, và giữ mask, gửi mask, ảnh và gợi ý (như inpaint) lên -> profit"
