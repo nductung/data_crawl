@@ -1,0 +1,13 @@
+﻿post_id,user_id,user_name,fullname,content
+1727853168002248,,hoangntk,Bang Nguyen,"Bài dự thi trong Cuồng Phong Hội chia sẻ cách kéo traffic vào site bằng Coldmail, mình share lại trên group cho ae
+
+Ở đây chắc nhiều bên sẽ làm về Email retention trên các nền tảng Klaviyo nhưng vấn đề là chưa nhiều có khách hàng lấy đâu ra email, chưa có subscriber lấy đâu ra mà retension các kiểu. Team mình mới thử cách này tính ra traffic về site CPC rẻ nhưng chưa chuyển đổi trực tiếp ngay mail mà lại truyển đổi qua retargeting FB và có thể dùng được hoài Cách làm
+Bước 1: Tìm các công cụ gửi warmup, outreach mail và sử dụng 7749 cách để có email: - Các tool quét email, các nền tảng cung cấp database email Apollo, Uplead, buyemailmarketinglists.com hay có thể export mọi data từ fanpage group ở theAlita.com nhưng hên 1 cái mình là co-founder theAlita.com nên mọi người nhập code CPH để discount 20%
+==> Sau khi có mail rồi nhớ dùng thêm công cụ để check email sống chết, nếu chưa có, inbox mình
+Bước 2: Sau khi gửi warmup, lọc các email nào mở thì cho vào phễu automation đi series email để drive traffic về landing và promotion: Cái này mình confirmed tỉ lệ mở từ 20% trở lên, chưa có camp nào gửi vào phễu automation này dưới 20%.
+⇒ Có rất nhiều nền tảng gửi email automation kịch bản đầy đủ, trước mình dùng Mautic.org tự setup vps xài, giờ hết rồi
+Bước 3: Đo traffic về site, và trên site gắn pixel retargeting
+Bước 4: Lập lại các bước 1,2 là có đủ active user dùng hoài, tính ra CPC rẻ hơn nhiều lại dùng nhiều lần được
+Muốn sử dụng bước 1 và bước 2 trên 1 nền tảng thì dùng eMailbase - hướng dẫn sử dụng tại đây https://emailbase.gitbook.io/vietnamese với các tính năng sơ bộ: - Bigdata 450M social profile có thể crawl được bất kì fanpage group ra email, 220M B2B contact data linkedin - Có automation đầy đủ - Có AI chatGPT để viết tiêu đề nội dung và check spam content - Cái này ae thích là dùng SMTP riêng nên mình chủ động add các stmp khác vào dùng rẻ ví dụ như SES amazon gửi 10K email có 1$ hay dùng tk gmail cá nhân mỗi tk 1 ngày gửi free 300 email thì cứ xx lên 
+
+Do vô tình mình cũng là Country Manager ở Vietnam của eMailBase nên 27/11 mình có cái workshop hướng dẫn chi tiết cách dùng và xây dựng, ae nào quan tâm thì có thể tham khảo https://www.facebook.com/hoangntk/posts/pfbid068cuUX5gc5re9EepoqRodPQACfENFFrU6ma25zm1j12BbqC9H9tomcCRkimKLyoJl"
