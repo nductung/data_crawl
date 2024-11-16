@@ -1,0 +1,28 @@
+﻿post_id,user_id,user_name,fullname,content
+1729566757830889,100089726256821,,Hai Ba Lạng,"#buildinpublic
+prompting vẫn ""pain-in-the-ass""
+nên mình rủ rê hoặc fund bạn builder nào phát triển ai agentic workflow builder
+> 1 bạn không phải nguyên team nhé 😄
+hiện mình build nocapcreator và nocappage, nghịch prompt rất nhiều, nhưng không có workflow để test, evaluate, run hiệu quả
+nhảy qua nhảy lại hoài, tốn thời gian, không tập trung build được
+nên mình prototype nocapflow, tính là làm internal tool,
+nhưng thị trường chưa có, và bận với 2 dự án kia nên kiếm người phát triển cùng luôn
+yêu cầu trước mắt
+- test system prompt để tạo ra bài viết hay, kịch bản hấp dẫn, ảnh bắt mắt
+- test system prompt để tạo ra site map và landing page (trong screenshot thêm preview html)
+- kết nối với api ở server hiện tại
+- phát triển vài tool
+yêu cầu sau này
+- đóng gói workflow để evaluate và chạy được
+- thêm nhiều tool/connector
+- marketplace cho builder
+- sdk cho developer
+ví dụ workflow mình cần
+- nhập mã chứng khoán quan tâm, nhập email/telegram, gửi mình report hàng ngày hoặc summary hàng tuần
+- nhập thông tin trang web (reddit/boredpanda), trích memes, gợi ý bài đăng dựa vào sản phẩm của mình
+sdk mình cần, sau khi viết và evaluate prompt, thì mình chỉ cần:
+workflowRun({ id, userId, userMessages, ratelimit: 5/60 })
+track userId này, giới hạn 5 request 1 phút
+comment khả năng của bạn nhé
+mình ưu tiên: python/go/rust + vue/svelte
+tuyệt đối nói không với react 😂"
