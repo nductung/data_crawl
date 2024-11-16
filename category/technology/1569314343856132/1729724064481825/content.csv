@@ -1,0 +1,24 @@
+﻿post_id,user_id,user_name,fullname,content
+1729724064481825,,nhatminh.phan.vanhhh,Nhatminh Phan,"[Xin ý kiến hướng dẫn xây dựng ứng dụng quản lý và xem video, kết hợp bài post dạng mạng xã hội cho đồ án tốt nghiệp]
+Em xin chào anh chị trong cộng đồng,
+Em là sinh viên đang chuẩn bị làm đồ án tốt nghiệp. Em muốn thử nghiệm phát triển một ứng dụng với hai chức năng chính: quản lý và xem video (kiểu như các trang xem phim trực tuyến) và bài post dạng mạng xã hội. Cụ thể:
+Xem video: Admin sẽ đăng sẵn các video lên hệ thống, người dùng có thể truy cập để xem.
+Bài post: Người dùng có thể đăng bài viết (văn bản, hình ảnh hoặc video) và tương tác qua thả cảm xúc, bình luận, và phản hồi bình luận.
+Hồ sơ cá nhân: Người dùng có một trang hồ sơ để quản lý thông tin và các bài đăng của mình.
+Em muốn nhờ anh chị chia sẻ kinh nghiệm hoặc ý kiến xem hệ thống như vậy thực tế sẽ phải giải quyết các bài toán nào, và nên bắt đầu từ đâu để triển khai được. Em xin phép đặt một số câu hỏi như sau:
+1. QUẢN LÝ VÀ TRUYỀN TẢI VIDEO
+Hiện tại, em chưa hiểu rõ cách lưu trữ và truyền tải video như các trang xem phim trực tuyến. Nếu video được admin tải lên, thì:
+Nên lưu video dưới dạng file trên server hay cần các giải pháp lưu trữ như AWS S3, Google Cloud Storage?
+Khi người dùng xem video, hệ thống sẽ xử lý truyền tải video thế nào để tối ưu, ví dụ có cần dùng các giao thức như HLS hay DASH không?
+Làm sao để giảm tình trạng tải chậm hoặc gián đoạn khi có nhiều người cùng truy cập?
+2. QUẢN LÝ HỒ SƠ CÁ NHÂN VÀ BÀI POST
+Với phần quản lý người dùng và bài post:
+Em nên tổ chức các thông tin trong cơ sở dữ liệu như thế nào để dễ quản lý mà không làm chậm ứng dụng?
+Nếu mỗi bài post có thể chứa văn bản, hình ảnh, hoặc video ngắn, thì phần lưu trữ các nội dung này nên xử lý ra sao?
+3. QUẢN LÝ BÌNH LUẬN VÀ TƯƠNG TÁC
+Phần bình luận và tương tác cảm xúc (như like, thả tim):
+Với bài post có nhiều bình luận hoặc phản hồi, em nên lưu trữ theo dạng nào để vừa dễ truy vấn vừa không bị chậm?
+Có cần xây dựng bảng riêng cho tương tác và bình luận hay có cách đơn giản nào phù hợp hơn?
+4. KIẾN TRÚC CƠ BẢN CHO ỨNG DỤNG
+Nếu ứng dụng chỉ ở mức đồ án thử nghiệm, em có cần chia thành các module riêng như: quản lý người dùng, bài post, và video không? Hay em nên bắt đầu với kiến trúc monolithic để dễ triển khai trước?
+Em rất mong nhận được sự chỉ dẫn từ anh chị để hiểu rõ hơn cách giải quyết các bài toán trên và có định hướng thực tế hơn cho đồ án. Em xin cảm ơn anh chị rất nhiều!"
