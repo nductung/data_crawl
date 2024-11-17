@@ -1,0 +1,10 @@
+﻿post_id,user_id,user_name,fullname,content
+1730278014426430,,chanhxoai.family,Hùng Quân,"Công cụ chỉnh sửa ảnh mình mới dựng gần đây với các chức năng:
+- Thêm bộ lọc chỉ sử dụng CSS Filter (Không sử dụng canvas)
+- Hiển thị 5 màu chính của ảnh (màu chủ đạo ở vị trí đầu tiên)
+- Xóa nền (ngay trên trình duyệt với WebGPU), thay đổi màu nền
+- Thêm chữ, hiển thị chữ ở sau ảnh
+- ...
+- Và còn nhiều tính năng nữa mình đang dần hoàn thiện.
+
+Anh em sử dụng cho mình thêm chút góp ý để hoàn thiện thêm với ạ. Link mình xin để ở bình luận sau ạ."
