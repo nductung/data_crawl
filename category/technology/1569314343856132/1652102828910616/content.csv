@@ -1,0 +1,17 @@
+﻿post_id,user_id,user_name,fullname,content
+1652102828910616,,hi.baoha,Hà Gia Bảo,"Chào các bạn, Chào các anh em Indie Hacker Việt Nam, 2 tháng trước thì mình có tung phiên bản MVP cho ứng dụng mang tên là Binsoo. Binsoo là một ứng dụng dành cho iOS cho phép bạn có thể chỉnh sửa hình ảnh dễ dàng với các bộ lọc có sẵn và công cụ mạnh mẽ.
+VỚI BINSOO BẠN CÓ:
+Hơn 10+ công cụ giúp bạn có thể chỉnh sửa ảnh.
+400+ màu filter có sẵn, hiện tại đang được public khoảng 50 màu.
+Xuất file ở chất lượng cao nhất.
+Dùng lại và lưu giữ công thức sau khi chỉnh.
+VÌ SAO MÌNH TẠO RA BINSOO?
+Tầm khoảng tháng 7 - 8 của năm trước (2023) thì mình đang trong trạng thái thất nghiệp nên là mình tận dụng khoảng thời gian đó để học một cái gì đó mới mẻ nhằm refresh bản thân và quên đi tiêu cực, rồi mình nghĩ là nên làm một ứng dụng đầu đời cho cái sự nghiệp suy tàn này(nghe tiêu cực hẳn) Do mình cũng khá thích chụp ảnh, chụp phong cảnh, đời sống, nhưng chụp hình cho người yêu thì mình chịu 🙉, thích chụp ảnh mà chụp ảnh toàn xấu nên là mình hay chỉnh sửa hậu kỳ cho các bức ảnh của mình trở nên loè loẹt, nên là khi mình bắt đầu suy nghĩ nên làm ứng dụng gì đầu tiên trong đời thì đây là một ý tưởng có độ ưu tiên cao nhất. Mình vốn đã định làm nó vào những năm 2021 vì trước đó mình đã public một repo liên quan đến chỉnh sửa hình ảnh cho React Native: https://github.com/baronha/react-native-photo-editor
+Suy xét ở khía cạnh kỹ thuật và chi phí thì đây là một side project khả thi. 
+TechStack mình dùng trong Binsoo toàn là lần đầu trải nghiệm: SwiftUI + RealmDB + Supabase.
+Tiện thể thì mình cũng lần đầu Launch Binsoo trên Product Hunt, mong là anh em ủng hộ mình với nhé, Cám ơn anh em rất nhiều: https://www.producthunt.com/products/binsoo
+TẢI APP Ở ĐÂY NHA ANH EM:
+Appstore: https://apple.co/4bENX35
+Anh em cứ feedback nhiệt tình nhé. Cảm ơn các anh em rất nhiều
+
+#indiehackers #buildinpublic #buildinpublicvn"

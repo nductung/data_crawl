@@ -1,0 +1,22 @@
+﻿post_id,user_id,user_name,fullname,content
+1730950991025799,100079007344150,,Sơn Võ,"UI xấu. UX tệ. Làm thế nào?
+Dùng 3 nguyên tắc sau để đạt ít nhất 8 điểm. Sơn rút ra sau khi build X apps, từ shit đến tạm nhìn được.
+1. Đứng trên vai người khổng lồ
+- Sử dụng các thư viện UI có sẵn: Shadcn, Ant design, Chakra. Follow 100%. Không chế thêm gì cho đến khi build được 3 apps.
+- Sử dụng các design system của các ông lớn (https://www.designsystemsforfigma.com/). Điều chỉnh chút ít.
+- Clone.
+Build được 3-4 apps xài ổn rồi tính tiếp.
+2. Checklist
+- Tập các rules, tips với checklist cụ thể. Đối chiếu checklist khi design.
+Tất cả các rules, tips ở đây: https://www.refactoringui.com/
+3. Nền tảng UX
+- Bồi thêm nền tảng UX thông qua sách: the design of everyday things, don't make me think (ok, cái này cũ. Nhưng vẫn giá trị)
+- Luyện mắt bằng case study: https://growth.design/. Xem ít case study ở đây là mắt tinh x2.
+=============
+Nhân tiện Sơn đang mở beta cho DirectoryBuilder.co - nền tảng giúp bạn làm Directory website trong 5p.
+Nếu bạn muốn build gì đó nhưng chưa biết bắt đầu từ đâu, hãy start với một trang Directory:
+- Dễ có traffic. Dùng để thu thập tập người dùng ban đầu rất tốt.
+- Đơn giản. Dễ làm.
+- Quá trình thu hút người vào trang directory sẽ giúp bạn học được skill quan trọng nhất khi build sản phẩm: Marketing.
+Đừng tự build. Hãy đứng trên vai người khổng lồ: Template chuẩn UI/UX. Chuẩn SEO. Không code. Không design. 5p có directory để bắt đầu làm marketing.
+Join beta để nhận 30% discount: directorybuilder.co"
