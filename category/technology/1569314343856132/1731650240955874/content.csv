@@ -1,0 +1,17 @@
+﻿post_id,user_id,user_name,fullname,content
+1731650240955874,100089726256821,,Hai Ba Lạng,"#buildinpublic
+cũng vì admin sợ vợ nên mình poast thường xuyên giữ lửa 🤣
+prompt vẫn là pain, đặc biệt là khi chaining
+nên cố gắng ""doing things that don't scale""
+ví dụ là user như mình nhập a cat -> ra con mèo -> khi describe thì rất dài
+vấn đề ở đây: mình/user thường mở app lên có ý tưởng rõ ràng gì đâu
+nhập đại, thấy kết quả, thay thế, rồi cải thiện dần
+thì tốn thời gian và credits
+nên khi làm magic prompt/prompt optimizer, câu hỏi
+chọn vlm nào? chọn temperature nào? rồi prompt như thế nào?
+rồi vấn đề là flux / sd / ideogram / recraft lại khác nữa
+rồi mỗi user có cái sở thích riêng, làm sao trích style ra được từ prompt để tạo ra ảnh mà họ thích trong 1 vài lần
+để tăng trải nghiệm
+hiện tại là chưa có tool hay sdk nào, từ prompt/evaluate/run/collect để iterate nhanh
+nên mục tiêu của mình là làm tool internal, rồi bán sau
+vì kiểu nào team nào dev AI app cũng cần"
