@@ -1,0 +1,12 @@
+﻿post_id,user_id,user_name,fullname,content
+1732542440866654,100089726256821,,Hai Ba Lạng,"#buildinpublic
+không bip nhé 🤣 (Mac autocorrect ra bịp)
+4 shot ra được cái text behind image, lấy cảm hứng từ bài này
+https://www.facebook.com/share/1EwgmPdhDv/
+test cái app xem nó thay được dev mình chưa, chứ ko ý gì 😅
+sáng mình nghịch chat to improve, và screenshot rồi vẽ lên, yêu cầu llm code lại, dùng html2canvas mà chưa như ý
+debug để trace log rồi gửi cho llm, cái này khó hơn mình nghĩ
+có 2 lỗi để bắt: 1 là code sai (thiếu import, function này nọ)
+2 là runtime ở iframe, phải intercept console.error rồi gửi ngược cho parent window
+mai mần tiếp
+mà cảm xúc lẫn lộn mấy dev oy 😅"
