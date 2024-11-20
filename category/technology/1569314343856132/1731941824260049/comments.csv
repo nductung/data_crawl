@@ -1,0 +1,7 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1731948040926094,1731941824260049,,tsundteo,Pham Tung,Mình dùng ytdlp down audio về xong cho chạy qua groq để transcribe (lõi whisper v3)
+1731963034257928,1731941824260049,,tuanblackcat,Nguyễn Minh Tuấn,"Mình từng dùng ytdlp, có thể code để check nếu file có transcript đính kèm thì lấy transcript, trường hợp không có thì có 2 phương án, 1 là lấy transcript tự động của Youtube, 2 là lấy audio rồi transcribe sau (bằng whisper, API, ...)
+
+https://github.com/yt-dlp/yt-dlp"
+1731943887593176,1731941824260049,,hainam.climax,Lê Đặng Hải Nam,Api của youtube có còn unoffical thì github có
+1731948127592752,1731941824260049,,toidicodeblog,Tran Trang,App có đc k bạn?

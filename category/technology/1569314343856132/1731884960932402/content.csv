@@ -1,0 +1,14 @@
+﻿post_id,user_id,user_name,fullname,content
+1731884960932402,100089726256821,,Hai Ba Lạng,"#buildinpublic
+
+xin lỗi junior dev and designer 😂
+hãy nhìn vào tốc độ nó xuất code
+
+app xong rồi, one shot gần như các mini app/internal small tool được rồi
+mà lười launch quá
+
+lý do chính là chưa chat để cải thiện được, vì hyperbolic & together chưa hỗ trợ cache,
+nghĩa là phải thảy tất cả lịch sử chat mỗi lần lên, chat càng nhiều thì thả càng nhiều, như vậy sẽ tốn nhiều token
+tăng thời gian xử lý và tiền
+
+nên mình dùng cái này prototype&iterate nhanh tính năng cho nocappage/creator/workflow đã"
