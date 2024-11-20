@@ -1,0 +1,11 @@
+﻿post_id,user_id,user_name,fullname,content
+1732429100877988,,anpuv.pham,Vu Pham,"Dear cộng đồng BIP ,
+Team mình xin hân hạnh giới thiệu 1 bộ công cụ dựng ML mới nhất do team mình vừa phát hành chính thức, mang tên EZAI.
+EZAI là 1 platform xây dựng AI trên chính máy cá nhân của bạn, người dùng sẽ nắm toàn bộ quy trình từ chuẩn bị dữ liệu cho đến training và sử dụng. Tuy nhiên điểm khác biệt của EZAI là trải nghiệm người dùng (UX) được tối giản hóa đến mức tối đa, người dùng non-technical cũng có thể sử dụng được.
+Có lẽ quyết định làm EZAI là 1 quyết định mạo hiểm của team, khi mà nhà nhà đang trend LLM, người người đều nói đến chatGPT, chúng mình lại đi từ bước rất basic là làm bộ công cụ classification và trong tương lai là object detection. Chính vì thế, đối tượng nhắm đến của EZAI không phải là những lập trình viên hay những tech enthusiast, mà là những học sinh, sinh viên, hay những ai đang có những ý tưởng lớn lao cần sự trợ giúp của ML - tự động hóa.
+Ý tưởng này đến với mình cách đây 8 năm khi tình cờ đọc 1 bài báo, 1 học sinh trung học gốc việt ở mỹ, nhờ bố là lập trình viên, đã chiến thắng cuộc thi science fair nhờ vào ý tưởng: Giảm thiểu lượng thức ăn dư thừa, hư hỏng bằng cách nhận diện thức ăn thừa, thực phẩm trong tủ lạnh, suggest cách nấu món ăn mới để tránh các thực phẩm đó bị hư hỏng, xả thải ra môi trường.
+Với tinh thần tương tự, cách đây 4 năm mình đã bắt đầu thực hiện phiên bản Beta 1 của EZAI, và để cho các bạn học sinh trung học sử dụng, các bạn đã tự mình build 1 bộ phân loại rác thải, kết nối với điện thoại và raspi để xây dựng dự án thùng rác thông minh, win được giải sáng tạo tại cuộc thi Samsung solve for tomorrow (hiện tại các bạn trong team đều đã đi du học với profile win giải). Hãy tưởng tượng nếu mô hình này được nhân rộng, thì giá trị cộng hưởng mà xã hội nhận được sẽ lớn đến mức nào.
+Bám sát theo giá trị cốt lõi nêu trên, team mình quyết định sẽ cho phát hành free ra cộng đồng sử dụng phiên bản classification của dự án. Các phiên bản nâng cấp sao sẽ tính phí 1 lần để team có động lực phát triển thêm nhiều tính năng cao cấp hơn.
+Hiện tại EZAI đang được launch trên producthunt, nếu chưa có nhu cầu sử dụng thì cũng xin cộng đồng 1 upvote để team có động lực hoàn thiện sản phẩm hơn. https://www.producthunt.com/posts/ezai
+Bạn có thể download EZAI tại website: www.AIfor.study
+#bipvn"

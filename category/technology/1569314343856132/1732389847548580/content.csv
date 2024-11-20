@@ -1,0 +1,13 @@
+﻿post_id,user_id,user_name,fullname,content
+1732389847548580,,datumai.enthusiast,DatumAI Enthusiast,"Chào mọi người,
+Mình đang build một sản phẩm và dự định ở mỗi plan sẽ cho một lượng ""message credits"" cho người dùng. Users có thể dùng credits này cho việc chat, hoặc chạy các AI flows trong app này.
+Mình kì vọng quản lý và estimate được lượng tokens và chi phí tương ứng khi sử dụng hình thức này, nhưng chưa thực sự biết nên làm thế nào cho hợp lý, do đó muốn tham khảo ý kiến các cao nhân và anh/chị/bạn có kinh nghiệm.
+Cụ thể:
+- Model cho user dùng với free message credits (ví dụ Claude 3 Haiku) host ở Amazon Bedrock. User dùng thông qua quyền truy cập của mình.
+- Mình mong muốn cho user khoảng 200 message credits mỗi tháng (ví dụ, tương tự Poe chẳng hạn), mỗi message credits được tính là 1 lần user hỏi và model response.
+- Cách tiếp cận của mình hiện tại là ước lượng số lượng tokens trung bình cho mỗi input từ user và output của model, rồi nhân với giá token (Bedrock pricing).
+- Tuy nhiên, trong một cuộc trò chuyện thông qua một chatbot thì model còn dùng tokens để hiểu ngữ cảnh (conversation context hoặc in-session memory). Còn khi model được dùng trong AI flow thì còn tốn token cho ""thinking"" và ""tool call"".
+- Khi user dùng credits thì mình đo và báo ""còn bao nhiêu credits"" hay ""đã dùng bao nhiêu credits"" hay ""hành động này sẽ tốn bao nhiêu credits"" thế nào?
+Với những câu hỏi trên, mình chưa biết nên estimate phần chi phí cho phần này thế nào, và cách tiếp cận/suy nghĩ của mình hiện tại có hợp lý không. Mong nhận được đóng góp và hướng dẫn của cả nhà, hoặc keywords/link nguồn để đọc/xem và học theo mình chân thành cám ơn và xin phép học hỏi ạ! Cảm ơn admin đã duyệt bài.
+(Hình minh họa: points/credits của Poe)
+#buildinpublicvn #bipvn_ask"
