@@ -1,0 +1,12 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1732905140830384,1732903877497177,,hanachacha84,Trương Hoàng Phúc,Kiểu này thì dùng mấy cái như daisyui là đc mà bác
+1732928574161374,1732903877497177,,dinhkhanh.me,Đình Khánh,Vậy sao ko dùng mấy opinated lib dạng như bootstrap nhỉ
+1732911277496437,1732903877497177,100090492374485,,Lê Khánh,Hóng giải pháp nhưng nó dài cũng là có lý do để phù hợp với nhiều trường hợp
+1732942040826694,1732903877497177,,daoviet.phuong.3,Dao Viet Phuong,Hạn ngắn thế không biết làm được bao nhiêu bác. Em mà bày ra lại mất nửa năm.
+1732909714163260,1732903877497177,,pchoanganh,Pc HoangAnh,Lấy 0$
+1732918134162418,1732903877497177,,hanhecomkey,Cao Van Hanh,"Tailwind và 1 vài config ban đầu, vài prompt cơ bản ban đầu cho gpt e nghĩ cũng ok mà ^^
+Với lại định nghĩa tự động đẹp mỗi ng khác nhau lắm nên là cứ dùng @apply của tailwind cho nó đỡ đau đầu kk ^^"
+1732906084163623,1732903877497177,100089726256821,,Hai Ba Lạng,"hoặc bắn ngay $100 nếu bác nào có giải pháp
+1/ prompt,
+2/ dùng library có sẵn,
+3/ có thể dùng không cần build step (css) hoặc chạy với esbuild (browser, ko trên máy)"

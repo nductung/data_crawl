@@ -1,0 +1,19 @@
+﻿post_id,user_id,user_name,fullname,content
+1732903877497177,100089726256821,,Hai Ba Lạng,"#buildinpublic
+fund bạn nào làm open source ui lib cho llm dùng
+budget: $500-$1000 trong 2-4 tuần
+bạn sẽ giữ toàn bộ copyright (ko dính dáng đến mình)
+vấn đề là không có bộ ui đẹp, chuẩn, gọn nhẹ cho llm dùng
+ví dụ: button (tự động đẹp)
+<button primary={true} />
+không phải, (wtf) @@
+<button type=""button"" class=""text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"">Default</button>
+vì mình nghĩ sẽ lợi ích cho cộng đồng
+nếu bạn thiết kế đẹp và hợp lý thì sẽ nhận được offer ngon
+yêu cầu là
+dễ cho llm dùng, docs rõ ràng (theo chuẩn llms.txt)
+dễ cho dev dùng, hợp lý, thay theme dễ (css variables)
+publish lên cdn 1 cục (big css file) hoặc hỗ trợ treeshaking
+tập trung vào các ui element phổ biến, rồi mở rộng sau
+gửi design proposal nhé, đừng dm ko
+hạn chót cuối tuần, không ai làm thì tuần sau mình tự làm 😂"
