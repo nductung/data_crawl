@@ -1,0 +1,24 @@
+﻿post_id,user_id,user_name,fullname,content
+1733561680764730,100089726256821,,Hai Ba Lạng,"#buildinpublic
+
+[Alpha Launch] Appifacts v0.1 - App Faster Than Search (aka Junior Dev Killer 🤪)
+Mời đồng dev trải nghiệm cách build app năm 2025, thích nghi hoặc nguy cơ bị giảm lương/sa thải.
+Dành cho bạn có nhu cầu (kể cả non-dev):
+Muốn tạo mini app nhanh chóng
+Cần một công cụ nội bộ cho công ty
+Muốn làm UI để test API
+Biến mockup thành UI hoàn chỉnh
+Tạo MVP để kiểm thử ý tưởng
+
+---
+Mình mạnh miệng tuyên bố 2025 bạn sẽ nghe nhiều về On-demand/Just in time app.
+
+Bạn đã bao giờ thắc mắc, làm thế nào một ông dev hay designer 30 tuổi ở trụ sở Apple có thể viết app cho một bà cô 50 tuổi ở phường 7, quận 9 HCM dùng?
+Thực ra là không thể, vì 9 người 10 ý mà. Họ chỉ làm được chung chung thôi, vì theo định luật Pareto 20-80.
+Nhưng thời thế đã thay đổi. Thay vì phải thiết kế cho cả 9 người, giờ bạn chỉ cần cung cấp API và Just-in-time UI, cho phép người dùng tự tùy biến UI và workflow theo ý họ. Bạn không cần phải đau đầu với việc center div, chọn màu nút hay viết label rõ ràng.
+
+---
+Đây là bản alpha v0.1 (đã có thể one shot nhiều app và tool, và few shot với chat). Hướng dẫn đã có sẵn trên app. Bạn có thể dùng free api key của mình hoặc dùng BYOK của bạn.
+Cần gì cứ comment, mình trả lời hết!
+
+Link: https://appifacts.nocappage.com/"

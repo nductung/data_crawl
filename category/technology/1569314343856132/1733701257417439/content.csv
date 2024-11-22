@@ -1,0 +1,28 @@
+﻿post_id,user_id,user_name,fullname,content
+1733701257417439,,huynhnhanquoc,Huỳnh Nhân Quốc,"Chào mọi người,
+Mình rất vui khi được tham gia group và có cơ hội chia sẻ bài viết đầu tiên của mình tại đây.
+Trước đây, mình từng phát triển khá nhiều dự án cá nhân, nhưng thành thật mà nói, mình chưa từng thực sự đánh giá đúng giá trị của chúng. Chỉ khi tham gia vào group, mình mới gặp được những người bạn đồng hành có chung chí hướng và truyền cảm hứng, giúp mình hiểu rõ hơn về ý nghĩa thực sự của công việc mình làm.
+GIỚI THIỆU BẢN THÂN
+Hiện tại, mình là một lập trình viên Full-stack với chuyên môn chính là Golang và vanilla JavaScript. Với những kinh nghiệm tích lũy được, mình đã phát triển một số dự án nhỏ, tập trung vào các ứng dụng thực tế để giải quyết nhu cầu hàng ngày của bản thân cũng như những người xung quanh.
+Một trong những dự án mình tâm đắc nhất chính là kitsend.com – một nền tảng cho phép gửi file giữa các thiết bị như điện thoại, máy tính hoặc giữa các hệ điều hành khác nhau (ví dụ: iOS sang Android, iOS sang Windows) theo hình thức peer-to-peer (P2P).
+TẠI SAO MÌNH PHÁT TRIỂN DỰ ÁN NÀY?
+Chắc hẳn không ít người từng rơi vào tình huống cần chuyển file nhanh giữa các thiết bị nhưng lại gặp khó khăn do sự khác biệt về hệ điều hành hoặc không muốn phụ thuộc vào các nền tảng trung gian như email hay ứng dụng nhắn tin.
+Ngoài ra, nhiều công cụ chuyển file phổ biến hiện nay yêu cầu lưu trữ dữ liệu trên server trung gian. Điều này không chỉ làm chậm quá trình truyền file mà còn tiềm ẩn rủi ro rò rỉ thông tin cá nhân.
+Với những vấn đề đó, mình đã xây dựng kitsend.com với mục tiêu tạo ra một công cụ:
+Nhanh chóng: File được truyền trực tiếp giữa các thiết bị mà không cần qua server trung gian.
+Bảo mật: Dữ liệu không lưu trữ trên bất kỳ server nào, giúp giảm thiểu nguy cơ rò rỉ thông tin.
+Đơn giản và tiện lợi: Hoạt động trực tiếp trên trình duyệt web, hỗ trợ cả máy tính và điện thoại mà không cần cài đặt ứng dụng.
+NHỮNG ĐIỀU MÌNH HỌC ĐƯỢC
+Trong quá trình phát triển kitsend.com, mình nhận ra rằng thành công của một sản phẩm không chỉ phụ thuộc vào việc hoàn thiện các tính năng kỹ thuật mà còn phải xuất phát từ sự thấu hiểu nhu cầu thực tế của người dùng.
+Việc áp dụng công nghệ WebRTC để xây dựng kết nối peer-to-peer giữa các thiết bị đã mang đến cho mình nhiều bài học quý giá, từ cách tối ưu hóa hiệu suất truyền tải đến việc đảm bảo bảo mật trong kết nối.
+MỤC TIÊU TRONG TƯƠNG LAI
+Dự án kitsend.com vẫn đang trong quá trình hoàn thiện. Trong thời gian tới, mình dự định sẽ phát triển thêm:
+Hỗ trợ gửi file dung lượng lớn hơn mà vẫn đảm bảo tốc độ và tính ổn định.
+Cải thiện giao diện người dùng, giúp thao tác dễ dàng và thân thiện hơn.
+Tăng cường mã hóa dữ liệu để đảm bảo an toàn tối đa cho người dùng.
+Khắc phục các lỗi còn tồn đọng trong quá trình hoạt động.
+LINK DỰ ÁN VÀ PHẢN HỒI TỪ MỌI NGƯỜI
+Mọi người có thể trải nghiệm công cụ tại: https://s.kiturl.vn/kitsend (Link được rút gọn bằng công cụ do mình tự phát triển dùng để đo lường traffic, mình sẽ chia sẻ về nó ở bài viết sau).
+Mình rất mong nhận được sự góp ý và chia sẻ từ các anh chị em trong group để giúp kitsend.com trở thành một công cụ hoàn thiện và hữu ích hơn cho cộng đồng.
+Cảm ơn mọi người đã dành thời gian đọc bài viết của mình. ❤️
+#buildinpublic"
