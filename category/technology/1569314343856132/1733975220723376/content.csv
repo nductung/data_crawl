@@ -1,0 +1,22 @@
+﻿post_id,user_id,user_name,fullname,content
+1733975220723376,,tctien342,Trần Công Tiến,"Chào mọi người
+
+Thấy anh em active quá, mình cũng muốn khoe thành quả sau mấy tháng ngồi code. Đây là một con app opensource hỗ trợ gen ảnh với backend là ComfyUI.
+
+Bối cảnh
+Mục đích mình làm app này là vì mình có 2 server gen ảnh đang chạy ComfyUI và share cho anh em nhà cùng xài, nhưng hầu hết anh em lại tập trung vào gen trên 1 server, khiến server còn lại bị nhàn rỗi và không tận dụng được tối đa tài nguyên. Cộng thêm các workflow của ComfyUI khá rối mắt, nên mình quyết định làm con app này.
+
+Sơ lược các chức năng:
+Cân bằng tải các job về các node ComfyUI.
+Map các workflow về các trường input/output để dễ sử dụng.
+Tạo tài khoản, phân quyền, ưu tiên account, cấp credit chạy ảnh.
+Hỗ trợ repeat giúp chạy một job nhiều lần; dùng một workflow với repeat 5 lần, hệ thống sẽ tự random seed và tạo sub-task để chạy lại => tạo album ảnh.
+Hỗ trợ chạy hàng loạt ảnh đầu vào (workflow chỉ hỗ trợ input một ảnh, nhưng kéo nhiều ảnh vào sẽ tự tạo sub-task để chạy hàng loạt).
+Hỗ trợ PWA, cho phép lưu thành app trên điện thoại.
+Quá trình thực hiện:
+Tìm kiếm thư viện, SDK để tương tác với server ComfyUI nhưng không tìm được thứ phù hợp, nên mình đã build một em SDK riêng cho nó: https://github.com/tctien342/comfyui-sdk
+Sau khi có thư viện ngon lành, mình tiến hành build app với combo NextJS và tRPC, và đây là thành quả như hình dưới 💪
+https://github.com/tctien342/comfy-station
+Anh em nào thích test thử mình pm mình send account test nhé 🥳
+
+#buildinpublicvn #buildinpublic #indiehackers"
