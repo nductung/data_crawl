@@ -1,0 +1,54 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1760360424764215,1759649718168619,,d.tuan51,Đinh Anh Tuấn,"Để tính chi phí đun sôi 2 lít nước mỗi ngày, chúng ta cần xem xét chi phí nước và gas. Dưới đây là cách tính chi tiết:
+
+1. Chi phí nước:
+• Lượng nước sử dụng: 2 lít/ngày x 30 ngày = 60 lít/tháng (tương đương 0,06 m³).
+• Giá nước sinh hoạt tại Hà Nội: Theo Quyết định 3541/QĐ-UBND ngày 07/7/2023, từ ngày 01/01/2024, giá nước cho hộ dân cư là 8.500 đồng/m³ cho 10 m³ đầu tiên mỗi tháng. ￼
+• Chi phí nước hàng tháng: 0,06 m³ x 8.500 đồng/m³ = 510 đồng.
+
+2. Chi phí gas:
+• Năng lượng cần thiết để đun sôi 2 lít nước:
+• Nhiệt dung riêng của nước: 4.186 J/g°C.
+• Khối lượng nước: 2.000 g.
+• Chênh lệch nhiệt độ: (100°C - 25°C) = 75°C (giả sử nhiệt độ nước ban đầu là 25°C).
+• Năng lượng cần thiết: 4.186 J/g°C x 2.000 g x 75°C = 627.900 J (tương đương 627,9 kJ).
+• Hiệu suất bếp gas: Khoảng 60% (0,6).
+• Năng lượng thực tế cần từ gas: 627,9 kJ / 0,6 = 1.046,5 kJ.
+• Năng lượng cung cấp bởi 1 kg gas: Khoảng 45.500 kJ.
+• Lượng gas tiêu thụ mỗi lần đun: 1.046,5 kJ / 45.500 kJ/kg ≈ 0,023 kg.
+• Lượng gas tiêu thụ hàng tháng: 0,023 kg x 30 ngày = 0,69 kg.
+• Giá gas: Giả sử giá gas là 410.000 đồng/bình 12 kg (theo giá gas Petrolimex tại Hà Nội). ￼
+• Giá 1 kg gas: 410.000 đồng / 12 kg ≈ 34.167 đồng/kg.
+• Chi phí gas hàng tháng: 0,69 kg x 34.167 đồng/kg ≈ 23.575 đồng.
+
+3. Tổng chi phí hàng tháng:
+• Chi phí nước: 510 đồng.
+• Chi phí gas: 23.575 đồng.
+• Tổng cộng: 510 đồng + 23.575 đồng = 24.085 đồng.
+
+Lưu ý:
+• Các con số trên chỉ mang tính chất ước lượng.
+• Hiệu suất bếp gas và giá gas có thể thay đổi tùy thuộc vào thiết bị và thời điểm.
+• Giá nước có thể khác nhau dựa trên mức tiêu thụ tổng cộng của gia đình.
+
+Hy vọng thông tin này giúp bạn hiểu rõ hơn về chi phí đun sôi nước hàng ngày."
+1760363114763946,1759649718168619,,gautruc.vosu,Don Phan,Đun uống nc sôi sao ko mua nc khoáng uống
+1760370394763218,1759649718168619,100008336525447,,Trần Hoàn,Mang đến cơ quan/ lớp học mà đun điện 🐧khỏi phải tính
+1760372911429633,1759649718168619,,quy.nho.14,Mạnh Hùng-xiaogui,Mình dùng ấm đun nước siêu tốc được rồi đỡ tốn ga bác
+1760365008097090,1759649718168619,,vumanhquan047,Vũ Mạnh Quân,"Không biết khu vực các bác như nào chứ chỗ em đun nước sôi uống không quen rất khó chịu, không hẳn là mùi clo hay gì mà mùi y đúc nước giếng lên ấy."
+1760379801428944,1759649718168619,,anhduongphuong,Ánh Dương,"Cho 1 bài toán xài ấm siêu tốc Xiaomi 1800w, nếu 10 phút sối 2 lít nước. Thì 1,8kw/h -> 10 phút tốn 300w."
+1760375091429415,1759649718168619,,namgiang2108,Giang Nam,Mua nước Miru mà uống. Bình 20L có 40k-45k tuỳ nơi bán. Nhà 4 người mà cả tháng hết đâu 3-4 bình gì đó. Miru được các nhà máy Nhật như Canon tin dùng hơn 15 năm nay rồi.
+1760366151430309,1759649718168619,100090875991465,,Thanh Huyền,Sao k mua cái ấm nước mà cắm điện chứ
+1760377354762522,1759649718168619,100015038924268,,Vo Quynh Anh,"T xài bình gas 330k, 3 tháng hết 1 bình. Mỗi ngày nấu 2 ấm nước 4 lít + nấu ăn 2,3 bữa. Vậy mỗi tháng trung bình là 110k.
+Nên chắc lượng nước của bạn như vậy thì tiền mỗi tháng k tới 100k đâu. Ít hơn nhiều."
+1760374944762763,1759649718168619,,jun.3ik,Lâm Nguyễn,"uống nước sôi chỉ để được 1 hôm thôi, mà uống cũng ko ngon bằng, mua nước lọc uống cho để được lâu"
+1760394581427466,1759649718168619,,haiphong.nguyen.12576049,Nguyễn Hải Phong,Nhờ ông bên dưới tính mà từ nay tui siêng nấu nước hơn r. Cám ơn ông nha
+1760395468094044,1759649718168619,,pimptit,Dương Đại Cường,"Tôi dùng máy lọc nước RO tinh khiết.Cần nước nóng tôi cho cốc vào lò vi sóng 15 đến 30s là xong,tiết kiệm chi phí hơn gas nhiều"
+1760393511427573,1759649718168619,,hach2201,Nguyễn Văn Hách,Bác có đi làm công ty không? Nếu có thì chiều rót đầy bình lít rưỡi đỡ phải đun 🤡🤡
+1760372691429655,1759649718168619,100027916359275,,Đặng Xuân Thanh,"b tham khảo nước ion kiềm Foy ấy
+mình dùng bình 20l khá rẻ
+sau bạn đổi bình trừ 20k
+mình ở 2 người dùng nhiều tháng 4-5 bình
+còn bạn dùng ít thì chắc 2-3 bình"
+1760376291429295,1759649718168619,,thanhchuong.quang.52,Võ Văn Quang,Chuẩn bị có mấy thanh niên tư vấn đun bếp điện cho xem. Xong cuối tháng giá x3 ga🤣
+1760367391430185,1759649718168619,100003332702795,,Phạm Minh Thuận,"Quan trọng ở mình hay ở nhà, ở mình thì chịu khó mua bình nước 20L xài cả tháng"

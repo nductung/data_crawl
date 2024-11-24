@@ -1,0 +1,5 @@
+﻿post_id,user_id,user_name,fullname,content
+1759575308176060,,greyncloudy,Phạm Hoàng,"Chào mọi người, trước khi đọc bài này thì em muốn mọi người lưu ý rằng em không hề có chuyên môn gì về IT cả nhé.
+Từ lớp 6 thì em bắt đầu vọc vạch vào file config của nhiều game thế này :v những lúc chỉnh độ phân giải của game xong nó bị khuất mất nút bấm ấy, em toàn phải tìm file config rồi sửa lại phân giải từ trong file đó, cụ thể là ResolutionWidth=1920, ResolutionHeight=1080 thì em vào tự sửa thành 1366 với 768 thôi.
+Em thắc mắc là với phương thức tương tự thì em có thể can thiệp vào đồ hoạ của game không ạ, ví dụ như câu 1,DynamicShadowSetup,rcying,1.50, nếu em sửa đổi thông số nào trong này thì có thể giảm nhẹ đồ hoạ game đi, thấp hơn mức game cho phép trong cài đặt không ạ. Em cảm ơn.
+#Thacmac"
