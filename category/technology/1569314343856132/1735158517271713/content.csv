@@ -1,0 +1,10 @@
+﻿post_id,user_id,user_name,fullname,content
+1735158517271713,,henryonsoftware,Bùi Viết Hướng,"Thấy a/e hype trên AI quá. Mình vẫn đang trung thành với job board nhưng hiện tại thị trường tuyển dụng khá ảm đạm nên tụt mood quá.
+Trong thời gian làm thì phát hiện ra có khá nhiều cty, trang career của họ khá chuối.
+UI tệ, font chữ bể nát.
+Thiếu filters
+Cấu trúc format job không đồng nhất.
+Job rất lâu không update(có job tuyển cả năm k gỡ xuống).
+Đang tính làm 1 OSS có simple UI để HR sử dụng tạo/sửa/xóa tin tuyển dụng, cung cấp APIs để backend các công ty import vô trang của họ.
+A/e thấy sao về việc này? Có điều gì cần lưu ý hoặc giải pháp đã tồn tại rồi k cần build?
+#bipvn #buildinpublic #bipvn_ask"
