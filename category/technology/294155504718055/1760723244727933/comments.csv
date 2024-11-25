@@ -1,1 +1,6 @@
 ﻿comment_id,post_id,user_id,user_name,fullname,content
+1760992021367722,1760723244727933,,lephong.camaptrang,Le Phong,"được và rất đơn giản đó bạn, trong mục edit SSID của con Aruba, mục Client IP assignment --> Virtual Controller managed
+là con Aruba sẻ tự cấp IP theo 1 lớp mạng khác mà không bị Conflict với IP cấp bởi Modem nhà mạng
+
+Chỉ cần chọn option đó xong next -> next -> finish là xong mà không cần phải làm thêm bất kì config hay setup nào khác nữa"
+1761021341364790,1760723244727933,,dangtung6868,Đăng Tùng,được chứ sao
