@@ -1,0 +1,10 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1736418357145729,1736384733815758,,truong.vominh.5,Vo Minh Truong,"Tích hợp làm CMS thư viện infographic với multi data source auto từ các report insight định kỳ (dùng AI cho nó lấý data) có thể embedded cho các presentation, web... Làm branding tốt còn kiếm đc tiền hay không thì mình chưa biết :))"
+1736387577148807,1736384733815758,,kienntk,Kien Nguyen Trung,"Quan điểm cá nhân của anh là sản phẩm nhìn đẹp. Nhưng mà tìm usecase nào để sử dụng nó thì anh chưa biết xài như nào.
+
+Một hướng có thể nghĩ tới là làm các thumbnail cho bài viết mạng xã hội.
+Nhưng nếu làm như vậy, thì cái paint point chính của khách hàng là làm sao tạo content và post trên mạng xã hội nhanh hơn.
+Lúc đó Bentofy chỉ là một khâu trong toàn bộ quá trình.
+
+Nếu là anh, anh sẽ biến nó thành một sản phẩm để giải quyết e2e problem cho users."
+1736394567148108,1736384733815758,,leduycs,Trần Lê Duy,sản phẩm đẹp quá bạn. web bạn chạy client hay server side vậy

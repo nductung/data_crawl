@@ -1,0 +1,11 @@
+﻿post_id,user_id,user_name,fullname,content
+1736384733815758,,hxutixnnn,Nguyễn Hữu Tiền,"Không #launchinpublic nữa :)) Đây là những gì mà mình đang làm thời gian qua
+For context: Bentofy là một nền tảng giúp tạo ra hình ảnh dạng đồ họa thông tin (infographic) sử dụng bento grid.
+Mình đang thử nghiệm tính năng thay đổi layout cho Bentofy:
+Layout sẽ có các option như: 1 box, 2 boxes, 3 boxes,...
+Mỗi layout sẽ có thêm alternative options như: option 1, option 2,... (chỗ này chưa biết đặt tên sao, nhờ mn góp ý giúp 😁)
+Mình sẽ không cho phép người dùng điều chỉnh thay đổi vị trí các box hay phần tử bên trong 1 cách tự do.
+Lí do là vì điều này làm cho thời gian để tạo ra 1 hình ảnh tăng lên rất nhiều -> không còn tiện dụng nữa.
+Mục tiêu của mình là làm cho Bentofy giống như 1 sản phẩm được làm ra bởi Apple (heavily inspired), chỉ việc tùy chỉnh nội dung thôi, phần còn lại Bentofy sẽ lo liệu hết sao cho đẹp nhất.
+Theo ace thì tính năng như vậy có hữu ích không? 🤔
+#buildinpublic #buildinpublicvn "
