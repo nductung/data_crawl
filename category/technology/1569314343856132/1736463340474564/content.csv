@@ -1,0 +1,7 @@
+﻿post_id,user_id,user_name,fullname,content
+1736463340474564,100008076858665,,Nguyễn Quốc Hiếu,"Chào mọi người,
+Em đang làm hệ thống thông báo tự động bằng cách gửi tin nhắn Telegram.
+Em đang thắc mắc về chạy scheduled task trên server. Chạy ở local thì ko sao, nhưng em thấy một số deployment platform (như vercel) không hỗ trợ mạnh cronjob kiểu này, và mỗi platform đều có cronjob riêng.
+Cho em hỏi lý do gì họ phải tạo riêng cron cho riêng hệ thống của họ ạ, giả dụ dùng lib kiểu node-cron, hay mặc định là setInterval() đi thì có sao ko ạ ?
+Trong trường hợp bắt buộc phải dùng Cron riêng của từng platform, hoặc em research thấy có thể dùng cái cron-job.org để nó tự call endpoint của mình dạng API ý, thì có cách nào để cho lúc phát triển dễ dàng hơn không ạ ? Em đang tính đến trường hợp thiết kế config để kiểu lúc development thì vẫn có thể dùng node-cron, nhưng mà có thể switch sang Cron khác chỉ bằng config, ko biết ý kiến mn thế nào ạ.
+Tks mn đã đọc ạ, em background unity mới tìm hiểu phần server này."

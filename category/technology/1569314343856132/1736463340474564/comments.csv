@@ -1,0 +1,22 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1736473577140207,1736463340474564,,minhlu99,Lữ Minh,"các deployment platform thường được phát triển tổng quát để bất kì một công nghệ nào cũng có thể dùng, không bắt buộc phải là node
+nên thường những công nghệ cụ thể (node-cron) sẽ không chạy được, phải tuân theo tiêu chuẩn của họ thì mới được
+Giải pháp:
+- tạo file config với từng platform (vercel-config etc)
+- với những platform hỗ trợ docker, mình tìm hiểu về docker crontab
+- chạy cronjob trong container (không khuyến khích)
+- không nên sử dụng api public để kích hoạt cronjob, có thể sẽ bị lợi dụng để tấn công server"
+1736478427139722,1736463340474564,,huynhtong,Tong Huynh,"Mới bắt đầu thì bác cứ cron-job.org mà dùng, nó hỗ trợ sẵn API để bác có thể đi xa, dùng lâu dài cũng không bao nhiêu tiền nếu thích Premium, thiết kế API endpoints sao cho các cron job chỉ cần gọi endpoint đó với tham số cần thiết.
+
+SetInterval thì chỉ phù hợp khi ứng dụng chạy liên tục, không đảm bảo chính xác tuyệt đối về mặt thời gian.
+
+Node-cron cũng được nhưng cần phải tách logic cron job bằng abstraction layer để dễ thay thế. node-cron mặc dù có thể chạy định kỳ nhưng cũng không hỗ trợ lưu trữ trạng thái job. Khi ứng dụng restart, cron job sẽ không tự động phục hồi.
+
+Khi tự tạo hệ thống cron riêng, bạn có thể kiểm soát được việc lưu trữ trạng thái cron job và phục hồi chúng sau mỗi lần restart, giúp đảm bảo tính liên tục cho ứng dụng.
+
+Góp ý để bác có thêm thông tin để tự tin pt hơn 😃"
+1736467837140781,1736463340474564,100089726256821,,Hai Ba Lạng,"nếu dùng serverless thì thử thằng này (free 5 million requests per month)
+
+cha đẻ của node, tạo deno"
+1736465553807676,1736463340474564,,huyhomie66,Tran Huy,tự host opensource lên là tiết kiệm nhất
+1736477683806463,1736463340474564,,phammnlnalcc,Tiến Dũng Phạm,"Ở local bạn để con nodejs chạy liên tục nên nó sẽ giữ được cái job kia, còn với các hệ thống host web free thì nó sẽ tự động off con nodejs của bạn sau một khoảng thời gian để tối ưu tài nguyên và chỉ bật lên khi có request từ người dùng. Theo mình dùng cronjob thì bạn nên thuê 1 con vps hoặc dùng dịch vụ của nền tảng luôn"

@@ -1,0 +1,7 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1761839811282943,1761757404624517,,d.tuan51,Đinh Anh Tuấn,"Cài win rút gọn nó khổ thế đấy. Phải ấn vào dòng view config kia xem nó báo những lỗi gì, lên google search lỗi đấy để xem cách chỉnh lại trong regedit là được.
+Còn thích nhanh gọn thì cài lại win pro là hết."
+1761872427946348,1761757404624517,,hoangviet.041191,Ngài,Kệ nó đi đâu ảnh hưởng gì đâu
+1761855987947992,1761757404624517,,archmage.xx,Linh Hoàng,"Home thì chính trong Regedit. Pro thì bật Group Policy lên tìm đế mấy cái mục Windows Update này nọ để hết về default.
+Nhanh nhất mà ko muốn mất dữ liệu thì là bung lại cái install esd/wim có win vào folder win (làm trên PE)."
+1761855604614697,1761757404624517,100087105421830,,Trần Thị Bích Trâm,"cài iso gốc Microsoft, win chuẩn, sạch thì ko bị như vậy. Có fix lên đằng giời đi nữa thì win từ đầu đã cài đã vớ vẩn thì cũng vậy thôi"
