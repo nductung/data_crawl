@@ -1,0 +1,32 @@
+﻿post_id,user_id,user_name,fullname,content
+1736590133795218,,phatdat.dev,Nguyễn Đạt,"Chào mọi người, em thấy nhóm mình có những anh/chị làm ra các sản phầm toàn là về AI siêu cấp vip pro nên em cũng hơi ngại, Nay em mạnh dạng xin phép chia sẽ app học sinh của em trong những lúc rảnh rỗi em clone được ạ.
+
+
+Chuyện là em có follow theo anh AlexD trên youtube để truyền động lực học tiếng anh và vô tình biết được 1 trang web khá hay luôn cập nhật những nội dung bài văn, bài viết, tin tức theo từng level.
+
+. Sử dụng vốn từ vựng theo level như thế giúp cho mình dễ đọc, dễ tiếp cận và tự tin hơn 1 phần.
+. Em thấy ứng dụng của trang web đó khá đơn giản nên em có làm ra 1 con app y chang như thế để thuận tiện sử dụng, cải thiện giao diện người dùng.
+. Ứng dụng này hoàn toàn miễn phí và không quảng cáo, em cũng không có ý định kinh doanh từ app này.
+. Data được kết nối và lấy trực tiếp từ chính chủ của web News In Level vì thế nội dung sẽ luôn được cập nhật 1 cách trực tiếp ạ.
+
+Sơ qua về app: “Level Up English” 💖
+Các ""tính năng"" chính:
+Giao diện thân thiện dễ sử dụng
+Các tin tức được cập nhật liên tục theo từng Level của bạn
+Dễ dàng theo dõi lưu lại bài viết với tính năng yêu thích
+Chia sẽ bài lên mạng xã hội của bạn
+Hỗ trợ giọng đọc ngôn ngữ AI 2 chế độ US-UK
+Thoải mái tùy chỉnh âm lượng
+Dễ dàng và tóm tắt lọc ra các từ ""Khó"" trong bài
+Tạo bộ câu hỏi trắc nghiệm bằng AI
+Xem và Comment bài viết
+NewsInLevel-DaysInLevel-VideoInLevel: Chế độ xem ""News"" và ""Days"" Trong phần cài đặt có chổ ""Switch Article Mode""
+Dễ dàng xem và phân loại các tin tức (Categories tab thứ 2 khi chuyển qua lại giữa Days/News)
+Tùy chỉnh được Theme sáng/tối, và màu chủ đạo mong muốn
+Tính năng sẽ phát triển: Học 1000 từ vựng thông qua flashcard
+Tìm kiếm
+
+Hiện tại app đã có trên GoolePlay rồi ạ, em đang tiến hành release ở bên AppleStore, hi vọng mọi người góp ý để cải thiện thêm cho em !.
+Link em xin để ở Comment ạ 👇👇
+
+#LevelUpEnglish"
