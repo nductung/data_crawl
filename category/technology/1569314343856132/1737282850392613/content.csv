@@ -1,0 +1,16 @@
+﻿post_id,user_id,user_name,fullname,content
+1737282850392613,100077324871085,,Tran Bao Phuc,"Sử dụng HSLA + SVG 🎨
+
+Chỉ cần 6 màu HSLA cơ bản (với Hue khác nhau), bạn có thể mở rộng chúng thành hàng trăm biến thể khác nhau chỉ bằng cách tinh chỉnh các thuộc tính như:
+• Độ sáng (lightness)
+• Độ bão hòa (saturation)
+• Độ trong suốt (alpha)
+Điều này giúp mỗi element trong SVG sở hữu một màu sắc độc đáo mà không cần thêm nhiều giá trị màu phức tạp.
+Ứng dụng linh hoạt trong thiết kế
+Với một màu HSLA cơ bản, bạn có thể:
+• Tùy chỉnh viền (border).
+• Tạo gradient  (background gradient).
+• Tô màu SVG theo ý muốn.
+Bằng cách viết một class đơn giản để quản lý các biến thể từ màu HSLA gốc, bạn có thể dễ dàng áp dụng các màu sắc phức tạp trong thiết kế chỉ với vài dòng mã.
+
+Code ở dưới 👇"
