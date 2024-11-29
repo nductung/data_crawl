@@ -1,0 +1,12 @@
+﻿comment_id,post_id,user_id,user_name,fullname,content
+1738074550313443,1738023936985171,,nam.phan.7773,Phan Nam,bác cho e hỏi chút cái video demo này bác làm kiểu gì thế ạ ? :))
+1738029813651250,1738023936985171,100079007344150,,Sơn Võ,"2. Dành cho các anh em đang muốn build SaaS mà chưa biết dùng stack gì. Hãy đứng trên vai người khổng lồ & xài các hạ tầng sẵn có.
+Sơn dùng:
+1. Development: Fullstack Nextjs + Shadcn.
+2. Deployment: Vercel.
+3. Database: Supabase.
+4. Authentication: Supabase hoặc Clerk.
+5. Giấu mọi thứ sau Cloudflare.
+
+Sơn dùng nhiều công nghệ thì thấy stack trên là hợp beginner nhất. Đỡ lo mấy cái hạ tầng. Mình tập trung làm phần ứng dụng thôi."
+1738025843651647,1738023936985171,100079007344150,,Sơn Võ,"1. Dành cho các anh em chưa biết Directory website là gì thì đây là một số ví dụ: https://buildingtools.directorybuilder.co/, https://pmbook.co/ -> các trang này có đặc điểm là Niche, dễ kiếm traffic. Dùng để build audience tốt."
