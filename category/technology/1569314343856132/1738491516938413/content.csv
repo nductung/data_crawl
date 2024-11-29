@@ -1,0 +1,16 @@
+﻿post_id,user_id,user_name,fullname,content
+1738491516938413,100089726256821,,Hai Ba Lạng,"#buildinpublic
+Tạo app train lora chỉ với 2 nhát prompt.
+Đăng lên lấy vía để tối ""Deploy to production on Friday"" 😂
+Video demo: Lora trainer app với Domini
+Goal là giúp mấy bạn tạo app lora trainer:
+1/ để tự bán app theo gói, hoặc
+2/ tự làm dịch vụ train cho khách
+mà không qua các dịch vụ khác như shakker, nocap creator 🥲
+để ẩm trọn khách và tiền
+và không cần chờ dev,
+thích nghịch, tích hợp model hoặc lora tuỳ thích
+---
+Về tech thì mình tích hợp API ở backend, rồi tạo JSDOC thả vào prompt cho qwen nó code.
+Hiện tại chưa tối ưu, bước tiếp theo là hướng dẫn qwen nó dùng sdk client.
+P/S: sorry đồng dev nếu mình phá bỉnh dịch vụ của bạn 😅"
