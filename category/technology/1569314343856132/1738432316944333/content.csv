@@ -1,0 +1,7 @@
+﻿post_id,user_id,user_name,fullname,content
+1738432316944333,,Bcat95,Đôn Anh Nguyễn,"#BuildInPublic #chatbot
+Giới thiệu về chatbot mess mình đang làm và câu hỏi
+Mình có build một tiện ích nhỏ hoàn tiền mua sắm chạy trên nền tảng chatbot của mess
+flow: user gửi link shopee > bot phản hồi link mua sắm > user click vào sẽ mở app shopee > user mua sắm > sau 24H sẽ nhận thông báo đơn hàng ghi nhận
+Mọi thứ okie nhưng từ tháng 6 đến giờ link click từ mess không tự mở app shopee nữa!
+Bác nào biết vấn đề do đâu không?"
